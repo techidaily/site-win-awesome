@@ -1,7 +1,7 @@
 ---
 title: Microsoft Tempted Me Into Creativity with Excel – Here's How![ZDNet]
-date: 2024-09-19 13:25:23
-updated: 2024-09-20 11:18:49
+date: 2024-09-17T16:18:07.968Z
+updated: 2024-09-23T16:34:59.772Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,40 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-advanced-techniques-for-360-video-editing-in-premiere/"><u>[New] 2024 Approved Advanced Techniques for 360° Video Editing in Premiere</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-photographicperfection-how-to-fine-tune-insta-images-and-videos/"><u>[New] PhotographicPerfection How to Fine-Tune Insta Images & Videos</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/12-effective-methods-to-eliminate-obs-streaming-delay-a-comprehensive-guide/"><u>12 Effective Methods to Eliminate OBS Streaming Delay: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/movavi-aacwav/"><u>免費線上改變格式：Movavi為 AAC/WAV 效果提供了如何這樣的轉換方法</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/conversion-libre-de-wav-a-wmv-sur-internet-avec-movavi-guide-detaille-et-facile-dutilisation/"><u>Conversion Libre De WAV À WMV Sur Internet Avec Movavi – Guide Détaillé Et Facile D'utilisation</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/conversione-gratuita-mxf-in-formato-wmv-on-line-utilizzando-movavi-passaggi-essenziali/"><u>Conversione Gratuita MXF in Formato WMV On-Line Utilizzando Movavi - Passaggi Essenziali</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/examining-the-strengths-and-weaknesses-in-free2x-tools/"><u>Examining the Strengths and Weaknesses in Free2X Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/expertise-in-transition-techniques-adobe-edition-for-2024/"><u>Expertise in Transition Techniques, Adobe Edition for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/gratis-wav-to-swf-konverteren-betrouwbare-online-toegang-movavi/"><u>Gratis WAV-to-SWF Konverteren: Betrouwbare Online Toegang - Movavi</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unveiling-the-bestiary-of-top-ios-gif-tools/"><u>In 2024, Unveiling the Bestiary of Top iOS GIF Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/no-cost-solution-the-leading-converters-for-jpeg-to-gifs-for-2024/"><u>No-Cost Solution The Leading Converters for JPEG to GIFs for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/pcx-online-bmp-movavi/"><u>PCX 데이터가 있는 Online 무료 개방형 BMP 형식으로의 바꾸기 - Movavi</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-solution-restoring-facetime-functionality-on-iphones/"><u>Step-by-Step Solution: Restoring FaceTime Functionality on iPhones</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/success-metrics-should-be-tailored-to-reflect-an-organizations-commitment-to-innovation-including-measures-of-idea-generation-and-implementation-successes.m50/"><u>Success Metrics Should Be Tailored to Reflect an Organization's Commitment to Innovation, Including Measures of Idea Generation and Implementation Successes.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-sky-battle-drone-racing-fundamentals-and-top-5-fpv-titans-for-2024/"><u>The Ultimate Sky Battle Drone Racing Fundamentals & Top 5 FPV Titans for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-in-depth-reviews-on-electronic-components-and-gadgets/"><u>Tom's Tech Insights: In-Depth Reviews on Electronic Components & Gadgets</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/top-15-gaming-streaming-services-ultimate-guide/"><u>Top 15 Gaming Streaming Services: Ultimate Guide</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/top-20-gratsky-programovy-nastroj-pro-videoarchivazu-2024-libovolne-pouzdro/"><u>Top 20 Grátský Programový Nástroj Pro Vídeoarchivážu 2024 - Libovolné Pouzdro</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713947904471-updated-tips-for-choosing-location-and-scheduling-music-video/"><u>Updated Tips for Choosing Location & Scheduling Music Video</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

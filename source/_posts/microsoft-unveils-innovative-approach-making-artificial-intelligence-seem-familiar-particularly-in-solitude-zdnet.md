@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Unveils Innovative Approach: Making Artificial Intelligence Seem Familiar, Particularly in Solitude | ZDNet"
-date: 2024-09-19 20:25:47
-updated: 2024-09-20 12:19:48
+date: 2024-09-19T16:47:48.275Z
+updated: 2024-09-23T16:02:39.113Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,35 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-androids-podcast-superheroes/"><u>[New] Android's Podcast Superheroes</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-turn-youtube-shorts-into-a-money-machine-key-requirements-and-income-potential/"><u>[Updated] How to Turn YouTube Shorts Into a Money Machine Key Requirements & Income Potential</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unlocking-your-instagrams-virtual-meet-up-potential-for-2024/"><u>[Updated] Unlocking Your Instagram's Virtual Meet-Up Potential for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-link-mastery-a-roadmap-to-content-marketing-success/"><u>2024 Approved YouTube Link Mastery A Roadmap to Content Marketing Success</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/aprenda-rapidamente-como-modificar-seus-filmes-em-um-iphone-usando-o-guia-facilitado-do-movavi-clips/"><u>Aprenda Rapidamente Como Modificar Seus Filmes Em Um iPhone Usando O Guia Facilitado Do Movavi Clips</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/convert-video-files-free-of-charge-3g2-to-mp4-with-moveavi/"><u>Convert Video Files Free of Charge: 3G2 to MP4 with MoveaVi</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/find-the-best-android-apps-as-a-substitute-for-imovie-top-picks-and-reviews/"><u>Find the Best Android Apps as a Substitute for iMovie – Top Picks and Reviews</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/guide-dinstallation-et-activation-de-movavi-pour-les-utilisateurs-sous-windows-comment-commencer/"><u>Guide D'installation Et Activation De Movavi Pour Les Utilisateurs Sous Windows : Comment Commencer ?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/os-dez-melhores-programas-de-conversao-video-sem-custo-selecao-do-ano-de-2023-2024/"><u>Os Dez Melhores Programas De Conversão Video Sem Custo: Seleção Do Ano De 2023-2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/secrets-to-super-views-hashtag-hacks-for-game-streams/"><u>Secrets to Super Views Hashtag Hacks for Game Streams</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oneplus-11r-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with OnePlus 11R Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/trasforma-mp2-in-mp4-online-e-gratuitamente-con-movavi/"><u>Trasforma MP2 in MP4 Online E Gratuitamente Con Movavi!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-infinix-note-30-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Infinix Note 30 5G to Gmail | Dr.fone</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

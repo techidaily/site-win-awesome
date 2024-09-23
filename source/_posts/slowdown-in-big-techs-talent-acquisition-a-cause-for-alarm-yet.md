@@ -1,7 +1,7 @@
 ---
 title: Slowdown in Big Tech's Talent Acquisition - A Cause for Alarm Yet?
-date: 2024-09-18 10:45:37
-updated: 2024-09-20 10:56:43
+date: 2024-09-20T16:07:20.135Z
+updated: 2024-09-23T16:52:49.039Z
 tags:
   - microsoft
 categories:
@@ -105,11 +105,44 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-chortlechamber-personalize-everyday-humor-online/"><u>[New] ChortleChamber Personalize Everyday Humor Online</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-comprehensive-tutorial-adding-timer-functionality-to-obs/"><u>[New] Comprehensive Tutorial Adding Timer Functionality to OBS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-visionary-composer-sensory-media-masterpiece/"><u>[Updated] In 2024, Visionary Composer Sensory Media Masterpiece</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/12-effective-methods-to-eliminate-obs-streaming-delay-a-comprehensive-guide/"><u>12 Effective Methods to Eliminate OBS Streaming Delay: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/movavi-aacwav/"><u>免費線上改變格式：Movavi為 AAC/WAV 效果提供了如何這樣的轉換方法</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/conversion-libre-de-wav-a-wmv-sur-internet-avec-movavi-guide-detaille-et-facile-dutilisation/"><u>Conversion Libre De WAV À WMV Sur Internet Avec Movavi – Guide Détaillé Et Facile D'utilisation</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/conversione-gratuita-mxf-in-formato-wmv-on-line-utilizzando-movavi-passaggi-essenziali/"><u>Conversione Gratuita MXF in Formato WMV On-Line Utilizzando Movavi - Passaggi Essenziali</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/gratis-wav-to-swf-konverteren-betrouwbare-online-toegang-movavi/"><u>Gratis WAV-to-SWF Konverteren: Betrouwbare Online Toegang - Movavi</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-oneplus-nord-n30-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from OnePlus Nord N30 5G.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/immediate-integration-how-to-access-and-utilize-gpt-4-with-chatgpt/"><u>Immediate Integration: How to Access and Utilize GPT-4 with ChatGPT</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/pcx-online-bmp-movavi/"><u>PCX 데이터가 있는 Online 무료 개방형 BMP 형식으로의 바꾸기 - Movavi</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/premier-mac-programming-options-excluding-bandicam-for-2024/"><u>Premier Mac Programming Options Excluding Bandicam for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/success-metrics-should-be-tailored-to-reflect-an-organizations-commitment-to-innovation-including-measures-of-idea-generation-and-implementation-successes.m50/"><u>Success Metrics Should Be Tailored to Reflect an Organization's Commitment to Innovation, Including Measures of Idea Generation and Implementation Successes.</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/top-20-gratsky-programovy-nastroj-pro-videoarchivazu-2024-libovolne-pouzdro/"><u>Top 20 Grátský Programový Nástroj Pro Vídeoarchivážu 2024 - Libovolné Pouzdro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-the-world-of-haptic-navigation-systems/"><u>Unveiling the World of Haptic Navigation Systems</u></a></li>
+<li><a href="https://os-tips.techidaily.com/why-wont-your-imessages-show-as-delivered-expert-tips-to-resolve-this-common-problem/"><u>Why Won't Your iMessages Show as Delivered? Expert Tips to Resolve This Common Problem</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
