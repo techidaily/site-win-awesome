@@ -1,7 +1,7 @@
 ---
 title: No More Windows 10 Support Extension? Microsoft Discreetly Folds User Aspirations | ZDNET
-date: 2024-09-17T16:43:54.011Z
-updated: 2024-09-23T17:31:26.264Z
+date: 2024-09-24T02:04:36.681Z
+updated: 2024-09-27T22:46:27.332Z
 tags:
   - windows
 categories:
@@ -28,16 +28,10 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 ## How to set up God Mode in Windows 11 
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check your account
@@ -51,13 +45,6 @@ Screenshot by Lance Whitney/ZDNET
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -75,16 +62,10 @@ Double-click the icon, and a window opens with all the available settings. The c
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 5\. Search for a command
@@ -99,6 +80,13 @@ When you see the setting or command you want, simply double-click it to launch i
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 7\. Create a changeable icon for God Mode
 
 With God Mode, you can't see the icon's name or change the image. Here's another option for creating an icon with a viewable name and modifiable image.
@@ -110,18 +98,18 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -166,5 +154,18 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-elevate-your-presence-instagrams-path-to-prominence/"><u>[Updated] 2024 Approved Elevate Your Presence Instagram's Path to Prominence</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-frosty-footage-comprehensive-analysis-and-tutorial-for-ice-cream-cam-for-2024/"><u>[Updated] Frosty Footage Comprehensive Analysis & Tutorial for Ice Cream Cam for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-perfect-your-visuals-on-insta-with-these-borders-for-2024/"><u>[Updated] Perfect Your Visuals on Insta with These Borders for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-twittertunescutter-mp4-and-mp3-extractor-for-2024/"><u>[Updated] TwitterTunesCutter MP4 & MP3 Extractor for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/movaviogmmkv/"><u>「安心して体験: 無料Movaviツールを使用したオンラインOGMファイルからMKVへの効率的な変換」</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-real-vs-counterfeit-deciphering-authentic-youtube-supports/"><u>2024 Approved Real Vs. Counterfeit Deciphering Authentic YouTube Supports</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/como-convertir-archivos-mpeg-a-wmv-online-sin-costo-alguno-con-movavi/"><u>Cómo Convertir Archivos MPEG a WMV Online Sin Costo Alguno Con Movavi</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/conversion-libre-de-avi-en-linea-manten-la-excelente-calidad-sin-costos/"><u>Conversión Libre De AVI en Línea: Mantén La Excelente Calidad Sin Costos</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/convert-mp3-files-to-wma-quickly-with-movavis-free-web-based-audio-tool/"><u>Convert MP3 Files to WMA Quickly with Movavi's Free Web-Based Audio Tool</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/eliminating-kindle-fire-unwanted-advertisements-a-step-by-step-tutorial/"><u>Eliminating Kindle Fire Unwanted Advertisements - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unusual-video-orientation-what-causes-sideway-images-on-instagram/"><u>Unusual Video Orientation What Causes Sideway Images on Instagram</u></a></li>
+</ul></div>
 

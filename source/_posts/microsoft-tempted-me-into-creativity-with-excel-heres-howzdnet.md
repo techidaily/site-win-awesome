@@ -1,7 +1,7 @@
 ---
 title: Microsoft Tempted Me Into Creativity with Excel – Here's How![ZDNet]
-date: 2024-09-17T16:18:07.968Z
-updated: 2024-09-23T16:34:59.772Z
+date: 2024-09-26T18:04:44.453Z
+updated: 2024-09-28T05:12:13.812Z
 tags:
   - microsoft
 categories:
@@ -112,12 +112,33 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-maximizing-efficiency-with-azures-audio-transcription-for-2024/"><u>[Updated] Maximizing Efficiency with Azure's Audio Transcription for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/advanced-techniques-for-360-video-editing-in-premiere-for-2024/"><u>Advanced Techniques for 360° Video Editing in Premiere for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-no-audio-on-windows-7-step-by-step-solutions-for-better-sound-quality/"><u>Fixing No Audio on Windows 7 – Step by Step Solutions for Better Sound Quality</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/free-windows-11-upgrade-period-ended-update-now-with-zdnet/"><u>Free Windows 11 Upgrade Period Ended - Update Now with ZDNet</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-tecno-spark-20-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Tecno Spark 20 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/increase-your-channels-reach-with-these-2-tricks-for-2024/"><u>Increase Your Channel's Reach with These 2 Tricks for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-consoles-why-the-xbox-one-x-leads-the-pack-in-modern-gaming/"><u>Mastering Consoles: Why the Xbox One X Leads the Pack in Modern Gaming</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/microsoft-windows-11-critics-decry-new-release-as-unpopular-is-it-premature/"><u>Microsoft Windows 11: Critics Decry New Release as Unpopular - Is It Premature?</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/preventing-a-digital-catastrophe-insights-from-microsofts-security-forum/"><u>Preventing a Digital Catastrophe - Insights From Microsoft's Security Forum</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/quick-fix-for-sluggish-computers-on-windows-11-unveiling-the-stealthy-app-killing-function-you-need-to-know-about/"><u>Quick Fix for Sluggish Computers on Windows 11: Unveiling the Stealthy App-Killing Function You Need to Know About!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-fortnite-tile-making-hacks-for-2024/"><u>Rapid Fortnite Tile-Making Hacks for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/unveiling-professional-monitor-recording-by-zdsoft-for-2024/"><u>Unveiling Professional Monitor Recording by ZDSoft for 2024</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

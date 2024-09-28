@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 Dilemma: Microsoft Must Fix Major Issues Within a Year – Insights From ZDNet"
-date: 2024-09-20T16:29:23.419Z
-updated: 2024-09-23T17:41:28.025Z
+date: 2024-09-25T05:12:09.955Z
+updated: 2024-09-27T22:41:13.294Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,13 +95,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +129,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +148,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -194,5 +206,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-supercharging-video-views-fbs-secrets-revealed/"><u>[New] Supercharging Video Views FB's Secrets Revealed</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1726222312185-wmvmpeg-movavi/"><u>直接在線WMV到MPEG轉換器免費 - Movavi 移動影片工具</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/conversion-vod-libre-de-lmpeg-a-vob-sur-internet-convertisseur-gratuit/"><u>Conversion VOD Libre De L'MPEG À VOB Sur Internet - Convertisseur Gratuit</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/discover-the-leading-no-cost-photo-editor-apps-for-mac-a-comprehensive-guide-beyond-movavi/"><u>Discover the Leading No-Cost Photo Editor Apps for Mac: A Comprehensive Guide Beyond Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-tutorial-for-creating-restoration-points-in-windows-7/"><u>Easy Tutorial for Creating Restoration Points in Windows 7</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-ntfssys-failed-bsod-error-in-windows-11/"><u>How To Fix Ntfs.sys Failed BSOD Error In Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-obscurity-to-prominence-how-to-thrive-in-youtube-streaming/"><u>In 2024, From Obscurity to Prominence How to Thrive in Youtube Streaming</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-honor-100-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Honor 100 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Pokémon Go Cooldown Chart On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-complete-ginger-island-in-stardew/"><u>The Complete Ginger Island in Stardew</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/transformation-de-fichier-audio-aac-vers-mp4-gratuite-en-ligne-utilisation-de-la-solution-movavi/"><u>Transformation De Fichier Audio AAC Vers MP4 Gratuite en Ligne - Utilisation De La Solution Movavi</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/understanding-korean-your-portal-into-squid-game/"><u>Understanding Korean: Your Portal Into Squid Game</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1726220094632-aviaac-movavi/"><u>오피스에서 AVI/AAC 파일을 무료로 바꾸는 방법 - Movavi</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/online-flac-to-wav-movavi/"><u>툴라 이미지 포맷터를 사용한 Online 무료 FLAC to WAV 전환 - MOVAVI</u></a></li>
+</ul></div>
 

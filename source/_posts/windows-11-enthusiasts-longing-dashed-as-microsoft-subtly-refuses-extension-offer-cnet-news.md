@@ -1,7 +1,7 @@
 ---
 title: Windows 11 Enthusiasts' Longing Dashed as Microsoft Subtly Refuses Extension Offer | CNET News
-date: 2024-09-18T16:17:46.933Z
-updated: 2024-09-23T16:00:39.915Z
+date: 2024-09-24T03:38:57.555Z
+updated: 2024-09-27T20:51:58.806Z
 tags:
   - windows
 categories:
@@ -27,6 +27,13 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -34,10 +41,10 @@ First, make sure you're signed into your Windows 11 PC with an account that has 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Create a new folder
@@ -55,13 +62,6 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
@@ -73,6 +73,13 @@ Screenshot by Lance Whitney/ZDNET
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -91,31 +98,24 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -154,5 +154,22 @@ Screenshot by Lance Whitney/ZDNET
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-channel-milestone-hurdle-cross-the-10k-view-threshold-fast/"><u>[New] 2024 Approved Channel Milestone Hurdle – Cross the 10K View Threshold Fast</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/capturing-clarity-ranking-5-excellent-live-stream-devices/"><u>Capturing Clarity Ranking 5 Excellent Live Stream Devices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dji-mavic-pro-review-a-new-era-of-aerial-photography/"><u>DJI Mavic Pro Review A New Era of Aerial Photography</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/frame-by-frame-flair-edits-that-captivate-viewers-for-2024/"><u>Frame-by-Frame Flair Edits That Captivate Viewers for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/get-access-now-free-online-course-downloads-from-cybrary/"><u>Get Access Now: Free Online Course Downloads From Cybrary</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/get-your-fix-of-channel-ten-shows-with-the-fast-track-video-reader/"><u>Get Your Fix of Channel Ten Shows with the Fast Track Video Reader!</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/high-quality-erotic-movie-downloads-avi-and-mp4-for-pcmac-users-unlimited-collection/"><u>High-Quality Erotic Movie Downloads (AVI & MP4) for PC/Mac Users – Unlimited Collection</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-to-convert-your-favorite-shows-and-videos-into-mp4-format-for-pcs-and-macs/"><u>How To Convert Your Favorite Shows & Videos Into MP4 Format for PCs and Macs</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-to-legally-acquire-and-convert-popular-trainmaster-shows-for-offline-viewing-in-mp4-mov-and-avi-files/"><u>How to Legally Acquire and Convert Popular Trainmaster Shows for Offline Viewing in MP4, MOV & AVI Files</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-to-save-adobe-photoshop-tutorials-from-dekes-website/"><u>How to Save Adobe Photoshop Tutorials From Deke's Website</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-to-save-yahoo-japans-gyao-video-content-in-various-formats-like-mp4movavi-on-windowsmac-os/"><u>How to Save Yahoo Japan's GYAO Video Content in Various Formats Like MP4/MOV/AVI on Windows/Mac OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-ace-meetings-integrating-filters-to-stand-out-on-zoom/"><u>In 2024, Ace Meetings Integrating Filters to Stand Out on Zoom</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-streamlining-your-youtube-views-a-guide-to-blocking-advertisements/"><u>In 2024, Streamlining Your YouTube Views A Guide to Blocking Advertisements</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-airdrops-how-they-work-in-the-cryptocurrency-world/"><u>Understanding Airdrops: How They Work in the Cryptocurrency World</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/wav-versus-mp3-comparing-audio-formats-determining-quality-and-compatibility/"><u>WAV versus MP3: Comparing Audio Formats - Determining Quality and Compatibility</u></a></li>
+</ul></div>
 

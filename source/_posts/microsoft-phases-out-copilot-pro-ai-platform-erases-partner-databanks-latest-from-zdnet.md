@@ -1,7 +1,7 @@
 ---
 title: Microsoft Phases Out Copilot Pro AI Platform, Erases Partner Databanks | Latest From ZDNET
-date: 2024-09-20T17:51:51.337Z
-updated: 2024-09-23T16:30:18.458Z
+date: 2024-09-24T19:41:33.422Z
+updated: 2024-09-28T06:12:10.634Z
 tags:
   - microsoft
 categories:
@@ -112,12 +112,29 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-mastering-the-art-of-deleting-discord-servers/"><u>[New] Mastering the Art of Deleting Discord Servers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-7-budget-friendly-high-res-4k-cameras/"><u>[New] Top 7 Budget-Friendly High-Res 4K Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-recording-power-20plus-best-practices-for-skype-chats-on-windowsmac-pcs/"><u>[Updated] 2024 Approved Recording Power 20+ Best Practices for Skype Chats on Windows/Mac PCs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-video-mastery-start-here-essential-seo-gadgets/"><u>2024 Approved Video Mastery Start Here - Essential SEO Gadgets</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/advanced-pro-dashboard-with-premium-tailwind-and-nextjs-by-creative-tim/"><u>Advanced Pro Dashboard with Premium Tailwind & Next.js by Creative Tim</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/can-flipbuilder-showcase-limited-page-previews-for-easy-selection/"><u>Can FlipBuilder Showcase Limited Page Previews for Easy Selection?</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/effortless-conversion-of-cnbc-videos-get-your-favorites-in-mp4-wmv-or-avi-format/"><u>Effortless Conversion of CNBC Videos - Get Your Favorites in MP4, WMV or AVI Format</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/effortless-video-extraction-convert-and-save-spiegel-content-as-mp4movavi/"><u>Effortless Video Extraction: Convert and Save Spiegel Content as MP4/MOV/AVI</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/free-download-comprehensive-bloomberg-market-insights-and-analysis-on-tech-innovations-political-developments/"><u>Free Download: Comprehensive Bloomberg Market Insights & Analysis on Tech, Innovations, Political Developments</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/get-access-now-free-online-course-downloads-from-cybrary/"><u>Get Access Now: Free Online Course Downloads From Cybrary</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/get-your-fix-of-channel-ten-shows-with-the-fast-track-video-reader/"><u>Get Your Fix of Channel Ten Shows with the Fast Track Video Reader!</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/high-quality-erotic-movie-downloads-avi-and-mp4-for-pcmac-users-unlimited-collection/"><u>High-Quality Erotic Movie Downloads (AVI & MP4) for PC/Mac Users – Unlimited Collection</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Honor Play 7T? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1726028106062-movwav/"><u>MOV動画から直接WAVオーディオ抽出方法【変換ガイド】</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-best-text-to-audio-converters-of-all-times/"><u>Updated In 2024, Best Text-to-Audio Converters of All Times</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

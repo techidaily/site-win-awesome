@@ -1,7 +1,7 @@
 ---
 title: "Securing Your Microsoft Account: Essential Tips to Protect Against Cyber Threats"
-date: 2024-09-16T17:00:13.318Z
-updated: 2024-09-23T17:32:12.202Z
+date: 2024-09-25T01:07:57.847Z
+updated: 2024-09-27T21:29:46.680Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,22 +135,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -194,5 +200,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-discover-unlimited-stories-free-extensions-and-mobile-marvels/"><u>[New] 2024 Approved Discover Unlimited Stories – FREE Extensions & Mobile Marvels</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-pinterest-a-players-sharing-snapchat-stories/"><u>[New] Pinterest A-Players Sharing Snapchat Stories</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-perfect-process-for-embedding-youtube-playlists-on-websites-efficiently/"><u>[Updated] Perfect Process for Embedding YouTube Playlists on Websites Efficiently</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ranked-elite-12-best-camcorders-sporting-gps-mapping-technology-for-2024/"><u>[Updated] Ranked Elite 12 Best Camcorders Sporting GPS Mapping Technology for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-vivo-y17s-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/exploring-mirillis-recognitions-and-critiques/"><u>Exploring Mirillis' Recognitions & Critiques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/flawless-streams-instant-fix-needed/"><u>Flawless Streams, Instant Fix Needed</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/get-the-latest-screen-and-gameplay-capture-app-featuring-intel-realsense-technology/"><u>Get the Latest Screen & Gameplay Capture App Featuring Intel RealSense Technology!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-innovating-for-success-crafting-an-effective-instagram-video-marketing-blueprint/"><u>In 2024, Innovating for Success Crafting an Effective Instagram Video Marketing Blueprint</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/master-live-stream-gaming-and-pc-monitoring-comprehensive-video-walkthrough-guides/"><u>Master Live Stream Gaming & PC Monitoring: Comprehensive Video Walkthrough Guides</u></a></li>
+<li><a href="https://review-topics.techidaily.com/nokia-c12-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Nokia C12 Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/streamcloud-downloads-convert-and-save-movies-in-multiple-formats-including-mp4-avi-and-more/"><u>StreamCloud Downloads - Convert & Save Movies in Multiple Formats Including MP4, AVI, and More!</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/the-ultimate-tutorial-on-downloading-howstuffworks-tv-episodes-in-various-video-codecs-such-as-mp4-avi-and-mov/"><u>The Ultimate Tutorial on Downloading HowStuffWorks TV Episodes in Various Video Codecs Such as MP4, AVI & MOV</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/top-reliable-downloaders-effective-substitutes-for-freemake-on-mac-and-pc/"><u>Top Reliable Downloaders: Effective Substitutes for FreeMake on Mac & PC</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/transferring-your-favorite-youtube-videos-into-windows-movie-maker-a-step-by-step-guide/"><u>Transferring Your Favorite YouTube Videos Into Windows Movie Maker: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

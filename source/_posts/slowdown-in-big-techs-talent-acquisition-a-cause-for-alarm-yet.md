@@ -1,7 +1,7 @@
 ---
 title: Slowdown in Big Tech's Talent Acquisition - A Cause for Alarm Yet?
-date: 2024-09-20T16:07:20.135Z
-updated: 2024-09-23T16:52:49.039Z
+date: 2024-09-26T16:42:50.242Z
+updated: 2024-09-28T00:03:06.838Z
 tags:
   - microsoft
 categories:
@@ -112,18 +112,31 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-leaderboard-best-following-drone-technology/"><u>[New] 2024 Approved Leaderboard Best-Following Drone Technology</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-from-novice-to-master-the-ultimate-periscope-handbook/"><u>[New] In 2024, From Novice to Master The Ultimate Periscope Handbook</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-step-by-step-guide-using-nvidia-recorder/"><u>[New] Step-by-Step Guide Using NVIDIA Recorder</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-enhancing-drones-techniques-in-video-post-production-for-2024/"><u>[Updated] Enhancing Drones Techniques in Video Post-Production for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-videos-sequentially-for-free-youtube-guide/"><u>[Updated] Navigating Videos Sequentially for Free - YouTube Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-swiftly-rotate-videos-in-vlc-for-smooth-viewing/"><u>2024 Approved Swiftly Rotate Videos in VLC for Smooth Viewing</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/avoid-the-hurdles-of-windows-11-update-a-user-friendly-guide-to-enhance-your-pcs-performance-zdnet/"><u>Avoid the Hurdles of Windows 11 Update - A User-Friendly Guide to Enhance Your PC's Performance | ZDNet</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/experience-improved-durability-on-your-surface-duo-2-with-the-new-pen-cover-and-wireless-charging-capabilities-zdnet-exclusive-test/"><u>Experience Improved Durability on Your Surface Duo 2 with the New Pen Cover and Wireless Charging Capabilities - ZDNet Exclusive Test!</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/get-your-professional-microsoft-project-and-visio-licenses-today-at-only-20-special-deal-from-zdnet/"><u>Get Your Professional Microsoft Project & Visio Licenses Today at Only $20 - Special Deal From ZDNet!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-your-obs-microphone-problems-top-6-tips/"><u>How to Resolve Your OBS Microphone Problems – Top 6 Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-infinix-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Infinix Phone Pattern Lock</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/insightful-conversation-with-ulf-persson-ceo-of-abbyy-an-exclusive-tech-interview/"><u>Insightful Conversation with Ulf Persson, CEO of ABBYY - An Exclusive Tech Interview</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/microsoft-to-do-evaluation-is-this-task-management-tool-overwhelming-users-techspot/"><u>Microsoft To Do Evaluation: Is This Task Management Tool Overwhelming Users? | TechSpot</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/new-microsoft-announcement-pay-for-updates-coming-what-it-costs-you/"><u>New Microsoft Announcement: Pay-for-Updates Coming - What It Costs You</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/paying-for-windows-10-updates-microsoft-announces-new-fees-starting-next-year-what-you-need-to-know/"><u>Paying for Windows 10 Updates: Microsoft Announces New Fees Starting Next Year – What You Need to Know</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/revolutionizing-the-arm-landscape-exciting-new-microsoft-windows-applications-set-to-launch/"><u>Revolutionizing the ARM Landscape: Exciting New Microsoft Windows Applications Set to Launch</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-capturing-your-google-hangouts-on-video-comprehensive-how-to/"><u>Step-by-Step Guide: Capturing Your Google Hangouts on Video – Comprehensive How-To</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

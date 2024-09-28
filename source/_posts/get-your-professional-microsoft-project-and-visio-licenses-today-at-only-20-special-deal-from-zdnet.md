@@ -1,7 +1,7 @@
 ---
 title: Get Your Professional Microsoft Project & Visio Licenses Today at Only $20 - Special Deal From ZDNet!
-date: 2024-09-17T16:59:35.068Z
-updated: 2024-09-23T16:44:44.187Z
+date: 2024-09-25T17:55:39.721Z
+updated: 2024-09-27T20:08:34.305Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -129,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +136,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -159,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -206,5 +200,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-dive-into-the-world-of-luts-and-free-digital-tools-for-2024/"><u>[New] Dive Into the World of LUTs and Free Digital Tools for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-a-guide-to-finding-hidden-youtube-treasures/"><u>[New] In 2024, A Guide to Finding Hidden YouTube Treasures</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-control-your-netflix-video-flow-pc-and-mobile/"><u>[Updated] How to Control Your Netflix Video Flow PC & Mobile</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-use-cartoon-face-lens-in-snapchat/"><u>[Updated] In 2024, How to Use Cartoon Face Lens in Snapchat?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-prime-7-apps-for-smooth-youtube-live-broadcast-from-iphone-and-android-devices/"><u>[Updated] In 2024, Prime 7 Apps for Smooth YouTube Live Broadcast From iPhone & Android Devices</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/batch-converting-documents-into-ebooks-using-flipbuilder-a-step-by-step-guide/"><u>Batch Converting Documents Into eBooks Using FlipBuilder - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/bulk-transformation-from-pdf-to-editable-word-files-no-cost-on-flipbuildercom/"><u>Bulk Transformation From PDF to Editable Word Files – No Cost on FlipBuilder.com</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/creating-engaging-ebook-experiences-with-embedded-hyperlinks-on-flipbuilder-what-are-the-options/"><u>Creating Engaging eBook Experiences with Embedded Hyperlinks on FlipBuilder - What Are the Options?</u></a></li>
+<li><a href="https://win11.techidaily.com/detailed-walkthrough-restoring-default-search-features-in-windows-11/"><u>Detailed Walkthrough: Restoring Default Search Features in Windows 11</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/discovering-the-creme-de-la-gaming-crowd-on-tiktok/"><u>Discovering the Crème De La Gaming Crowd on TikTok</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/does-auto-gpt-hold-up-on-its-own-insights-for-users-lacking-gpt-4/"><u>Does Auto-GPT Hold Up on Its Own? Insights for Users Lacking GPT-4</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/fast-and-easy-way-to-save-your-flipboard-settings-as-a-custom-theme/"><u>Fast & Easy Way to Save Your FlipBoard Settings As a Custom Theme</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-can-i-find-the-step-by-step-guide-for-effective-management-with-flipoffice-pro-on-flipbuildercom/"><u>How Can I Find the Step-by-Step Guide for Effective Management with FlipOffice Pro on FlipBuilder.com?</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/kickstart-your-property-flipping-business-with-no-cost-layouts-and-tools-from-flipbuildercom/"><u>Kickstart Your Property Flipping Business with No-Cost Layouts and Tools From FlipBuilder.com</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-integrating-ambient-audio-into-your-flipbook-projects-with-flipbuilder/"><u>Step-by-Step Guide: Integrating Ambient Audio Into Your FlipBook Projects with FlipBuilder</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/troubleshooting-broken-links-in-your-flipbook-project-on-flipbuilder-a-comprehensive-guide/"><u>Troubleshooting Broken Links in Your Flipbook Project on FlipBuilder - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/visions-of-the-future-the-historical-vr-journey/"><u>Visions of the Future The Historical VR Journey</u></a></li>
+</ul></div>
 

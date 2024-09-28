@@ -1,7 +1,7 @@
 ---
 title: 10 Obstacles | Expert Analysis on ZDNET
-date: 2024-09-21T17:04:42.240Z
-updated: 2024-09-23T17:51:11.298Z
+date: 2024-09-22T01:27:18.735Z
+updated: 2024-09-27T22:00:34.825Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,21 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -200,5 +194,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-9-gif-recipes-for-capturing-windows-graphics-fun-for-2024/"><u>[New] Essential 9 GIF Recipes for Capturing Windows Graphics Fun for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-srgb-advantages-over-regular-rgb/"><u>[New] Srgb Advantages Over Regular Rgb</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-facebooks-quintessential-changes-for-enthusiasts/"><u>2024 Approved Facebook's Quintessential Changes for Enthusiasts</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/batch-converting-documents-into-ebooks-using-flipbuilder-a-step-by-step-guide/"><u>Batch Converting Documents Into eBooks Using FlipBuilder - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/bulk-transformation-from-pdf-to-editable-word-files-no-cost-on-flipbuildercom/"><u>Bulk Transformation From PDF to Editable Word Files – No Cost on FlipBuilder.com</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/compress-mpeg2-videos-with-free-virtualdub-software-for-2024/"><u>Compress MPEG2 Videos with Free VirtualDub Software for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-remedies-for-crucial-bugs-affecting-modern-warfare-and-warzone-players/"><u>Effective Remedies for Crucial Bugs Affecting Modern Warfare & Warzone Players</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/effortlessly-design-and-share-your-own-digital-flipbooks-as-ebooks-via-flipbuildercoms-user-friendly-platform/"><u>Effortlessly Design and Share Your Own Digital Flipbooks as eBooks via FlipBuilder.com's User-Friendly Platform</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/kickstart-your-property-flipping-business-with-no-cost-layouts-and-tools-from-flipbuildercom/"><u>Kickstart Your Property Flipping Business with No-Cost Layouts and Tools From FlipBuilder.com</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/liberar-tu-archivo-wma-al-formato-de-video-popular-mp4-gratuitamente-con-conversion-on-line-de-movavi/"><u>Liberar Tu Archivo WMA Al Formato De Video Popular MP4 Gratuitamente Con Conversión On-Line De Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-the-art-of-secure-passwords-the-key-to-online-safety-and-privacy/"><u>Mastering the Art of Secure Passwords: The Key to Online Safety and Privacy</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-fix-banish-win7-screen-flicker/"><u>Quick Fix: Banish Win7 Screen Flicker</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-integrating-ambient-audio-into-your-flipbook-projects-with-flipbuilder/"><u>Step-by-Step Guide: Integrating Ambient Audio Into Your FlipBook Projects with FlipBuilder</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-premium-monitors-for-ps5-and-xbox-series-enthusiasts/"><u>The Ultimate Guide to Choosing Premium Monitors for PS5 and Xbox Series Enthusiasts</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/top-15-gaming-streaming-services-ultimate-guide/"><u>Top 15 Gaming Streaming Services: Ultimate Guide</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/troubleshooting-broken-links-in-your-flipbook-project-on-flipbuilder-a-comprehensive-guide/"><u>Troubleshooting Broken Links in Your Flipbook Project on FlipBuilder - A Comprehensive Guide</u></a></li>
+</ul></div>
 

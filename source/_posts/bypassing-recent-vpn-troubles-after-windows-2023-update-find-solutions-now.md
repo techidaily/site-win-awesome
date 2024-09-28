@@ -1,7 +1,7 @@
 ---
 title: Bypassing Recent VPN Troubles After Windows 2023 Update? Find Solutions Now!
-date: 2024-09-21T17:25:19.543Z
-updated: 2024-09-23T16:49:39.293Z
+date: 2024-09-24T04:43:27.328Z
+updated: 2024-09-27T23:40:01.114Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,16 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -102,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -142,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -200,5 +194,26 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-husqvarnas-skyward-leap-with-the-new-h501x4-drone-insights/"><u>[New] In 2024, Husqvarna's Skyward Leap with the New H501X4 Drone Insights</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-pioneers-in-the-realm-of-vr-viewing/"><u>[Updated] Pioneers in the Realm of VR Viewing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-screen-recording-tools-face-off-summary/"><u>[Updated] Top Screen Recording Tools Face-Off Summary</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-beat-the-bounds-of-voice-modification-the-leading-chrome-apps-unveiled/"><u>2024 Approved Beat the Bounds of Voice Modification The Leading Chrome Apps Unveiled</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/achieve-easy-access-get-gaytube-videos-without-costs/"><u>Achieve Easy Access - Get GayTube Videos without Costs</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/convert-your-favorite-gaana-tracks-to-high-quality-audio-files-flacaacmp3-on-windows-and-macos-systems/"><u>Convert Your Favorite Gaana Tracks to High-Quality Audio Files (FLAC/AAC/MP3) on Windows and macOS Systems</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-installation-guide-download-your-usb-camera-drivers-today/"><u>Easy Installation Guide: Download Your USB Camera Drivers Today!</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oppo-reno-8t-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Oppo Reno 8T Location Settings | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-reno-8t-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Reno 8T 5Gwith/without a PC</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-to-secure-your-flipbook-with-a-password-on-flipbuilder-a-comprehensive-guide/"><u>How To Secure Your FlipBook with a Password on FlipBuilder - A Comprehensive Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-11-pro-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme 11 Pro Unlock Without Password</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/integrating-a-flipping-book-on-your-site-using-flipbuilder-a-step-by-step-guide/"><u>Integrating a Flipping Book on Your Site Using FlipBuilder - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-file-and-folder-deletion-in-windows-amo-a-command-prompt-approach/"><u>Mastering File and Folder Deletion in Windows Amo: A Command Prompt Approach</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/mastering-multimedia-with-flip-image-pro-for-immersive-3d-graphic-designs-visit-flipbuilder/"><u>Mastering Multimedia with Flip Image Pro for Immersive 3D Graphic Designs | Visit FlipBuilder</u></a></li>
+<li><a href="https://win-dash.techidaily.com/obtain-official-dell-driver-packages-for-seamless-networking-on-win7-systems/"><u>Obtain Official Dell Driver Packages for Seamless Networking on Win7 Systems</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/right-aligning-and-left-aligning-text-made-easy-with-flipbuilder/"><u>Right-Aligning and Left-Aligning Text Made Easy with FlipBuilder</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/running-flipbuilder-directly-from-external-hardware-flash-drive-a-step-by-step-guide/"><u>Running FlipBuilder Directly From External Hardware (Flash Drive) - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-changing-icons-in-your-flipboard-toolbar/"><u>Step-by-Step Guide: Changing Icons in Your FlipBoard Toolbar</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/unlocking-your-flipbooks-potential-how-to-track-data-through-google-analytics/"><u>Unlocking Your Flipbook's Potential: How to Track Data Through Google Analytics</u></a></li>
+</ul></div>
 

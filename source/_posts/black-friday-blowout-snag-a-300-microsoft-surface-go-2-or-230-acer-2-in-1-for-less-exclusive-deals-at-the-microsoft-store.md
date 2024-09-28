@@ -1,7 +1,7 @@
 ---
 title: "Black Friday Blowout: Snag a $300 Microsoft Surface Go 2 or $230 Acer 2-in-1 for Less - Exclusive Deals at the Microsoft Store"
-date: 2024-09-22T16:40:49.685Z
-updated: 2024-09-23T16:06:12.666Z
+date: 2024-09-26T00:50:49.626Z
+updated: 2024-09-27T22:35:01.756Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,10 +143,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -194,5 +194,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-htcs-immersive-revolution-a-deep-dive-into-vr-headset-magic/"><u>[Updated] HTC's Immersive Revolution A Deep Dive Into VR Headset Magic</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-infinix-smart-8-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Infinix Smart 8 Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-the-netgear-nighthawk-c7000-top-rated-wireless-modem-unveiled/"><u>Comprehensive Analysis of the Netgear Nighthawk C7000 - Top Rated Wireless Modem Unveiled</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/debloating-windows-the-pitfalls-and-better-alternatives-explained-insights-from-zdnet/"><u>Debloating Windows: The Pitfalls and Better Alternatives Explained - Insights From ZDNet</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/essential-tips-and-tools-for-successful-remote-work-insights-from-zdnet/"><u>Essential Tips and Tools for Successful Remote Work: Insights From ZDNet</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-realme-12plus-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Realme 12+ 5G FRP</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-vivo-y27-4g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Vivo Y27 4G Phones</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/mastering-the-art-of-telecommuting-key-strategies-revealed-by-zdnet/"><u>Mastering the Art of Telecommuting: Key Strategies Revealed by ZDNet</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/optimal-ergonomic-upgrade-the-ultimate-guide-to-choosing-a-standing-desk-converter/"><u>Optimal Ergonomic Upgrade: The Ultimate Guide to Choosing a Standing Desk Converter</u></a></li>
+<li><a href="https://common-error.techidaily.com/optimized-system-configuration-overcomes-previous-resource-limitations-in-services/"><u>Optimized System Configuration Overcomes Previous Resource Limitations in Services</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamped-gpu-handling-master-the-art-of-driver-updates-ddu/"><u>Revamped GPU Handling - Master the Art of Driver Updates (DDU)</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/step-by-step-guide-to-eradicating-audios-in-video-projects-using-imovie-for-2024/"><u>Step-by-Step Guide to Eradicating Audios in Video Projects Using iMovie for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/the-next-evolution-openais-launch-of-the-corporate-chatgpt-version-explained-zdnet-insights/"><u>The Next Evolution: OpenAI's Launch of the Corporate ChatGPT Version Explained | ZDNET Insights</u></a></li>
+</ul></div>
 
