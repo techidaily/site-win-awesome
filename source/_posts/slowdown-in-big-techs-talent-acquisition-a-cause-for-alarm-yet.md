@@ -1,7 +1,7 @@
 ---
 title: Slowdown in Big Tech's Talent Acquisition - A Cause for Alarm Yet?
-date: 2024-09-26T16:42:50.242Z
-updated: 2024-09-28T00:03:06.838Z
+date: 2024-10-01T21:10:38.868Z
+updated: 2024-10-02T19:39:08.579Z
 tags:
   - microsoft
 categories:
@@ -114,29 +114,29 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-leaderboard-best-following-drone-technology/"><u>[New] 2024 Approved Leaderboard Best-Following Drone Technology</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-from-novice-to-master-the-ultimate-periscope-handbook/"><u>[New] In 2024, From Novice to Master The Ultimate Periscope Handbook</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-step-by-step-guide-using-nvidia-recorder/"><u>[New] Step-by-Step Guide Using NVIDIA Recorder</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-enhancing-drones-techniques-in-video-post-production-for-2024/"><u>[Updated] Enhancing Drones Techniques in Video Post-Production for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-videos-sequentially-for-free-youtube-guide/"><u>[Updated] Navigating Videos Sequentially for Free - YouTube Guide</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-swiftly-rotate-videos-in-vlc-for-smooth-viewing/"><u>2024 Approved Swiftly Rotate Videos in VLC for Smooth Viewing</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/avoid-the-hurdles-of-windows-11-update-a-user-friendly-guide-to-enhance-your-pcs-performance-zdnet/"><u>Avoid the Hurdles of Windows 11 Update - A User-Friendly Guide to Enhance Your PC's Performance | ZDNet</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/experience-improved-durability-on-your-surface-duo-2-with-the-new-pen-cover-and-wireless-charging-capabilities-zdnet-exclusive-test/"><u>Experience Improved Durability on Your Surface Duo 2 with the New Pen Cover and Wireless Charging Capabilities - ZDNet Exclusive Test!</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/get-your-professional-microsoft-project-and-visio-licenses-today-at-only-20-special-deal-from-zdnet/"><u>Get Your Professional Microsoft Project & Visio Licenses Today at Only $20 - Special Deal From ZDNet!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-resolve-your-obs-microphone-problems-top-6-tips/"><u>How to Resolve Your OBS Microphone Problems – Top 6 Tips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-infinix-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Infinix Phone Pattern Lock</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/insightful-conversation-with-ulf-persson-ceo-of-abbyy-an-exclusive-tech-interview/"><u>Insightful Conversation with Ulf Persson, CEO of ABBYY - An Exclusive Tech Interview</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/microsoft-to-do-evaluation-is-this-task-management-tool-overwhelming-users-techspot/"><u>Microsoft To Do Evaluation: Is This Task Management Tool Overwhelming Users? | TechSpot</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/new-microsoft-announcement-pay-for-updates-coming-what-it-costs-you/"><u>New Microsoft Announcement: Pay-for-Updates Coming - What It Costs You</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/paying-for-windows-10-updates-microsoft-announces-new-fees-starting-next-year-what-you-need-to-know/"><u>Paying for Windows 10 Updates: Microsoft Announces New Fees Starting Next Year – What You Need to Know</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/revolutionizing-the-arm-landscape-exciting-new-microsoft-windows-applications-set-to-launch/"><u>Revolutionizing the ARM Landscape: Exciting New Microsoft Windows Applications Set to Launch</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-capturing-your-google-hangouts-on-video-comprehensive-how-to/"><u>Step-by-Step Guide: Capturing Your Google Hangouts on Video – Comprehensive How-To</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-simple-scan-capture-solution-w10-os/"><u>[New] In 2024, Simple Scan-Capture Solution - W10 OS</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-behind-the-scenes-how-much-creators-earn-from-youtube-shorts/"><u>[Updated] Behind the Scenes How Much Creators Earn From YouTube Shorts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-engage-viewers-beyond-individual-watches-for-2024/"><u>[Updated] Engage Viewers Beyond Individual Watches for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/black-friday-blowout-snag-a-300-microsoft-surface-go-2-or-230-acer-2-in-1-for-less-exclusive-deals-at-the-microsoft-store/"><u>Black Friday Blowout: Snag a $300 Microsoft Surface Go 2 or $230 Acer 2-in-1 for Less - Exclusive Deals at the Microsoft Store</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/cutting-edge-nvidia-driver-for-gtx-1060/"><u>Cutting-Edge Nvidia Driver for GTX 1060</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/eliminating-echoes-and-interference-ai-strategies-for-pristine-sound-quality-for-2024/"><u>Eliminating Echoes and Interference AI Strategies for Pristine Sound Quality for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-apple-iphone-xr-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix Apple iPhone XR Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oppo-reno-10-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Reno 10 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/installing-linux-on-your-microsoft-surface-go-a-quick-one-hour-guide/"><u>Installing Linux on Your Microsoft Surface Go: A Quick One-Hour Guide</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/mastering-mac-a-step-by-step-guide-to-changing-your-command-key-settings/"><u>Mastering Mac: A Step-by-Step Guide to Changing Your Command Key Settings</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/microsoft-tempted-me-into-creativity-with-excel-heres-howzdnet/"><u>Microsoft Tempted Me Into Creativity with Excel – Here's How![ZDNet]</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/microsoft-unveils-innovative-approach-making-artificial-intelligence-seem-familiar-particularly-in-solitude-zdnet/"><u>Microsoft Unveils Innovative Approach: Making Artificial Intelligence Seem Familiar, Particularly in Solitude | ZDNet</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/microsofts-new-surface-laptop-5-underwhelming-impressions-and-expectations-met-zdnet-analysis/"><u>Microsoft's New Surface Laptop 5: Underwhelming Impressions and Expectations Met | ZDNet Analysis</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/securing-your-microsoft-account-essential-tips-to-protect-against-cyber-threats/"><u>Securing Your Microsoft Account: Essential Tips to Protect Against Cyber Threats</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tomorrows-evaluation-creative-pathways-for-2024/"><u>Tomorrow’s Evaluation Creative Pathways for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-rated-17-inch-laptop-models-a-comprehensive-guide/"><u>Top Rated 17-Inch Laptop Models : A Comprehensive Guide</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/windows-11-dilemma-microsoft-must-fix-major-issues-within-a-year-insights-from-zdnet/"><u>Windows 11 Dilemma: Microsoft Must Fix Major Issues Within a Year – Insights From ZDNet</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
