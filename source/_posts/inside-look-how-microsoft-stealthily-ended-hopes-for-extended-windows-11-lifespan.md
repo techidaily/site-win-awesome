@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: How Microsoft Stealthily Ended Hopes for Extended Windows 11 Lifespan"
-date: 2024-09-26T16:21:04.513Z
-updated: 2024-10-03T05:15:31.198Z
+date: 2024-10-03T17:38:22.602Z
+updated: 2024-10-08T17:33:57.296Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,16 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +112,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,21 +187,22 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-a-streamers-companion-roku-plus-facebook-live-explained-for-2024/"><u>[New] A Streamer's Companion ROKU + Facebook Live Explained for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-tactics-for-trending-on-instagram-designing-dynamic-puzzles/"><u>[Updated] Tactics for Trending on Instagram Designing Dynamic Puzzles</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gimbal-insights-7-best-in-market/"><u>2024 Approved Gimbal Insights 7 Best in Market</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-your-ringtone-rescue-the-best-4-websites-listed-here/"><u>2024 Approved Your Ringtone Rescue The Best 4 Websites Listed Here</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/best-6-iphone-voice-memo-applications-you-should-try/"><u>Best 6 iPhone Voice Memo Applications You Should Try</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-play-mkv-movies-on-xiaomi-redmi-12-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can I play MKV movies on Xiaomi Redmi 12?</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/discover-the-ultimate-list-of-7-best-background-change-apps-for-your-video-calls-no-cost/"><u>Discover the Ultimate List of 7 Best Background Change Apps for Your Video Calls – No Cost!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-c12-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia C12 Pro Location by Number | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-shape-business-visions-no-money-just-templates/"><u>In 2024, Shape Business Visions - No Money, Just Templates</u></a></li>
-<li><a href="https://win-able.techidaily.com/league-of-legends-bug-fix-in-action-the-reconnect-loop-solution/"><u>League of Legends Bug Fix in Action: The Reconnect Loop Solution</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-integrating-soundtracks-into-your-snaps/"><u>Step-by-Step Guide: Integrating Soundtracks Into Your Snaps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-crafting-stunning-images-via-chatgpts-ai-capabilities/"><u>The Ultimate Guide to Crafting Stunning Images via ChatGPT's AI Capabilities</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/top-rated-iphone-email-client-choose-the-perfect-one/"><u>Top Rated iPhone Email Client: Choose the Perfect One</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/top-rated-photo-management-software-for-windows-11-users/"><u>Top Rated Photo Management Software for Windows 11 Users</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/top-techniques-to-alter-your-passport-image-background/"><u>Top Techniques to Alter Your Passport Image Background</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/ultimate-guide-how-to-easily-play-nintendos-super-mario-run-on-a-personal-desktop/"><u>Ultimate Guide: How to Easily Play Nintendo's Super Mario Run on a Personal Desktop</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/action-videography-showdown-hero-5-black-or-km-170/"><u>Action Videography Showdown Hero 5 Black or KM-170?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/apple-iphone-14-plus-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>Apple iPhone 14 Plus Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beat-infused-imagery-mobile-video-making-on-iphone/"><u>Beat-Infused Imagery Mobile Video Making on iPhone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/easy-guide-remove-highlights-from-your-pdf-document/"><u>Easy Guide: Remove Highlights From Your PDF Document</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-to-ensure-smooth-launch-of-outriders-on-your-pc-updated/"><u>Effective Fixes to Ensure Smooth Launch of Outriders on Your PC (Updated )</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/effortless-methods-for-transforming-your-swf-videos-into-high-quality-mov-files/"><u>Effortless Methods for Transforming Your SWF Videos Into High-Quality MOV Files</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Motorola Edge+ (2023) | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-cutting-edge-techniques-for-gopro-users/"><u>In 2024, Cutting-Edge Techniques for GoPro Users</u></a></li>
+<li><a href="https://article-helps.techidaily.com/inshot-audio-techniques-for-professional-editors-for-2024/"><u>InShot Audio Techniques for Professional Editors for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/macos-1015-top-pdf-tools-and-replacements-for-adobe-acrobat/"><u>MacOS 10.15: Top PDF Tools & Replacements for Adobe Acrobat</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/mastering-the-art-of-highlight-videos-innovative-methods-explored/"><u>Mastering the Art of Highlight Videos: Innovative Methods Explored</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/simple-tips-for-effortlessly-sharing-pictures-from-your-ipad-onto-your-pcmac-system/"><u>Simple Tips for Effortlessly Sharing Pictures From Your iPad Onto Your PC/Mac System</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/top-7-highly-recommended-mac-pdf-tools-reviewed-find-the-perfect-choice-in-2020/"><u>Top 7 Highly Recommended Mac PDF Tools Reviewed: Find the Perfect Choice in 2020!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-7-quick-fixes-when-your-emojis-go-rogue-on-apple-gadgets/"><u>Troubleshooting: 7 Quick Fixes When Your Emojis Go Rogue on Apple Gadgets</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/urgent-alert-windows-11-versions-21h2-and-22h2-hit-end-of-life-act-fast-to-secure-your-upgrade/"><u>Urgent Alert: Windows 11 Versions 21H2 & 22H2 Hit End-of-Life; Act Fast to Secure Your Upgrade!</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/windows-11-enthusiasts-longing-dashed-as-microsoft-subtly-refuses-extension-offer-cnet-news/"><u>Windows 11 Enthusiasts' Longing Dashed as Microsoft Subtly Refuses Extension Offer | CNET News</u></a></li>
 </ul></div>
 

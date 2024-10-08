@@ -1,7 +1,7 @@
 ---
 title: No More Windows 10 Support Extension? Microsoft Discreetly Folds User Aspirations | ZDNET
-date: 2024-09-29T17:45:23.059Z
-updated: 2024-10-02T18:04:26.221Z
+date: 2024-10-01T16:02:32.144Z
+updated: 2024-10-08T16:45:27.796Z
 tags:
   - windows
 categories:
@@ -27,13 +27,6 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -46,13 +39,6 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -62,24 +48,31 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Search for a command
 
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -88,10 +81,10 @@ When you see the setting or command you want, simply double-click it to launch i
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
@@ -110,6 +103,13 @@ Screenshot by Lance Whitney/ZDNET
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -156,22 +156,17 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-premier-tools-best-mac-devices-for-capturing-videos/"><u>[New] 2024 Approved Premier Tools Best Mac Devices for Capturing Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-zoom-for-seamless-fb-live-broadcasts/"><u>[New] Navigating Zoom for Seamless FB Live Broadcasts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-advanced-strategies-for-precise-vr-gameplay-recording/"><u>[Updated] In 2024, Advanced Strategies for Precise VR Gameplay Recording</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-how-to-use-kinemaster-online-and-10-best-online-alternatives/"><u>2024 Approved How To Use KineMaster Online and 10 Best Online Alternatives</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-introducing-efficient-speech-to-text-utilization-in-powerpoint/"><u>2024 Approved Introducing Efficient Speech-to-Text Utilization in PowerPoint</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/avoid-the-hurdles-of-windows-11-update-a-user-friendly-guide-to-enhance-your-pcs-performance-zdnet/"><u>Avoid the Hurdles of Windows 11 Update - A User-Friendly Guide to Enhance Your PC's Performance | ZDNet</u></a></li>
-<li><a href="https://howto.techidaily.com/calls-on-vivo-g2-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Vivo G2 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/experience-improved-durability-on-your-surface-duo-2-with-the-new-pen-cover-and-wireless-charging-capabilities-zdnet-exclusive-test/"><u>Experience Improved Durability on Your Surface Duo 2 with the New Pen Cover and Wireless Charging Capabilities - ZDNet Exclusive Test!</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/get-your-professional-microsoft-project-and-visio-licenses-today-at-only-20-special-deal-from-zdnet/"><u>Get Your Professional Microsoft Project & Visio Licenses Today at Only $20 - Special Deal From ZDNet!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-xiaomi-13t-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Xiaomi 13T Data? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-honor-x50iplus-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Honor X50i+ is off? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/micronics-introduces-affordable-desktop-sized-sls-3d-printer-at-299/"><u>Micronics Introduces Affordable Desktop-Sized SLS 3D Printer at $2,99</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/microsoft-to-do-evaluation-is-this-task-management-tool-overwhelming-users-techspot/"><u>Microsoft To Do Evaluation: Is This Task Management Tool Overwhelming Users? | TechSpot</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/new-microsoft-announcement-pay-for-updates-coming-what-it-costs-you/"><u>New Microsoft Announcement: Pay-for-Updates Coming - What It Costs You</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/paying-for-windows-10-updates-microsoft-announces-new-fees-starting-next-year-what-you-need-to-know/"><u>Paying for Windows 10 Updates: Microsoft Announces New Fees Starting Next Year – What You Need to Know</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/revolutionizing-the-arm-landscape-exciting-new-microsoft-windows-applications-set-to-launch/"><u>Revolutionizing the ARM Landscape: Exciting New Microsoft Windows Applications Set to Launch</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-capturing-your-google-hangouts-on-video-comprehensive-how-to/"><u>Step-by-Step Guide: Capturing Your Google Hangouts on Video – Comprehensive How-To</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-insiders-guide-to-efficient-phone-recording/"><u>[Updated] Insider's Guide to Efficient Phone Recording</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-superior-streaming-recorders-for-youtube-vloggers-for-2024/"><u>[Updated] Superior Streaming Recorders for YouTube Vloggers for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-vintage-racing-sims-our-favorite-five/"><u>[Updated] Vintage Racing Sims Our Favorite Five</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/movavi-aacwav/"><u>免費線上改變格式：Movavi為 AAC/WAV 效果提供了如何這樣的轉換方法</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/aws-graviton4-cpu-shows-superiority-over-traditional-processors-offering-enhanced-speed-and-value-for-money/"><u>AWS Graviton4 CPU Shows Superiority Over Traditional Processors, Offering Enhanced Speed and Value for Money</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/conversion-libre-de-wav-a-wmv-sur-internet-avec-movavi-guide-detaille-et-facile-dutilisation/"><u>Conversion Libre De WAV À WMV Sur Internet Avec Movavi – Guide Détaillé Et Facile D'utilisation</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/conversione-gratuita-mxf-in-formato-wmv-on-line-utilizzando-movavi-passaggi-essenziali/"><u>Conversione Gratuita MXF in Formato WMV On-Line Utilizzando Movavi - Passaggi Essenziali</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-note-13-pro-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Redmi Note 13 Pro 5G has native HEVC support?</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/gratis-wav-to-swf-konverteren-betrouwbare-online-toegang-movavi/"><u>Gratis WAV-to-SWF Konverteren: Betrouwbare Online Toegang - Movavi</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-convert-slideshow-elements-to-visual-medium/"><u>In 2024, Convert Slideshow Elements to Visual Medium</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-laughing-liberally-with-our-meme-toolbox/"><u>In 2024, Laughing Liberally with Our Meme Toolbox</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/top-20-gratsky-programovy-nastroj-pro-videoarchivazu-2024-libovolne-pouzdro/"><u>Top 20 Grátský Programový Nástroj Pro Vídeoarchivážu 2024 - Libovolné Pouzdro</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Preventing a Digital Catastrophe - Insights From Microsoft's Security Forum
-date: 2024-09-29T04:38:30.340Z
-updated: 2024-10-03T10:43:43.725Z
+date: 2024-10-01T17:03:06.245Z
+updated: 2024-10-08T17:11:05.140Z
 tags:
   - windows
 categories:
@@ -44,10 +44,10 @@ There is at least one exception to this cutoff date, which applies to PCs runnin
 Confusingly, Windows 10 Enterprise LTSC 2021 has only a five-year support lifecycle, which means it ends support on January 12, 2027.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs are running Windows 10 today?
@@ -85,10 +85,10 @@ That purple line at the top of the chart is Windows 10, and the blue line far be
 The current installed base of Windows PCs consists of about twice as many PCs running Windows 10 compared to its successor. (That's an improvement over last year's number, at least, where the ratio was more than three to one.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How many PCs will still be running Windows 10 at the end of 2025?
@@ -106,10 +106,10 @@ That best-case scenario still leaves hundreds of millions of people running Wind
 * **Windows 10 diehards.** From my time spent reading support forums, I know there's a large population of longtime Windows users who are unhappy about the changes in Windows 11\. Some of them will reluctantly upgrade, but others won't.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Will Microsoft extend the support deadline for Windows 10?
@@ -181,18 +181,18 @@ _This article was originally published in July 2023\. The most recent update was
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-capturing-ps4-gaming-magic-in-full-detail-using-obs/"><u>[Updated] 2024 Approved Capturing PS4 Gaming Magic in Full Detail Using OBS</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-render-and-upload-your-youtube-video-faster-for-2024/"><u>[Updated] How to Render and Upload Your YouTube Video Faster for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/best-6-iphone-voice-memo-applications-you-should-try/"><u>Best 6 iPhone Voice Memo Applications You Should Try</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-and-review-of-the-lenovo-flex-5-laptop/"><u>In-Depth Analysis & Review of the Lenovo Flex 5 Laptop</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/precision-recording-a-stepwise-plan-for-pc-ios-macbooks/"><u>Precision Recording A Stepwise Plan for PC, iOS, MacBooks</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-integrating-soundtracks-into-your-snaps/"><u>Step-by-Step Guide: Integrating Soundtracks Into Your Snaps</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-action-seekers-guide-to-polaroid-xs-100i-for-2024/"><u>The Action Seeker's Guide to Polaroid XS 100I for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/top-7-highly-recommended-mac-pdf-tools-reviewed-find-the-perfect-choice-in-2020/"><u>Top 7 Highly Recommended Mac PDF Tools Reviewed: Find the Perfect Choice in 2020!</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/top-rated-iphone-email-client-choose-the-perfect-one/"><u>Top Rated iPhone Email Client: Choose the Perfect One</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/top-rated-photo-management-software-for-windows-11-users/"><u>Top Rated Photo Management Software for Windows 11 Users</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/top-techniques-to-alter-your-passport-image-background/"><u>Top Techniques to Alter Your Passport Image Background</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/unleash-creativity-filming-and-editing-on-the-go-with-a-phone/"><u>Unleash Creativity Filming & Editing on the Go with a Phone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-transformative-pfps-that-define-your-tiktok-identity/"><u>2024 Approved Transformative PFPs that Define Your TikTok Identity</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-the-clutter-fixing-windows-error-0x80072014/"><u>Clearing the Clutter: Fixing Windows Error 0X80072014</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/discover-the-best-downloads-5-superior-options-for-offline-access-to-videosmusic-like-eagleget/"><u>Discover the Best Downloads: 5 Superior Options for Offline Access to Videos/Music Like EagleGet</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/easy-online-gaana-audio-extraction-convert-songs-to-mp3flacwma-with-quality-downloader-app/"><u>Easy Online Gaana Audio Extraction: Convert Songs to MP3/FLAC/WMA with Quality Downloader App</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/effortless-conversion-of-cnbc-videos-get-your-favorites-in-mp4-wmv-or-avi-format/"><u>Effortless Conversion of CNBC Videos - Get Your Favorites in MP4, WMV or AVI Format</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/effortless-video-extraction-convert-and-save-spiegel-content-as-mp4movavi/"><u>Effortless Video Extraction: Convert and Save Spiegel Content as MP4/MOV/AVI</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From iPhone 13 Pro?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-electronics-by-toms-hardware-experts/"><u>In-Depth Analysis of Electronics by Tom's Hardware Experts</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-list-of-gif-speed-changer-apps-and-websites-for-2024/"><u>New The Ultimate List of GIF Speed Changer Apps and Websites for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/spy-on-fb-chronicles-discreetly-for-2024/"><u>Spy on FB Chronicles Discreetly for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-tutorial-on-retrieving-videos-from-atandts-help-platform/"><u>Step-by-Step Tutorial on Retrieving Videos From AT&T's Help Platform</u></a></li>
 </ul></div>
 

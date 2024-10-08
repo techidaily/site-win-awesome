@@ -1,7 +1,7 @@
 ---
 title: 9 Targeted at Windows Enthusiasts
-date: 2024-09-29T21:09:46.851Z
-updated: 2024-10-03T01:11:59.569Z
+date: 2024-10-06T16:21:42.753Z
+updated: 2024-10-08T16:08:07.352Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -64,16 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -97,10 +98,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -135,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -153,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,15 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-unlock-seo-success-precision-crafted-video-titles-and-tags/"><u>[New] 2024 Approved Unlock SEO Success Precision-Crafted Video Titles and Tags</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-the-latest-roccat-mouse-drivers-for-optimal-performance/"><u>Download the Latest ROCCAT Mouse Drivers for Optimal Performance</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/medici-tv-video-retriever-for-macos-and-windows-effortless-streaming/"><u>Medici TV Video Retriever for macOS and Windows – Effortless Streaming</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/preserving-your-favorite-tunes-a-comprehensive-guide-to-saving-spotify-tracks-indefinitely/"><u>Preserving Your Favorite Tunes: A Comprehensive Guide to Saving Spotify Tracks Indefinitely</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/puremix-tutorial-extractor-streamline-your-educational-video-downloads/"><u>PureMix Tutorial Extractor: Streamline Your Educational Video Downloads</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/save-oklitv-broadcasts-in-high-quality-convert-to-mp4avi-for-easy-playback-on-windows-and-mac-systems/"><u>Save OkliTV Broadcasts in High-Quality: Convert to MP4/AVI for Easy Playback on Windows & Mac Systems</u></a></li>
-<li><a href="https://os-tips.techidaily.com/simple-ways-to-bypass-your-iphone-password-needs-instantly/"><u>Simple Ways To Bypass Your iPhone Password Needs Instantly</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-your-wacom-cintiq-artist-pen-display-get-the-newest-software-here/"><u>Update Your Wacom CintiQ Artist Pen Display - Get the Newest Software Here!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-best-selling-oculus-rift-gaming-experiences/"><u>[New] The Best-Selling Oculus Rift Gaming Experiences</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-uncovering-inshots-edge-in-the-editing-world/"><u>[New] Uncovering InShot's Edge in the Editing World</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-greatest-7-web-based-recording-tools-2023-for-2024/"><u>[Updated] Greatest 7 Web-Based Recording Tools 2023 for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/best-6-iphone-voice-memo-applications-you-should-try/"><u>Best 6 iPhone Voice Memo Applications You Should Try</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-even-on-youtube-key-view-figures-explored-for-2024/"><u>Breaking Even on YouTube Key View Figures Explored for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/discover-the-ultimate-list-of-7-best-background-change-apps-for-your-video-calls-no-cost/"><u>Discover the Ultimate List of 7 Best Background Change Apps for Your Video Calls – No Cost!</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/economical-and-premium-strategies-for-reformatting-mts-media-files-without-spending-a-penny-or-paying-extra/"><u>Economical & Premium Strategies for Reformatting MTS Media Files Without Spending a Penny or Paying Extra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-reno-8t-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Reno 8T on Windows??</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-to-guide-quickly-and-easily-delete-logos-from-your-videos-in-2020/"><u>How-To Guide: Quickly and Easily Delete Logos From Your Videos in 2020</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improve-gameplay-enhance-fluidity-and-increase-fps-in-valorant/"><u>Improve Gameplay: Enhance Fluidity & Increase FPS in Valorant</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/sanctioned-how-deepcool-continues-power-supply-and-pc-coolers-to-russian-markets-during-ukraine-crisis/"><u>Sanctioned: How DeepCool Continues Power Supply and PC Coolers to Russian Markets During Ukraine Crisis</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-integrating-soundtracks-into-your-snaps/"><u>Step-by-Step Guide: Integrating Soundtracks Into Your Snaps</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/ultimate-guide-how-to-easily-play-nintendos-super-mario-run-on-a-personal-desktop/"><u>Ultimate Guide: How to Easily Play Nintendo's Super Mario Run on a Personal Desktop</u></a></li>
+<li><a href="https://change-location.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/wirelessly-connect-and-display-your-iphone-on-a-toshiba-tv-how-to/"><u>Wirelessly Connect and Display Your iPhone on a Toshiba TV – How To</u></a></li>
 </ul></div>
 

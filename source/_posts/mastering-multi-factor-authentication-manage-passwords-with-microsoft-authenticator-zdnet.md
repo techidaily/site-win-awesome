@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multi-Factor Authentication: Manage Passwords with Microsoft Authenticator | ZDNet"
-date: 2024-10-01T00:58:45.372Z
-updated: 2024-10-02T22:21:34.495Z
+date: 2024-10-04T17:25:32.728Z
+updated: 2024-10-08T16:23:18.190Z
 tags:
   - windows
 categories:
@@ -27,6 +27,19 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
@@ -48,6 +61,13 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
@@ -66,13 +86,6 @@ When you see the setting or command you want, simply double-click it to launch i
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 7\. Create a changeable icon for God Mode
 
 With God Mode, you can't see the icon's name or change the image. Here's another option for creating an icon with a viewable name and modifiable image.
@@ -84,13 +97,6 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
@@ -98,10 +104,10 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 9\. Change the icon
@@ -111,16 +117,10 @@ To change the icon from the generic folder image, right-click on it and select P
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
@@ -162,19 +162,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-renaming-yourself-in-google-meet-pcandroid-tips/"><u>[Updated] In 2024, Renaming Yourself in Google Meet PC/Android Tips</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-directing-fundamentals-a-comprehensive-online-course-by-youtube-experts/"><u>2024 Approved Directing Fundamentals A Comprehensive Online Course by YouTube Experts</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-perfecting-online-visuals-beauty-focused-color-correction/"><u>2024 Approved Perfecting Online Visuals Beauty-Focused Color Correction</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-reno-11f-5g-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/canon-easyprint-mf4500-download-the-right-driver-today/"><u>Canon EasyPrint MF4500: Download the Right Driver Today!</u></a></li>
-<li><a href="https://win11.techidaily.com/decorate-your-screen-space-saving-spotlight-images-as-walls/"><u>Decorate Your Screen Space: Saving Spotlight Images as Walls</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/downloadable-free-pdf-converter-effortlessly-convert-images-into-pdfs/"><u>Downloadable Free PDF Converter: Effortlessly Convert Images Into PDFs</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-deciphering-fb-mystery-vanishing-youtubefacebook-videos/"><u>In 2024, Deciphering FB Mystery Vanishing YouTube/Facebook Videos</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-detailed-evaluation-of-screenflow-pro-mac-edition/"><u>In 2024, Detailed Evaluation of ScreenFlow Pro Mac Edition</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-to-converting-your-favorite-viu-episodes-into-downloads/"><u>Step-by-Step Guide to Converting Your Favorite Viu Episodes Into Downloads</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/streamcloud-downloads-convert-and-save-movies-in-multiple-formats-including-mp4-avi-and-more/"><u>StreamCloud Downloads - Convert & Save Movies in Multiple Formats Including MP4, AVI, and More!</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/the-ultimate-tutorial-on-downloading-howstuffworks-tv-episodes-in-various-video-codecs-such-as-mp4-avi-and-mov/"><u>The Ultimate Tutorial on Downloading HowStuffWorks TV Episodes in Various Video Codecs Such as MP4, AVI & MOV</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/top-3-pdf-reader-apps-in-2020-your-ultimate-guide-for-reading-pdfs-on-ipad/"><u>Top 3 PDF Reader Apps in 2020: Your Ultimate Guide for Reading PDFs on iPad</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/ultimate-guide-how-to-safely-download-and-transfer-your-favorite-youtube-songs-onto-a-compact-disc/"><u>Ultimate Guide: How to Safely Download and Transfer Your Favorite YouTube Songs Onto a Compact Disc</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-block-someone-on-instagram/"><u>[New] 2024 Approved How to Block Someone on Instagram?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-capture-perfection-optimal-use-of-zoom-feature-for-photos-and-videos/"><u>[New] Capture Perfection Optimal Use of Zoom Feature for Photos & Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-active-presenter-8-review/"><u>[New] In 2024, Active Presenter 8 Review</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-polishing-your-youtube-projects-the-premiere-pro-way-for-2024/"><u>[Updated] Polishing Your YouTube Projects The Premiere Pro Way for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-ultimate-audio-experience-selecting-the-top-mics/"><u>[Updated] Ultimate Audio Experience Selecting the Top Mics</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/discover-the-ultimate-list-of-7-best-background-change-apps-for-your-video-calls-no-cost/"><u>Discover the Ultimate List of 7 Best Background Change Apps for Your Video Calls – No Cost!</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/economical-and-premium-strategies-for-reformatting-mts-media-files-without-spending-a-penny-or-paying-extra/"><u>Economical & Premium Strategies for Reformatting MTS Media Files Without Spending a Penny or Paying Extra</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-nokia-130-music-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-t-mobiles-domestic-wireless-roaming-policy-works/"><u>How T-Mobile's Domestic Wireless Roaming Policy Works</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-14-official-method-to-unlock-your-iphone-14-by-drfone-ios/"><u>How To Unlock iPhone 14 Official Method to Unlock Your iPhone 14</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-to-guide-quickly-and-easily-delete-logos-from-your-videos-in-2020/"><u>How-To Guide: Quickly and Easily Delete Logos From Your Videos in 2020</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-integrating-soundtracks-into-your-snaps/"><u>Step-by-Step Guide: Integrating Soundtracks Into Your Snaps</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/swift-techniques-for-converting-swf-soundtracks-to-mp3-accessible-across-any-mobile-gadget/"><u>Swift Techniques for Converting SWF Soundtracks to MP3: Accessible Across Any Mobile Gadget</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-huawei-p2e-pro-camera-and-phone-performance-review/"><u>The Ultimate Guide to the Huawei P2e Pro Camera and Phone Performance Review</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/ultimate-guide-how-to-easily-play-nintendos-super-mario-run-on-a-personal-desktop/"><u>Ultimate Guide: How to Easily Play Nintendo's Super Mario Run on a Personal Desktop</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/ultimate-step-by-step-tutorial-on-using-apowercompress-features/"><u>Ultimate Step-by-Step Tutorial on Using ApowerCompress Features</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/wirelessly-connect-and-display-your-iphone-on-a-toshiba-tv-how-to/"><u>Wirelessly Connect and Display Your iPhone on a Toshiba TV – How To</u></a></li>
 </ul></div>
 

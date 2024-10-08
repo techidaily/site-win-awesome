@@ -1,7 +1,7 @@
 ---
 title: Microsoft Phases Out Copilot Pro AI Platform, Erases Partner Databanks | Latest From ZDNET
-date: 2024-09-28T00:23:29.750Z
-updated: 2024-10-03T08:03:10.547Z
+date: 2024-10-05T16:44:09.196Z
+updated: 2024-10-08T16:08:13.486Z
 tags:
   - microsoft
 categories:
@@ -114,29 +114,32 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-eye-catching-thumbnails-the-top-20-youtube-fonts-unveiled/"><u>[Updated] In 2024, Eye-Catching Thumbnails The Top 20 YouTube Fonts Unveiled</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-metaverse-simplified-avatar-designs/"><u>[Updated] Unlocking the Metaverse Simplified Avatar Designs</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-oppo-reno-9a-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Oppo Reno 9A Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/dissecting-shake-control-does-it-truly-enhance-editing-results-in-2024/"><u>Dissecting Shake Control Does It Truly Enhance Editing Results, In 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/experience-improved-durability-on-your-surface-duo-2-with-the-new-pen-cover-and-wireless-charging-capabilities-zdnet-exclusive-test/"><u>Experience Improved Durability on Your Surface Duo 2 with the New Pen Cover and Wireless Charging Capabilities - ZDNet Exclusive Test!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/expert-analysis-of-srt-unpacking-its-significance/"><u>Expert Analysis of SRT Unpacking Its Significance</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-oppo-a1-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Oppo A1 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-ultimate-guide-to-recording-gaming-with-fraps/"><u>In 2024, The Ultimate Guide to Recording Gaming with Fraps</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/microsoft-to-do-evaluation-is-this-task-management-tool-overwhelming-users-techspot/"><u>Microsoft To Do Evaluation: Is This Task Management Tool Overwhelming Users? | TechSpot</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/new-microsoft-announcement-pay-for-updates-coming-what-it-costs-you/"><u>New Microsoft Announcement: Pay-for-Updates Coming - What It Costs You</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/paying-for-windows-10-updates-microsoft-announces-new-fees-starting-next-year-what-you-need-to-know/"><u>Paying for Windows 10 Updates: Microsoft Announces New Fees Starting Next Year – What You Need to Know</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/redefining-innovation-my-take-on-microsofts-encouragement-to-think-outside-the-box-with-excel-analysis-by-zdnet/"><u>Redefining Innovation: My Take on Microsoft's Encouragement to Think Outside the Box with Excel | Analysis by ZDNet</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/revolutionizing-the-arm-landscape-exciting-new-microsoft-windows-applications-set-to-launch/"><u>Revolutionizing the ARM Landscape: Exciting New Microsoft Windows Applications Set to Launch</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/syncing-songs-with-stories-and-videos-on-instagram/"><u>Syncing Songs with Stories and Videos on Instagram</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/top-tech-certification-programs-for-every-professional-level-insights-from-zdnet/"><u>Top Tech Certification Programs for Every Professional Level - Insights From ZDNet</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/top-tier-durable-tablet-experience-windows-os-and-precision-stylus-handling-insights-from-a-tech-expert-at-zdnet/"><u>Top-Tier Durable Tablet Experience: Windows OS and Precision Stylus Handling - Insights From a Tech Expert at ZDNet</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/xbox-one-social-play-how-to-share-games-with-pals-effortlessly/"><u>Xbox One Social Play: How to Share Games With Pals Effortlessly</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-youtube-music-hits-2023s-most-praised-video-responses/"><u>[New] 2024 Approved YouTube Music Hits 2023'S Most Praised Video Responses</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-15-essential-gaming-capture-programs/"><u>[Updated] 15 Essential Gaming Capture Programs</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-coordinated-duet-clips-with-tiktok-twist/"><u>[Updated] 2024 Approved Coordinated Duet Clips with TikTok Twist</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/12-effective-methods-to-eliminate-obs-streaming-delay-a-comprehensive-guide/"><u>12 Effective Methods to Eliminate OBS Streaming Delay: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/advanced-zooming-practices-in-microsoft-teams/"><u>Advanced Zooming Practices in Microsoft Teams</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/find-the-best-android-apps-as-a-substitute-for-imovie-top-picks-and-reviews/"><u>Find the Best Android Apps as a Substitute for iMovie – Top Picks and Reviews</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/guide-dinstallation-et-activation-de-movavi-pour-les-utilisateurs-sous-windows-comment-commencer/"><u>Guide D'installation Et Activation De Movavi Pour Les Utilisateurs Sous Windows : Comment Commencer ?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-13c-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Xiaomi Redmi 13C to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s7-top-picks-for-android-enthusiasts/"><u>In-Depth Analysis of the Samsung Galaxy Tab S7: Top Picks for Android Enthusiasts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-adding-tvnsports-extension-to-your-kodi-19-setup/"><u>Step-by-Step Guide: Adding TVNSports Extension to Your Kodi 19 Setup</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/success-metrics-should-be-tailored-to-reflect-an-organizations-commitment-to-innovation-including-measures-of-idea-generation-and-implementation-successes.m50/"><u>Success Metrics Should Be Tailored to Reflect an Organization's Commitment to Innovation, Including Measures of Idea Generation and Implementation Successes.</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tints-shades-and-tones-practical-application-in-art/"><u>Tints, Shades & Tones Practical Application in Art</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforming-ordinary-to-extraordinary-with-engaging-tiktok-unboxings-for-2024/"><u>Transforming Ordinary to Extraordinary with Engaging TikTok Unboxings for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/trasforma-mp2-in-mp4-online-e-gratuitamente-con-movavi/"><u>Trasforma MP2 in MP4 Online E Gratuitamente Con Movavi!</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

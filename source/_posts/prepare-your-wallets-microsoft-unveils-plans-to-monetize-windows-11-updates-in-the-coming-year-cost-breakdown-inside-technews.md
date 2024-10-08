@@ -1,7 +1,7 @@
 ---
 title: "Prepare Your Wallets: Microsoft Unveils Plans to Monetize Windows 11 Updates in the Coming Year - Cost Breakdown Inside | TechNews"
-date: 2024-10-01T06:51:24.360Z
-updated: 2024-10-03T05:35:50.870Z
+date: 2024-10-07T17:16:18.582Z
+updated: 2024-10-08T17:29:33.680Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,14 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-narrative-noble-order-honors-hexagon/"><u>[New] Narrative Noble Order - Honor's Hexagon</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-15-must-see-investment-channels-online-for-2024/"><u>[Updated] 15 Must-See Investment Channels Online for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-unlocking-direct-conversation-on-snapchat-follow-these-steps-for-2024/"><u>[Updated] Unlocking Direct Conversation on Snapchat - Follow These Steps for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-evaluation-of-viewing-seconds-in-a-20mb-videography/"><u>2024 Approved Evaluation of Viewing Seconds in a 20MB Videography</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/bypassing-recent-vpn-troubles-after-windows-2023-update-find-solutions-now/"><u>Bypassing Recent VPN Troubles After Windows 2023 Update? Find Solutions Now!</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/expert-insight-top-picks-from-microsofts-best-sellers-at-best-buy-zdnet/"><u>Expert Insight: Top Picks From Microsoft's Best Sellers at Best Buy – ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-best-windows-phone-apps-for-your-cinematic-journey/"><u>In 2024, Best Windows Phone Apps for Your Cinematic Journey</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/microsoft-phases-out-copilot-pro-ai-platform-erases-partner-databanks-latest-from-zdnet/"><u>Microsoft Phases Out Copilot Pro AI Platform, Erases Partner Databanks | Latest From ZDNET</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/microsoft-reveals-enhanced-surface-pro-10-and-laptop-similar-seo-titles/"><u>Microsoft Reveals Enhanced Surface Pro 10 & Laptop # Similar SEO Titles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-c-span-video-streaming-without-a-paid-subscription/"><u>[New] C-Span Video Streaming Without a Paid Subscription</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/conversion-vod-libre-de-lmpeg-a-vob-sur-internet-convertisseur-gratuit/"><u>Conversion VOD Libre De L'MPEG À VOB Sur Internet - Convertisseur Gratuit</u></a></li>
+<li><a href="https://win-docs.techidaily.com/convertir-rapida-y-facilmente-tu-caf-en-un-formato-aiff-sin-costo-alguno-utilizando-movavi/"><u>Convertir Rápida Y Fácilmente Tu CAF en Un Formato AIFF Sin Costo Alguno Utilizando Movavi</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-incorrect-registry-entries-that-cause-image-viewing-problems-on-windows-10-devices/"><u>Diagnosing and Fixing Incorrect Registry Entries That Cause Image Viewing Problems on Windows 10 Devices</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/discover-the-leading-no-cost-photo-editor-apps-for-mac-a-comprehensive-guide-beyond-movavi/"><u>Discover the Leading No-Cost Photo Editor Apps for Mac: A Comprehensive Guide Beyond Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/generate-sharable-gifs-with-a-laugh-twist-giphy/"><u>Generate Sharable Gifs with a Laugh Twist, Giphy</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-enhancing-vimeo-video-performance/"><u>In 2024, Enhancing Vimeo Video Performance</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/master-your-broadcasts-with-manycam-premier-software-for-live-videos-and-digital-camcorder-experience/"><u>Master Your Broadcasts with ManyCam - Premier Software for Live Videos & Digital Camcorder Experience</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/professional-video-recorder-for-windows-pcs-for-2024/"><u>Professional Video Recorder for Windows PCs for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/transformation-de-fichier-audio-aac-vers-mp4-gratuite-en-ligne-utilisation-de-la-solution-movavi/"><u>Transformation De Fichier Audio AAC Vers MP4 Gratuite en Ligne - Utilisation De La Solution Movavi</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/online-flac-to-wav-movavi/"><u>툴라 이미지 포맷터를 사용한 Online 무료 FLAC to WAV 전환 - MOVAVI</u></a></li>
 </ul></div>
 
