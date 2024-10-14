@@ -1,7 +1,7 @@
 ---
 title: "Mastering Multi-Factor Authentication: Manage Passwords with Microsoft Authenticator | ZDNet"
-date: 2024-10-04T17:25:32.728Z
-updated: 2024-10-08T16:23:18.190Z
+date: 2024-10-10T20:27:38.914Z
+updated: 2024-10-14T08:50:51.501Z
 tags:
   - windows
 categories:
@@ -28,16 +28,16 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 ## How to set up God Mode in Windows 11 
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+<span id="1982499">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Check your account
@@ -52,6 +52,13 @@ Next, right-click on any empty area of the Desktop. In the popup menu, move to N
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Rename the new folder
 
 Right-click on the new folder and rename it to the following string:  
@@ -61,18 +68,18 @@ When done, press Enter.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Launch the icon
 
 Double-click the icon, and a window opens with all the available settings. The commands are organized by Control Panel applet, so you can browse through the various categories, including Backup and Restore, Devices and Printers, File History, Mouse, Programs and Features, Security and Maintenance, Troubleshooting, and User Accounts.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5\. Search for a command
 
@@ -85,6 +92,13 @@ Screenshot by Lance Whitney/ZDNET
 When you see the setting or command you want, simply double-click it to launch it.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7\. Create a changeable icon for God Mode
 
@@ -103,25 +117,11 @@ At the next screen, you can now enter any name you wish for the shortcut. Click 
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 9\. Change the icon
 
 To change the icon from the generic folder image, right-click on it and select Properties. Click the "Change icon" button and you can select a different icon from the explorer.exe file. You can also search for other executable files with built-in icons and choose the one you like. When done, click OK in the Properties window.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Launch your new icon
 
@@ -162,22 +162,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-block-someone-on-instagram/"><u>[New] 2024 Approved How to Block Someone on Instagram?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-capture-perfection-optimal-use-of-zoom-feature-for-photos-and-videos/"><u>[New] Capture Perfection Optimal Use of Zoom Feature for Photos & Videos</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-active-presenter-8-review/"><u>[New] In 2024, Active Presenter 8 Review</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-polishing-your-youtube-projects-the-premiere-pro-way-for-2024/"><u>[Updated] Polishing Your YouTube Projects The Premiere Pro Way for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ultimate-audio-experience-selecting-the-top-mics/"><u>[Updated] Ultimate Audio Experience Selecting the Top Mics</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mastery-guide-securely-archiving-snapchat-media-on-devices/"><u>[New] In 2024, Mastery Guide Securely Archiving Snapchat Media on Devices</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-xbox-one-headset-not-working/"><u>[Solved] Xbox One Headset Not Working</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-what-to-expect-from-an-investment-in-youtube-premium/"><u>[Updated] 2024 Approved What to Expect From an Investment in YouTube Premium</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/best-6-iphone-voice-memo-applications-you-should-try/"><u>Best 6 iPhone Voice Memo Applications You Should Try</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/beyond-coding-skills-embracing-linux-for-everyday-use-and-its-unmatched-reliability/"><u>Beyond Coding Skills: Embracing Linux for Everyday Use and Its Unmatched Reliability</u></a></li>
+<li><a href="https://fox-http.techidaily.com/budget-friendly-drone-picks-best-bargains-for-less-than-500-for-2024/"><u>Budget-Friendly Drone Picks Best Bargains for Less than $500 for 2024</u></a></li>
 <li><a href="https://win-awesome.techidaily.com/discover-the-ultimate-list-of-7-best-background-change-apps-for-your-video-calls-no-cost/"><u>Discover the Ultimate List of 7 Best Background Change Apps for Your Video Calls – No Cost!</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/economical-and-premium-strategies-for-reformatting-mts-media-files-without-spending-a-penny-or-paying-extra/"><u>Economical & Premium Strategies for Reformatting MTS Media Files Without Spending a Penny or Paying Extra</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-nokia-130-music-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-t-mobiles-domestic-wireless-roaming-policy-works/"><u>How T-Mobile's Domestic Wireless Roaming Policy Works</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-14-official-method-to-unlock-your-iphone-14-by-drfone-ios/"><u>How To Unlock iPhone 14 Official Method to Unlock Your iPhone 14</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-xiaomi-13t-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Xiaomi 13T Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://win-awesome.techidaily.com/how-to-guide-quickly-and-easily-delete-logos-from-your-videos-in-2020/"><u>How-To Guide: Quickly and Easily Delete Logos From Your Videos in 2020</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-technical-hurdles-solutions-for-total-war-warhammer-ii-malfunctions/"><u>Overcoming Technical Hurdles - Solutions for Total War: Warhammer II Malfunctions</u></a></li>
 <li><a href="https://win-awesome.techidaily.com/step-by-step-guide-integrating-soundtracks-into-your-snaps/"><u>Step-by-Step Guide: Integrating Soundtracks Into Your Snaps</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/swift-techniques-for-converting-swf-soundtracks-to-mp3-accessible-across-any-mobile-gadget/"><u>Swift Techniques for Converting SWF Soundtracks to MP3: Accessible Across Any Mobile Gadget</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-the-huawei-p2e-pro-camera-and-phone-performance-review/"><u>The Ultimate Guide to the Huawei P2e Pro Camera and Phone Performance Review</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-blh4100-blade-helicopter-a-top-choice-for-outdoor-enthusiasts/"><u>The Ultimate Guide to BLH4100 Blade Helicopter - A Top Choice for Outdoor Enthusiasts!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-7-fond-memories-of-the-dial-up-era-you-secretly-cherish/"><u>Top 7 Fond Memories of the Dial-Up Era You Secretly Cherish</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/top-rated-iphone-email-client-choose-the-perfect-one/"><u>Top Rated iPhone Email Client: Choose the Perfect One</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/top-techniques-to-alter-your-passport-image-background/"><u>Top Techniques to Alter Your Passport Image Background</u></a></li>
 <li><a href="https://win-awesome.techidaily.com/ultimate-guide-how-to-easily-play-nintendos-super-mario-run-on-a-personal-desktop/"><u>Ultimate Guide: How to Easily Play Nintendo's Super Mario Run on a Personal Desktop</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/ultimate-step-by-step-tutorial-on-using-apowercompress-features/"><u>Ultimate Step-by-Step Tutorial on Using ApowerCompress Features</u></a></li>
 <li><a href="https://win-awesome.techidaily.com/wirelessly-connect-and-display-your-iphone-on-a-toshiba-tv-how-to/"><u>Wirelessly Connect and Display Your iPhone on a Toshiba TV – How To</u></a></li>
 </ul></div>
 

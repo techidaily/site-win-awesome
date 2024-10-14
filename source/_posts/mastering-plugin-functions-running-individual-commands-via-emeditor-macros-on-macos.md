@@ -1,7 +1,7 @@
 ---
 title: "Mastering Plugin Functions: Running Individual Commands via EmEditor Macros on MacOS"
-date: 2024-10-02T17:01:38.265Z
-updated: 2024-10-08T17:32:39.898Z
+date: 2024-10-07T04:14:22.072Z
+updated: 2024-10-14T04:43:03.353Z
 tags:
   - product
 categories:
@@ -112,33 +112,28 @@ Viewing 4 posts - 1 through 4 (of 4 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-integrate-srt-into-windowsmacos-operations/"><u>[New] In 2024, Integrate SRT Into Windows/macOS Operations</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-clear-webcam-footage-recording-and-editing-tips-for-2024/"><u>[New] Mastering Clear Webcam Footage Recording & Editing Tips for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-unleash-ps2-gaming-on-ios-the-best-emulators-for-2024/"><u>[New] Unleash PS2 Gaming on iOS The Best Emulators for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/effortless-video-extraction-convert-and-save-spiegel-content-as-mp4movavi/"><u>Effortless Video Extraction: Convert and Save Spiegel Content as MP4/MOV/AVI</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/free-download-comprehensive-bloomberg-market-insights-and-analysis-on-tech-innovations-political-developments/"><u>Free Download: Comprehensive Bloomberg Market Insights & Analysis on Tech, Innovations, Political Developments</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/get-access-now-free-online-course-downloads-from-cybrary/"><u>Get Access Now: Free Online Course Downloads From Cybrary</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/get-your-fix-of-channel-ten-shows-with-the-fast-track-video-reader/"><u>Get Your Fix of Channel Ten Shows with the Fast Track Video Reader!</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/high-quality-erotic-movie-downloads-avi-and-mp4-for-pcmac-users-unlimited-collection/"><u>High-Quality Erotic Movie Downloads (AVI & MP4) for PC/Mac Users – Unlimited Collection</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/highest-rated-10-apps-to-watch-golf-and-soccer-in-the-moment/"><u>Highest Rated 10 Apps to Watch Golf & Soccer in the Moment</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/how-to-convert-your-favorite-shows-and-videos-into-mp4-format-for-pcs-and-macs/"><u>How To Convert Your Favorite Shows & Videos Into MP4 Format for PCs and Macs</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/how-to-legally-acquire-and-convert-popular-trainmaster-shows-for-offline-viewing-in-mp4-mov-and-avi-files/"><u>How to Legally Acquire and Convert Popular Trainmaster Shows for Offline Viewing in MP4, MOV & AVI Files</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-create-stunning-time-lapses-with-the-best-video-editing-software/"><u>New In 2024, Create Stunning Time-Lapses with the Best Video Editing Software</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/playstation-palace-a-million-gaming-moves/"><u>PlayStation Palace A Million Gaming Moves</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-itel-s23-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Itel S23 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-fix-resolving-pc-sound-issues-in-zoom/"><u>Troubleshoot & Fix: Resolving PC Sound Issues in Zoom</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-breathe-life-into-your-reels-adding-drama-with-slow-motion/"><u>[New] Breathe Life Into Your Reels Adding Drama with Slow Motion</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-from-raw-to-refined-expert-techniques-for-youtube-content-creators/"><u>[Updated] 2024 Approved From Raw to Refined Expert Techniques for YouTube Content Creators</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1-enhance-text-editing-with-emeditor-api-wrapper-add-on/"><u>1. Enhance Text Editing with EmEditor API Wrapper Add-On</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/advanced-text-editor-explore-the-capabilities-of-emeditor-by-eaglesoft/"><u>Advanced Text Editor: Explore the Capabilities of EmEditor by EagleSoft</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-you-overestimating-ai-detectors-such-as-zerogpt-understanding-its-flaws-and-shortcom-ings/"><u>Are You Overestimating AI Detectors Such as ZeroGPT? Understanding Its Flaws & Shortcom Ings</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/are-you-willing-to-pay-for-premium-knowledge-on-apple-products-industry-leaders-say-monthly-fees-could-reach-up-to-20-insights-from-zdnet/"><u>Are You Willing to Pay for Premium Knowledge on Apple Products? Industry Leaders Say Monthly Fees Could Reach Up to $20 - Insights From ZDNet</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-infinix-smart-7-hd-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Infinix Smart 7 HD FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/efficient-coding-with-emeditor-a-fast-and-feature-rich-text-editing-solution/"><u>Efficient Coding with EmEditor - A Fast and Feature-Rich Text Editing Solution</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/emeditor-text-editor-master-your-coding-sessions-with-the-power-of-code-folding/"><u>EmEditor Text Editor: Master Your Coding Sessions with the Power of Code Folding</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/enhance-your-coding-experience-with-emeditors-minimalzen-color-theme-for-text-editors/"><u>Enhance Your Coding Experience with EmEditor's MinimalZen Color Theme for Text Editors</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-dive-into-apods-an-uncomplicated-download-guide/"><u>In 2024, Dive Into APods An Uncomplicated Download Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/infinix-smart-8-hd-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Infinix Smart 8 HD support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/maintaining-concentration-with-emeditor-solutions-for-post-output-distraction-issues/"><u>Maintaining Concentration with EmEditor - Solutions for Post-Output Distraction Issues</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/premium-voice-capture-apps-on-mac-the-best-five-ranked-for-2024/"><u>Premium Voice Capture Apps on Mac The Best Five Ranked for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/understanding-text-file-encoding-in-emeditor-why-reloading-wont-change-it/"><u>Understanding Text File Encoding in EmEditor - Why Reloading Won't Change It</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/iphonedvdand/"><u>プロ並みiPhone動画DVD化：高画質&スムーズ、コンビニ手順解説</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
