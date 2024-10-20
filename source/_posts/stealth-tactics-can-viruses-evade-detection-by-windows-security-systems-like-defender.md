@@ -1,7 +1,7 @@
 ---
 title: "Stealth Tactics: Can Viruses Evade Detection by Windows Security Systems Like Defender?"
-date: 2024-10-10T04:56:26.628Z
-updated: 2024-10-14T04:50:34.514Z
+date: 2024-10-16T06:32:01.725Z
+updated: 2024-10-20T03:16:56.906Z
 tags:
   - product
   - antivirus
@@ -52,15 +52,22 @@ Signature evasion is a technique used to make malware more difficult to detect. 
 
 One common method is to encrypt the malicious code. This makes it difficult for Windows Defender to scan and detect the malware. In some cases, the malware is only detected after it has already executed its payload.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fileless Malware
 
 Another method that malware uses to avoid detection is known as file-less malware. This type of malware does not rely on traditional files to execute its code. Instead, it uses legitimate programs that are already installed on the victim’s computer. This makes it very difficult for Windows Defender to detect and remove the malware.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Code Mutation
@@ -68,45 +75,64 @@ Another method that malware uses to avoid detection is known as file-less malwar
 Another common method used to avoid detection is code mutation. This is where the malware mutates or changes its code in order to evade detection. This makes it challenging for Windows Defender to detect and remove the malware.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Hiding Malware in Image Files
 
 Hiding malware in image files is one of the popular methods used by cybercriminals to avoid detection from Windows Defender. In this technique, hackers will encode malicious code into an image file. When the image is opened, the code is executed and the malware is installed on the victim’s computer.
 
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Obfuscation
 
 Obfuscation is a technique used to make code difficult to understand. It’s often used to make malware more difficult to detect and analyze. Hackers will use obfuscation to make it more difficult for Windows Defender to detect their malware.
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Masking the Code on a Website
 
 Masking the code on a website is another common method used to avoid detection. In this technique, hackers will insert malicious code into a website that appears to be benign. When someone visits the website, the code is executed and the malware is installed on their computer.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Stealth Techniques
 
 There are a variety of stealth techniques that can be used to make malware more difficult to detect. These techniques include hiding files, processes, and registry entries. Hackers will use these techniques to make it more difficult for antivirus programs to find and remove the malware.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Stay Safe From Malware?
 
 Given the fact that malware can evade detection from Windows Defender, it’s important to take steps to protect your computer from these threats. Below are some tips that you can use to stay safe from malware:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Update Your Antivirus Software
 
@@ -120,34 +146,20 @@ It’s important to use reputable antivirus software. Some antivirus programs ar
 
 You should scan your computer regularly for malware. This will help to ensure that any malware that is on your computer is detected and removed.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Keep Your Operating System Up-To-Date
 
 It’s important to keep your operating system up-to-date. Cybercriminals often target vulnerabilities in outdated operating systems. By keeping your operating system up-to-date, you will make it more difficult for them to target your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Use a Firewall
 
 A firewall can help to protect your computer from malware. A firewall will block incoming connections from untrusted sources. This will make it more difficult for malware to infect your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Use Caution When Opening Email Attachments
 
@@ -210,19 +222,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-experience-the-virtual-reality-frontier-on-youtube/"><u>[New] 2024 Approved Experience the Virtual Reality Frontier on Youtube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-sharpscope-zoommax7-precision-in-size-adjustment-for-2024/"><u>[New] SharpScope ZoomMax7 Precision in Size Adjustment for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-zipping-up-an-enthralling-tiktok-credit-sequence/"><u>[Updated] 2024 Approved Zipping Up an Enthralling TikTok Credit Sequence</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-lenovo-x1-carbon-latest-drivers-compatible-with-windows-11-and-7-simple-steps/"><u>Download Lenovo X1 Carbon Latest Drivers: Compatible with Windows 11 and 7 - Simple Steps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-originality-is-chatgpt-prone-to-copying-content/"><u>Exploring Originality: Is ChatGPT Prone to Copying Content?</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-guide-to-zooming-your-tiktok-videos/"><u>In 2024, The Ultimate Guide to Zooming Your TikTok Videos</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/microsoft-phases-out-copilot-pro-ai-platform-erases-partner-databanks-latest-from-zdnet/"><u>Microsoft Phases Out Copilot Pro AI Platform, Erases Partner Databanks | Latest From ZDNET</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/microsoft-reveals-enhanced-surface-pro-10-and-laptop-similar-seo-titles/"><u>Microsoft Reveals Enhanced Surface Pro 10 & Laptop # Similar SEO Titles</u></a></li>
-<li><a href="https://games-able.techidaily.com/mighty-gaming-cos-market-strategy-raises-questionstalk-show-episode/"><u>Mighty Gaming Co.'s Market Strategy Raises Questions![Talk Show Episode]</u></a></li>
-<li><a href="https://fox-access.techidaily.com/navigating-live-stream-providers-with-10-top-insights-for-2024/"><u>Navigating Live Stream Providers with 10 Top Insights for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/prepare-your-wallets-microsoft-unveils-plans-to-monetize-windows-11-updates-in-the-coming-year-cost-breakdown-inside-technews/"><u>Prepare Your Wallets: Microsoft Unveils Plans to Monetize Windows 11 Updates in the Coming Year - Cost Breakdown Inside | TechNews</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/securing-your-microsoft-account-essential-tips-to-protect-against-cyber-threats/"><u>Securing Your Microsoft Account: Essential Tips to Protect Against Cyber Threats</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/slowdown-in-big-techs-talent-acquisition-a-cause-for-alarm-yet/"><u>Slowdown in Big Tech's Talent Acquisition - A Cause for Alarm Yet?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/top-hash-tags-boosting-gameplay-vids/"><u>Top Hash Tags Boosting Gameplay Vids</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-optimal-frame-rate-mastery-through-controller-tweaks/"><u>[New] 2024 Approved Optimal Frame Rate Mastery Through Controller Tweaks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-curbing-inertia-in-high-altitude-cinematography/"><u>[New] Curbing Inertia in High Altitude Cinematography</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/creenplay-grooves-best-background-tunes-for-yt-shorts-for-2024/"><u>[New] Screenplay Grooves Best Background Tunes For YT Shorts for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-review-and-compare-streamlabs-and-embedding-platforms/"><u>[Updated] In 2024, Review and Compare StreamLabs & Embedding Platforms</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-yuva-3-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Yuva 3</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/efektivitas-untuk-memulihkan-file-di-windows-11-resmi-guidance/"><u>Efektivitas Untuk Memulihkan File Di Windows 11 - Resmi Guidance</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/effortless-data-retrieval-from-onedrive-step-by-step-guide/"><u>Effortless Data Retrieval From OneDrive: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/effortless-guide-securely-syncing-your-new-iphone-14-16-with-your-computer-for-backup-and-more/"><u>Effortless Guide: Securely Syncing Your New iPhone (14-16) with Your Computer for Backup and More</u></a></li>
+<li><a href="https://games-able.techidaily.com/excellent-graphics-on-a-tight-budget/"><u>Excellent Graphics on a Tight Budget</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-pioneering-mobile-applications-for-altered-vocal-output/"><u>In 2024, Pioneering Mobile Applications for Altered Vocal Output</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Lava Blaze Curve 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/leicht-verstandliche-anleitung-zur-anzeige-von-backup-protokollen-mit-aomei-backupper/"><u>Leicht Verständliche Anleitung Zur Anzeige Von Backup-Protokollen Mit AOMEI Backupper</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-edit-like-a-pro-best-android-video-editor-apps-for-chromebook-users/"><u>New In 2024, Edit Like a Pro Best Android Video Editor Apps for Chromebook Users</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/problema-con-la-cronologia-di-file-in-windows-10-che-non-si-avvia-o-attiva/"><u>Problema Con La Cronologia Di File in Windows 10 Che Non Si Avvia O Attiva</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/restoring-lost-dll-components-on-windows-11-essential-techniques-covered/"><u>Restoring Lost DLL Components on Windows 11 – Essential Techniques Covered</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-repairing-lg-monitor-driver-concerns-on-windows-os/"><u>Step-by-Step Guide: Repairing LG Monitor Driver Concerns on Windows OS</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-resolve-drivers-errors-and-prevent-dma-violations-in-windows-1110/"><u>Step-by-Step Guide: Resolve Drivers Errors and Prevent DMA Violations in Windows 11/10</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-saving-your-data-from-an-ipad-mini-456-to-computer-or-icloud/"><u>Step-by-Step Guide: Saving Your Data From an iPad Mini 4/5/6 to Computer or iCloud</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1728502140070-usb-windows-10/"><u>USBメモリーで安全にバックアップ: Windows 10の専門ガイド</u></a></li>
 </ul></div>
 
