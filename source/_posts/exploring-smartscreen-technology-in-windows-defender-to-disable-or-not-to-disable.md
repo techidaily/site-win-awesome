@@ -1,7 +1,7 @@
 ---
 title: Exploring SmartScreen Technology in Windows Defender – To Disable or Not to Disable?
-date: 2024-11-03T20:02:23.911Z
-updated: 2024-11-06T18:54:24.018Z
+date: 2024-11-16T01:47:00.306Z
+updated: 2024-11-16T16:32:19.898Z
 tags:
   - product
   - antivirus
@@ -58,6 +58,13 @@ The SmartScreen process is just sitting in the background most of the time not u
 
 ![](https://malwarefox.com/wp-content/uploads/2018/06/board-1.png "board (1)")
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 However, if your SmartScreen is enabled and you start downloading a new file or application, SmartScreen will kick in. Windows will launch the feature if it’s disabled at the moment and you will see that it’s using a bit of memory and CPU resources as it collects data from the file, sends that data to the Microsoft servers, and waits for the file to be checked to see if it is a known program. If the file is safe, your PC will launch the file or application normally.
 
 The amount of memory and CPU SmartScreen uses should be very small, and the process of verifying a program shouldn’t take more than a few seconds. However, it will take longer to examine larger files. It will only perform this process when you open a downloaded file or a program for the first time. This means that it won’t waste your PC resources every single time you open it.
@@ -70,6 +77,19 @@ At the level of the operating system, the SmartScreen feature works by sending i
 
 ![](https://malwarefox.com/wp-content/uploads/2017/10/shield-2.png "shield (2)")
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the SmartScreen isn’t familiar with the application you download, you will get a warning message that will prevent the unrecognized application from starting. However, you can always choose to bypass this message if you think that the application isn’t harmful.
 
 ![Windows Defender SmartScreen 2](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/07/Windows-Defender-SmartScreen-2.jpg "Windows Defender SmartScreen 2")
@@ -78,14 +98,20 @@ No matter where the file or application is coming from, this operating system pr
 
 ![SmartScreen Blocking Download](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/07/SmartScreen-Blocking-Download.jpg "SmartScreen Blocking Download")
 
-SmartScreen on Windows 10 also blocks malicious downloads and websites in the Windows Store and Microsoft Edge apps. It performs the same function as the Google Safe Browsing program, which blocks access to malicious websites in Firefox and Chrome.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+SmartScreen on Windows 10 also blocks malicious downloads and websites in the Windows Store and Microsoft Edge apps. It performs the same function as the Google Safe Browsing program, which blocks access to malicious websites in Firefox and Chrome.
 
 ## How to Run an App SmartScreen doesn’t Recognize
 
@@ -95,23 +121,9 @@ On the other side, the SmartScreen feature will also prevent an unrecognized app
 
 ![](https://malwarefox.com/wp-content/uploads/2018/06/website.png "website")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 SmartScreen is sometimes unfamiliar with applications because they are new or infrequently downloaded. Maybe it’s a program that only a few people use for a certain niche application. If you are 100% sure that the program you downloaded is safe and you want to run it, you can open a pop-up window by clicking “More info” and choosing the option “Run anyway.” Once you do this, you will be able to access the program despite SmartScreen’s warning.
 
 [How does Malicious Website Infect You?](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Disable SmartScreen on Windows 10?
 
@@ -123,13 +135,6 @@ On the Windows Defender’s sidebar, click the icon for App & Browser Control an
 
 ![](https://malwarefox.com/wp-content/uploads/2018/06/computer-1.png "computer (1)")
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Windows SmartScreen has three different filters, and you can configure different options for each. You can choose to block applications that are unrecognized, to see a warning that you can click through, or you can turn Windows SmartScreen off altogether. Even if the “Warn” option is enabled, your SmartScreen process will always block malicious content, but it will first warn you before you run an application that’s unrecognized. Keep in mind that disabling SmartScreen will put your computer in potential danger as it won’t block dangerous files anymore.
 
 There’s also an option called “Check apps and files.” This will control the OS’s SmartScreen filter, which is going to protect you from malicious files no matter where you downloaded them from. Once you try to open a downloaded file or an application in, for example, File Explorer, Windows will check if that file or app is malicious and will block it if it is.
@@ -139,6 +144,13 @@ Your PC also has an option called “SmartScreen for Microsoft Edge.” Its purp
 Another option is the “SmartScreen for Windows Store apps.” Your computer uses this feature when applications you’re downloading from the Windows Store are accessing something on the web. It will warn you before applications load dangerous content.
 
 [Is Dropbox Really Safe?](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Disable SmartScreen on Windows 8?
 
@@ -161,16 +173,16 @@ Keep in mind that disabling the feature is not recommended! As we mentioned many
 1. ![](https://secure.gravatar.com/avatar/7c9bc7a3ea6709300d73363e207bfaa3?s=50&d=mm&r=g)  
 JohnIL  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [July 9, 2019 at 6:57 am](https://tools.techidaily.com/malwarefox/products/)  
 Windows has become a nanny OS now trying to save us all from ourselves. Our bad habits online, the files and content we download with unintended attachments. The emails that have nasties in them. Try Linux distribution sometime and you will experience what just a clean OS can really perform well. Mainly because it has no security like Defender running in background, or Smart screen or backup in case you get some sort of ransomeware. Windows used to be fast, back before all these nanny features got tacked on. Best you leave them on though if you doubt yourself even the slightest about your habits online. Maybe that stuff will save yourself some headaches some day?  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -197,22 +209,21 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-simplifying-screen-views-during-google-meet-chats/"><u>[Updated] In 2024, Simplifying Screen Views During Google Meet Chats</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-simple-processes-for-logging-vimeo-content/"><u>[Updated] Simple Processes for Logging Vimeo Content</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-using-zooms-snap-to-boost-video-conferences-for-2024/"><u>[Updated] Using Zoom’s Snap to Boost Video Conferences for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/comment-resoudre-les-problemes-de-netre-pas-reconnu-par-le-bios-suggestions-pour-ssd-et-hdd/"><u>Comment Résoudre Les Problèmes De N'être Pas Reconnu Par Le BIOS: Suggestions Pour SSD Et HDD</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-apple-iphone-13-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From Apple iPhone 13</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/expert-tips-for-enhancing-performance-how-to-swap-out-the-ssd-in-your-hp-spectre-x360/"><u>Expert Tips for Enhancing Performance: How to Swap Out the SSD in Your HP Spectre X360</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/fixing-the-0x80cuh0003-error-in-windows-10-a-guide-to-5-proven-solutions/"><u>Fixing the 0X80cuh0003 Error in Windows 10: A Guide to 5 Proven Solutions</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/fortifying-your-digital-life-a-step-by-step-guide-to-achieving-impervious-computer-safety-through-multi-tier-security/"><u>Fortifying Your Digital Life: A Step-by-Step Guide to Achieving Impervious Computer Safety Through Multi-Tier Security</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/guide-complet-pour-configurer-la-sauvegarde-de-lordinateur-lenovo-g50-avec-aomei-systemrecovery/"><u>Guide Complet Pour Configurer La Sauvegarde De L'Ordinateur Lenovo G50 Avec AOMEI SystemRecovery</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/how-to-clone-your-gpt-partition-from-hdd-to-ssd-on-windows-11-10-8-or-7/"><u>How to Clone Your GPT Partition From HDD to SSD on Windows 11, 10, 8 or 7</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/impara-a-gestire-le-tue-preoccupazioni-ottimizzazione-delle-soluzioni-efficacemente-risolte/"><u>Impara a Gestire Le Tue Preoccupazioni: Ottimizzazione Delle Soluzioni Efficacemente Risolte</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/real-customer-feedback-in-depth-malwarefox-software-assessment/"><u>Real Customer Feedback: In-Depth MalwareFox Software Assessment</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/scale-up-channel-followers-faster-and-cheaper/"><u>Scale Up Channel Followers Faster and Cheaper</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-symphony-shots-roles-and-rhythm-showcase-for-2024/"><u>Short Symphony Shots Roles & Rhythm Showcase for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/supreme-mac-video-encoder/"><u>Supreme Mac Video Encoder</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/title-ensuring-safe-online-transactions-how-to-confirm-a-site-is-genuine-not-fraudulent/"><u>Title: Ensuring Safe Online Transactions: How to Confirm a Site Is Genuine, Not Fraudulent</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-dts-play-fi-the-basics-explained/"><u>Understanding DTS Play-Fi: The Basics Explained</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-twitter-account-launch-a-beginners-roadmap/"><u>[New] 2024 Approved Twitter Account Launch A Beginner's Roadmap</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-direct-video-tweet-to-twitter-via-smartphone-no-retweeting/"><u>[New] Direct Video Tweet to Twitter via Smartphone No Retweeting</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-hits-and-tags-mastering-the-language-of-virality-in-youtube-shorts/"><u>[New] In 2024, Hits & Tags Mastering the Language of Virality in YouTube Shorts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-visual-verdict-sj6-clash-with-xiaomis-yi-4k-geniuses/"><u>[Updated] In 2024, Visual Verdict SJ6 Clash with Xiaomi’s Yi 4K Geniuses</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/windows-11-10-0xc0000005/"><u>解決 Windows 11 / 10上的 0xC0000005 錯誤：免疫化方法</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-windows-error-e8024002e-for-updates/"><u>Bypassing Windows Error E:8024002E for Updates</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/comment-faciliter-le-transfert-de-donnees-entre-2-pcs-utilisant-windows-10-une-explication-simple-et-pratique/"><u>Comment Faciliter Le Transfert De Données Entre 2 PCs Utilisant Windows 10 - Une Explication Simple Et Pratique</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/comprendre-le-comportement-des-fichiers-supprimes-sur-une-cle-usb-pourquoi-ils-ne-vont-pas-directement-a-la-corbeille/"><u>Comprendre Le Comportement Des Fichiers Supprimés Sur Une Clé USB : Pourquoi Ils Ne Vont Pas Directement À La Corbeille?</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/disk-tough-ssd-konfiguracja-srednicowa-poznaj-wiadomosc-o-przewodniku/"><u>Disk Tough SSD Konfiguracja Średnicowa - Poznaj Wiadomość O Przewodniku</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/echec-de-la-synchronisation-dropbox-sur-windows-10-resolvez-le-probleme-en-un-clic/"><u>Echec De La Synchronisation Dropbox Sur Windows 10? Résolvez Le Problème en Un Clic!</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/efficiently-convert-samsung-storage-systems-from-mbr-to-gpt-format-with-two-methods/"><u>Efficiently Convert Samsung Storage Systems From MBR to GPT Format with Two Methods</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-navigating-digital-dialogues-insider-secrets-to-proficient-zoom-conversations/"><u>In 2024, Navigating Digital Dialogues Insider Secrets to Proficient Zoom Conversations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premier-pick-top-10-apps-to-catch-football-and-tennis-in-the-moment/"><u>In 2024, Premier Pick Top 10 Apps to Catch Football and Tennis in the Moment</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-top-strategies-to-maximize-win11-usage/"><u>In 2024, Top Strategies to Maximize Win11 Usage</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/regain-access-to-your-lost-wechat-messages-using-icloud-restores-on-ios-devices-a-step-by-step-guide/"><u>Regain Access to Your Lost WeChat Messages Using iCloud Restores on iOS Devices - A Step-by-Step Guide</u></a></li>
 </ul></div>
 

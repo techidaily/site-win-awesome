@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Turning Off Website Notifications Across Chrome, Firefox and Edge Browsers"
-date: 2024-11-04T19:33:15.658Z
-updated: 2024-11-06T21:04:05.270Z
+date: 2024-11-10T16:52:16.011Z
+updated: 2024-11-17T00:51:43.744Z
 tags:
   - product
   - antivirus
@@ -84,6 +84,19 @@ Luckily, browser makers were aware of this potential for misuse. All the major o
 
 Let’s run down these options on the major browsers on the desktop first, and then we shall take a look at how you can block website notifications on your mobile devices, too.
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Disable Push Notifications in Desktop Browsers
 
 Your web browser likely asks you to allow websites to send notifications, via popups, offering you the options to Allow or Block. You may have visited certain sites in the past and pressed the allow button without realizing it. Or it may be that you have intentionally decided to get rid of web notifications.
@@ -97,19 +110,6 @@ If you have decided that you just don’t want them, then follow these steps out
 Google Chrome provides robust control over web notifications, allowing you to finely tune which websites are allowed to send you these push alerts. It has a similar procedure for Windows, macOS, and Android users, though the exact process will depend on what platform you are on.
 
 ![Stop Chrome Web Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/Chrome-Web-Notifications.png)
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To disable website notifications in Chrome, follow the instructions below.
 
@@ -128,6 +128,13 @@ Once done, these websites will no longer be able to send you notifications.
 Chrome also allows you to manually add exceptions. For example, if you want to only allow notifications from [Facebook](https://tools.techidaily.com/malwarefox/products/) or Twitter while disallowing annoying prompts from every other website, then it is very easy to set it up here in this panel.
 
 [How to Stop Google Chrome Notifications](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **How to turn off web notifications in Mozilla Firefox**
 
@@ -155,6 +162,13 @@ Once you are done, hit the **Save Changes** button.
 
 ![Firefox About Config](https://www.malwarefox.com/wp-content/uploads/2019/07/Firefox-About-Config.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Since Firefox does not let you disable website notifications altogether from its regular Settings panel, you will need to dive into its advanced configuration page to turn off notifications from all websites. It is a quick and easy process, so follow the steps outlined below.
 
 1. Open **Firefox**.
@@ -170,6 +184,13 @@ Change this value to **True**, if you change your mind, and would rather have Fi
 
 [4 Ways to Block Pop-up Ads in Firefox](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **How to block notifications on Microsoft Edge**
 
 Microsoft introduced web notification on Edge with the Windows 10 Anniversary Update. Unfortunately, the browser does not let you disable website notifications prompts altogether, only allowing you to configure notifications on an individual basis for each site.
@@ -177,13 +198,6 @@ Microsoft introduced web notification on Edge with the Windows 10 Anniversary Up
 To do that, you will first need to allow notification for a website. Then you can click the three-dotted menu on the right called **Settings and more**, or press the **Alt + X** key combination to open the settings section.
 
 ![Edge - How to Block Website Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/Edge-Web-Notifications.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Follow this by clicking on the **View Advanced Settings**. This menu will have an option called **Notifications**, where you are able to manage permissions for all websites and control what a web page can do on Microsoft Edge.
 
@@ -200,10 +214,16 @@ Simply launch this shiny new browser, then click on **Settings** in the panel th
 ![New Edge Web Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/New-Edge-Web-Notifications.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You will be treated to this familiar-looking panel that allows you completely block web notifications, or individually block or allow sites below. Just find your way around these simple options, and you should have your notifications customized in this shiny new web browser.
@@ -222,13 +242,6 @@ For example, you can’t currently get Google Chrome notifications through to yo
 
 ![Block Mobile Website Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/Mobile-Notifications.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Nevertheless, disabling website notifications on Android and iOS is a similarly simple process. Just open your browser on your mobile device, then look for the **Notifications** option in settings. You will most likely see a toggle or checkbox to turn these on or off. Just disable them and websites will be stopped from sending you, or asking your permission to send you, notifications.
 
 Worth a mention that on certain browsers, your notification settings are synced. On Google Chrome, for example, they are connected to your Google account. This means, that if you enable or disable them, the settings are reflected across all your devices.
@@ -242,13 +255,6 @@ Google pioneered web notifications back in 2015 when it introduced a way for web
 Right now, the problem is with the sheer number of websites that have implemented push notifications and continue to annoy and frustrate users by bombarding them with notifications. That is, sadly, not changing any time soon, forcing you to fine-tune these settings for each website in your browser.
 
 It takes a bit of time, to set things up to your exact liking. But once done, you will no longer receive unwanted notifications — no matter whether you are using a PC or a mobile device.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -275,18 +281,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-elevate-your-online-presence-step-by-step-reddit-tips/"><u>[New] Elevate Your Online Presence Step-By-Step Reddit Tips</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-optimizing-your-hp-experience-expert-guide-to-screen-capture/"><u>[New] Optimizing Your HP Experience Expert Guide to Screen Capture</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-audiovisual-ascension-masterful-lighting-techniques-unveiled/"><u>[Updated] 2024 Approved Audiovisual Ascension Masterful Lighting Techniques Unveiled</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-instructions-removing-videos-from-youtubes-watchlater-for-2024/"><u>[Updated] Instructions Removing Videos From YouTube's Watchlater for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/1728482395334-os/"><u>「迅速かつ効率的なネットワークによるパソコン群へのOSイメージ拡張方法」</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/44cm44oo44o844oi44or44k944kz44oz44go44oh44k544kv44oi44od44ox44or44k944kz44oz44gu44oh44o844k44oq44od44kv44ki44od44ox5beu44gx5pu44gi44ks44kk44oj44cn/"><u>「ノートパソコンとデスクトップパソコンのデータバックアップ差し替えガイド」</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-spontaneous-restart-issues-on-windows-10-systems/"><u>Diagnosing Spontaneous Restart Issues on Windows 10 Systems</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-oppo-k11x-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo K11x Without Password | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-apple-iphone-11-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your Apple iPhone 11?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi K70 | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/reviving-lost-files-3-effective-methods-for-recovering-a-folder-from-your-onedrive-history/"><u>Reviving Lost Files: 3 Effective Methods for Recovering a Folder From Your OneDrive History</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/ultimate-guide-the-top-3-most-efficient-methods-for-ps5-data-protection/"><u>Ultimate Guide: The Top 3 Most Efficient Methods for PS5 Data Protection</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/visionary-tools-free-environmental-props-for-2024/"><u>Visionary Tools Free Environmental Props for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-claim-cost-free-visuals-from-highest-rated-4-youtube-sources-for-2024/"><u>[New] Claim Cost-Free Visuals From Highest-Rated 4 YouTube Sources for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-captivate-crowds-mastering-hashtag-use-in-high-traffic-short-videos/"><u>[New] In 2024, Captivate Crowds Mastering Hashtag Use in High-Traffic Short Videos</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1728508758701-windows-11/"><u>「從 Windows 11 中切換項目的部分映像到其他硬碟上 - 教程」</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/aucun-souci-avec-sans-tutoriel-dinstallation-et-installation-facile-du-nouvel-os/"><u>Aucun Souci Avec Sans - Tutoriel D’Installation Et Installation Facile Du Nouvel OS.</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/effektivste-techniken-fur-das-cloning-von-festplatten-in-windows-server-2019-experten-tipps-und-tricks/"><u>Effektivste Techniken Für Das Cloning Von Festplatten in Windows Server 2019: Experten-Tipps Und Tricks</u></a></li>
+<li><a href="https://solve-news.techidaily.com/effortless-ocr-scanning-of-pdfsjpgs-made-easy-on-ios-devices-master-finereader-for-iphone/"><u>Effortless OCR Scanning of PDFs/JPGs Made Easy on iOS Devices - Master FineReader for iPhone!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/football-manager-2e0-troubleshooting-the-common-launch-errors-and-crashes/"><u>Football Manager 2E0 - Troubleshooting the Common Launch Errors and Crashes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/quick-solutions-for-resolving-the-ntfs-error-in-windows-10/"><u>Quick Solutions for Resolving the 'NTFS' Error in Windows 10</u></a></li>
+<li><a href="https://fox-making.techidaily.com/simple-guide-to-converting-and-downloading-your-desired-videos-from-fapdu-as-mp4-mov-or-avi-files/"><u>Simple Guide to Converting and Downloading Your Desired Videos From Fapdu as MP4, MOV or AVI Files</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/ultimate-tutorial-on-recovering-an-ipad-with-icloud-and-itunes-backup-options/"><u>Ultimate Tutorial on Recovering an iPad with iCloud and iTunes Backup Options</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/unraveling-virtual-realitys-interactive-gear/"><u>Unraveling Virtual Reality's Interactive Gear</u></a></li>
 </ul></div>
 
