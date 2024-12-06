@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Turning Off Website Notifications Across Chrome, Firefox and Edge Browsers"
-date: 2024-11-22T16:01:00.395Z
-updated: 2024-11-26T16:03:10.202Z
+date: 2024-12-05T02:26:49.328Z
+updated: 2024-12-06T01:48:30.737Z
 tags:
   - product
   - antivirus
@@ -47,7 +47,7 @@ Protect your identity and remove Spyware from your Device
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The Age of Notifications
@@ -58,13 +58,13 @@ Whether it is an app that needs your attention, or whether a social network want
 
 ![Web Notifications - How to Block Website Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/Action-Center-Web-Notifications.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Browsers have also jumped in on the fun, and send these push notifications from websites that either alert you to new blog posts or bombard you with ads — usually somewhere in between!
 
 And just as you would expect, these web notifications can either be useful or an utter annoyance. It is all good if a website tries to notify you about important information, but this is only helpful if this is done on your terms.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What exactly are Web Notifications?
 
@@ -81,10 +81,6 @@ Many of these notifications are genuinely useful, like that from [Gmail](https:/
 And then there may be cases where you may have mistaken subscribed for push notifications from a website. It can be sending you unwanted and irrelevant content, or worse yet, spamming your device with ads and links.
 
 Time to take back control.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to block Notifications from Websites?
 
@@ -104,19 +100,11 @@ Your web browser likely asks you to allow websites to send notifications, via po
 
 If you have decided that you just don’t want them, then follow these steps outlined below for three of the most popular web browsers on the market — Chrome, Firefox, and Edge. The process is not too dissimilar from other browsers like Opera, Vivaldi, and Safari. Just dig for the notification options in the settings and get the job done.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **How to turn off Google Chrome Notifications**
 
 Google Chrome provides robust control over web notifications, allowing you to finely tune which websites are allowed to send you these push alerts. It has a similar procedure for Windows, macOS, and Android users, though the exact process will depend on what platform you are on.
 
 ![Stop Chrome Web Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/Chrome-Web-Notifications.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To disable website notifications in Chrome, follow the instructions below.
 
@@ -162,6 +150,10 @@ Once you are done, hit the **Save Changes** button.
 
 ![Firefox About Config](https://www.malwarefox.com/wp-content/uploads/2019/07/Firefox-About-Config.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Since Firefox does not let you disable website notifications altogether from its regular Settings panel, you will need to dive into its advanced configuration page to turn off notifications from all websites. It is a quick and easy process, so follow the steps outlined below.
 
 1. Open **Firefox**.
@@ -176,6 +168,10 @@ Simple as that.
 Change this value to **True**, if you change your mind, and would rather have Firefox serve up notifications for websites once again.
 
 [4 Ways to Block Pop-up Ads in Firefox](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **How to block notifications on Microsoft Edge**
 
@@ -198,6 +194,10 @@ To that end, the steps to block notification on this new Edge is even simpler.
 Simply launch this shiny new browser, then click on **Settings** in the panel that pops up when clicking the three-dotted menu on the right. Once that opens, select **Site permissions** on the left, and then **Notifications**.
 
 ![New Edge Web Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/New-Edge-Web-Notifications.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You will be treated to this familiar-looking panel that allows you completely block web notifications, or individually block or allow sites below. Just find your way around these simple options, and you should have your notifications customized in this shiny new web browser.
 
@@ -230,7 +230,7 @@ Right now, the problem is with the sheer number of websites that have implemente
 It takes a bit of time, to set things up to your exact liking. But once done, you will no longer receive unwanted notifications — no matter whether you are using a PC or a mobile device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -258,24 +258,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-discovering-the-top-screen-grabber-software-win11-for-2024/"><u>[Updated] Discovering the Top Screen Grabber Software Win11 for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-professional-filmmakers-pick-is-it-filmora-or-democreator/"><u>[Updated] In 2024, Professional Filmmakers' Pick Is It Filmora or Democreator?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-building-a-strong-introduction-examples-and-methods/"><u>2024 Approved Building a Strong Introduction Examples & Methods</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-hack-free-guide-to-anonymous-instagram-story-viewing/"><u>2024 Approved Hack-Free Guide to Anonymous Instagram Story Viewing</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/1728465045590-windows/"><u>迷失在 Windows 系統中？重建被移除的下載文件方法</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/5lia55uu556t54s277yb5asx44kp44km44gf44ov44kh44kk44or44gu5lul5ymn44oq44o844k444on44oz44ks5ywd44gr5oi744gz5oml44gz44gn/"><u>一目瞭然！失われたファイルの以前バージョンを元に戻す手びき</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/1728509080431-aomei/"><u>AOMEI采用的有效数据恢复合作模式成功分享</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/decouvrez-les-fonctionnalites-de-sauvegarde-et-restauration-daomei-backupper-pour-macos/"><u>Découvrez Les Fonctionnalités De Sauvegarde Et Restauration D'AOMEI BackUpper Pour macOS</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/easy-alienware-laptop-backup-guide-secure-your-data-in-just-5-quick-steps/"><u>Easy Alienware Laptop Backup Guide - Secure Your Data in Just 5 Quick Steps</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/el-rapido-acceso-a-tus-datos-la-eleccion-ideal-para-la-sincronizacion-de-archivos-y-carpetas/"><u>El Rápido Acceso a Tus Datos: La Elección Ideal Para La Sincronización De Archivos Y Carpetas</u></a></li>
-<li><a href="https://article-files.techidaily.com/elevate-your-artistry-the-finest-android-drawing-apps-reviewed-for-2024/"><u>Elevate Your Artistry The Finest Android Drawing Apps Reviewed for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/fehlerbehebung-von-aomei-backupper-komplettlosungen-fur-den-nicht-gefundenen-seitenfehler-404-error/"><u>Fehlerbehebung Von AOMEI Backupper - Komplettlösungen Für Den Nicht-Gefundenen Seitenfehler (404 Error)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Plus Without Passcode?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-revolutionizing-action-video-with-polaroid-xs-100i/"><u>In 2024, Revolutionizing Action Video with Polaroid XS 100I</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-youtubes-competition-best-3-online-videostreaming-hubs/"><u>In 2024, YouTube's Competition Best 3 Online Videostreaming Hubs</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/loschen-von-foto-uploads-auf-ihrem-ipad-mit-einfachen-schritten-tipps-and-tricks/"><u>Löschen Von Foto-Uploads Auf Ihrem iPad Mit Einfachen Schritten - Tipps & Tricks</u></a></li>
-<li><a href="https://howto.techidaily.com/oppo-k11-5g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo K11 5G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/pixelated-panoramas-instaslideshow-for-2024/"><u>Pixelated Panoramas InstaSlideShow for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-for-moving-pictures-between-an-iphone-and-windows-os-versions-111087/"><u>Step-by-Step Guide for Moving Pictures Between an iPhone and Windows OS Versions (11/10/8/7)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-when-worlds-crumble-premium-guide-to-top-zombie-games/"><u>[New] 2024 Approved When Worlds Crumble Premium Guide to Top Zombie Games</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-figures-unveiled-exploring-youtubes-curious-numbers-2017/"><u>[Updated] In 2024, Figures Unveiled! Exploring YouTube's Curious Numbers (2017)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-ipad-guide-creating-time-lapse-videos/"><u>[Updated] In 2024, IPad Guide Creating Time-Lapse Videos</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1-troubleshooting-your-graphics-card-steps-to-take-when-your-pc-freezes-guided-by-yl-experts/"><u>1. Troubleshooting Your Graphics Card: Steps to Take When Your PC Freezes - Guided by YL Experts</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/best-sound-cards-for-outstanding-auditory-experience-tips-and-recommendations-by-yl-software/"><u>Best Sound Cards for Outstanding Auditory Experience: Tips and Recommendations by YL Software</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/boost-your-pcs-performance-with-driver-updates-essential-steps-from-yl-software-experts/"><u>Boost Your PC’s Performance with Driver Updates - Essential Steps From YL Software Experts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/effective-solutions-for-resolving-windows-driver-issues-insights-by-yl-computing/"><u>Effective Solutions for Resolving Windows Driver Issues - Insights by YL Computing</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/essential-tips-for-resolving-graphics-card-issues-insights-by-yl-technologies/"><u>Essential Tips for Resolving Graphics Card Issues: Insights by YL Technologies</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/evaluating-the-dependability-of-windows-defender-a-closer-look-by-yl-software-experts/"><u>Evaluating the Dependability of Windows Defender: A Closer Look by YL Software Experts</u></a></li>
+<li><a href="https://win-trending.techidaily.com/gratis-download-fur-wiederherstellungssystemsoftware-aomei-backupper-systemimages-sichern-und-wiederherstellen/"><u>Gratis Download Für Wiederherstellungssystemsoftware: AOMEI Backupper – Systemimages Sichern Und Wiederherstellen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Honor X50i? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-android-gaming-elevated-in-depth-look-at-the-breakthrough-app-kinemaster/"><u>In 2024, Android Gaming Elevated - In-Depth Look at the Breakthrough App, KineMaster</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-without-pain-easy-ways-to-address-deathloop-crashing-problems/"><u>PC Gaming Without Pain: Easy Ways to Address Deathloop Crashing Problems</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ct-your-video-dimensions-on-youtube-for-max-impact-for-2024/"><u>Perfect Your Video Dimensions on YouTube for Max Impact for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/resolving-graphics-card-errors-step-by-step-guide-by-yl-tech-experts/"><u>Resolving Graphics Card Errors: Step-by-Step Guide by YL Tech Experts</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-11-fix-ensures-optimal-hd-sound-performance/"><u>Windows 11 Fix: Ensures Optimal HD Sound Performance</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/yl-software-insights-how-to-fix-and-prevent-blank-page-printouts-effectively/"><u>YL Software Insights: How to Fix and Prevent Blank Page Printouts Effectively</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/yl-softwares-step-by-step-process-to-save-images-on-your-pc-with-windows/"><u>YL Software's Step-by-Step Process to Save Images on Your PC with Windows</u></a></li>
 </ul></div>
 
