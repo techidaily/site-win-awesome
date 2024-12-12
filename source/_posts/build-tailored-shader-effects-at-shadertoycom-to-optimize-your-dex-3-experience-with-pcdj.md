@@ -1,7 +1,7 @@
 ---
 title: Build Tailored Shader Effects at Shadertoy.com to Optimize Your DEX 3 Experience with PCDJ
-date: 2024-11-28T19:00:17.769Z
-updated: 2024-12-05T16:29:03.369Z
+date: 2024-12-05T08:22:54.192Z
+updated: 2024-12-12T00:37:16.430Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/b65c1700fc3be6103fe73469bcdff9ebd5593034f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## So what is a ‘Shader’?
@@ -49,7 +49,7 @@ Creating your own custom shader/s for use with DEX 3 is just another way to cust
 If you’re not interested in creating your own custom shaders, no worries, [we’ve compiled a list of shaders that work great in DEX 3 already](https://tools.techidaily.com/pcdj/products/)!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,21 +71,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/customshader-header.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-sky-high-security-the-prime-5-cloud-choices/"><u>[Updated] Sky High Security The Prime 5 Cloud Choices</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-art-of-multi-platform-broadcasting-in-the-digital-age/"><u>[Updated] The Art of Multi-Platform Broadcasting in the Digital Age</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/2024-approved-guide-to-generating-speech-in-different-languages-with-the-best-tools/"><u>2024 Approved Guide to Generating Speech in Different Languages With the Best Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-perfecting-switch-pro-techniques-on-steam-platform/"><u>2024 Approved Perfecting Switch Pro Techniques on Steam Platform</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-c12-plus-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from C12 Plus</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/boost-your-scanning-speed-with-advanced-techniques-by-yl-software-experts/"><u>Boost Your Scanning Speed with Advanced Techniques by YL Software Experts</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/how-to-fix-a-scanner-displaying-wrong-colors-solutions-from-yl-computing/"><u>How to Fix a Scanner Displaying Wrong Colors: Solutions From YL Computing</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro Max to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-tecno-spark-10-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Tecno Spark 10 5G Phone</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-easiest-video-editor-for-mac-make-impressive-videos-with-ease/"><u>New In 2024, Easiest Video Editor for Mac Make Impressive Videos with Ease</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/new-rtx-no-visual-feedback/"><u>New RTX No Visual Feedback</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/resolving-issues-when-your-graphics-card-fails-insights-from-yl-computing/"><u>Resolving Issues When Your Graphics Card Fails - Insights From YL Computing</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/step-by-step-tutorial-on-scanning-your-hard-disk-for-errors-expert-advice-from-yl-computing/"><u>Step-by-Step Tutorial on Scanning Your Hard Disk for Errors - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/the-final-chapter-in-chinas-united-future-explored-by-yl-software-experts/"><u>The Final Chapter in China’s United Future Explored by YL Software Experts</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/uncovering-reasons-behind-graphics-card-malfunction-expert-analysis-by-yl-computing/"><u>Uncovering Reasons Behind Graphics Card Malfunction: Expert Analysis by YL Computing</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/understanding-computer-lock-ups-a-guide-by-professionals-at-yl-software/"><u>Understanding Computer Lock-Ups: A Guide by Professionals at YL Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-making-a-splash-with-youtube-ad-banners-and-thumbnails/"><u>[New] Making a Splash with YouTube Ad Banners & Thumbnails</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-endless-creativity-free-youtube-art-resources/"><u>[Updated] In 2024, Endless Creativity FREE YouTube Art Resources</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-optimal-yt-thumbnails-aspect-ratios-decoded-for-2024/"><u>[Updated] Optimal YT Thumbnails Aspect Ratios Decoded for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-seamless-integration-from-gopro-to-popular-social-media-platforms/"><u>2024 Approved Seamless Integration From Gopro to Popular Social Media Platforms</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-swiftly-enhanced-facebook-videos-best-extensions-hacks-and-apps/"><u>2024 Approved Swiftly Enhanced Facebook Videos Best Extensions, Hacks, and Apps</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-samsungs-unpacked-2025-announcements-rumors-and-industry-insights/"><u>All You Need to Know About Samsung's Unpacked 2025: Announcements, Rumors, and Industry Insights</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/balancing-security-with-efficiency-effective-techniques-from-yl-computing/"><u>Balancing Security with Efficiency: Effective Techniques From YL Computing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/common-issues-with-corsair-keyboards-and-proven-techniques-for-resolution/"><u>Common Issues with Corsair Keyboards and Proven Techniques for Resolution</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/comprehensive-guide-to-removing-computer-viruses-expert-advice-from-yl-software-experts/"><u>Comprehensive Guide to Removing Computer Viruses - Expert Advice From YL Software Experts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enlightenment-streams-foremost-ed-resources-online/"><u>Enlightenment Streams Foremost Ed Resources Online</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/expert-guide-essential-steps-for-successful-data-recovery-insights-from-yl-computing/"><u>Expert Guide: Essential Steps for Successful Data Recovery - Insights From YL Computing</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/high-quality-gmc-truck-wallpaper-images-and-hd-scales-by-yl-computing-your-go-to-graphic-solutions/"><u>High-Quality GMC Truck Wallpaper Images & HD Scales by YL Computing - Your Go-To Graphic Solutions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Poco C50? | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/improve-system-performance-by-limiting-auto-start-programs-tips-from-yl-computing-and-software-solutions/"><u>Improve System Performance by Limiting Auto-Start Programs: Tips From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/resolving-wi-fi-connectivity-problems-on-windows-10-a-step-by-step-guide-tech-solutions-by-yl/"><u>Resolving Wi-Fi Connectivity Problems on Windows 10: A Step-by-Step Guide - Tech Solutions by YL</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/solving-communication-error-issues-with-your-scanner-expert-advice-from-yl-computing/"><u>Solving Communication Error Issues with Your Scanner: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/understanding-federal-oversight-navigating-the-landscape-of-cryptocurrency-rules-and-guidelines/"><u>Understanding Federal Oversight: Navigating the Landscape of Cryptocurrency Rules and Guidelines</u></a></li>
 </ul></div>
 

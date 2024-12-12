@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ Software: Free Public Beta of DEX Version 3.8 Now Available"
-date: 2024-11-30T22:16:58.966Z
-updated: 2024-12-06T02:38:19.258Z
+date: 2024-12-09T04:01:32.829Z
+updated: 2024-12-11T17:53:59.601Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## NEW, CHANGED OR FIXED IN DEX 3.8 (RELEASE CANDIDATE)
@@ -72,7 +72,7 @@ For controller scripts (mappings) we have added the following:
 _Have questions about our **top DJ mixing software** and any of the new features including with version 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,16 +94,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-coverimage.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-elevate-your-social-story-essential-tactics-for-facebook-profiles/"><u>[New] In 2024, Elevate Your Social Story Essential Tactics for Facebook Profiles</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-applications-to-elevate-your-vtubers-sonic-brand/"><u>2024 Approved Optimal Applications to Elevate Your Vtuber's Sonic Brand</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/accelerate-computer-speed-by-clearing-cache-and-unnecessary-files-expert-tips-from-yl-software-professionals/"><u>Accelerate Computer Speed by Clearing Cache & Unnecessary Files – Expert Tips From YL Software Professionals</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/affordable-mobile-dj-solutions-understanding-the-costs-of-professional-cdj-services/"><u>Affordable Mobile DJ Solutions: Understanding the Costs of Professional CDJ Services</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/boost-your-scanning-speed-with-advanced-techniques-by-yl-software-experts/"><u>Boost Your Scanning Speed with Advanced Techniques by YL Software Experts</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/captivating-christian-grey-themed-wallpaper-and-background-collection-high-quality-visuals-by-yl-software-solutions/"><u>Captivating Christian Grey Themed Wallpaper & Background Collection - High-Quality Visuals by YL Software Solutions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-tutorial-installing-new-insignia-bluetooth-adapter-software-in-windows-systems/"><u>Complete Tutorial: Installing New Insignia Bluetooth Adapter Software in Windows Systems</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/exquisite-cat-image-collections-beautiful-backdrops-and-stunning-graphics-from-yl-software-solutions/"><u>Exquisite Cat Image Collections: Beautiful Backdrops and Stunning Graphics From YL Software Solutions</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/master-your-photography-no-cost-multiplatform-darkroom-software-lightzone-for-all-users/"><u>Master Your Photography: No Cost, Multiplatform Darkroom Software (Lightzone) for All Users</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/premier-software-flawless-video-restoration/"><u>Premier Software: Flawless Video Restoration</u></a></li>
-<li><a href="https://win-forum.techidaily.com/shield-your-android-from-threats-a-step-by-step-guide-to-finding-risky-apps/"><u>Shield Your Android From Threats: A Step-by-Step Guide to Finding Risky Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-selecting-perfect-dimensions-video-aspect-ratios/"><u>[Updated] Selecting Perfect Dimensions Video Aspect Ratios</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715860320608-2024-approved-utilizing-in-device-recording-on-huawei-mate-series-phones-mate-10-mate-20-and-p-series-p20-p10/"><u>2024 Approved Utilizing In-Device Recording on Huawei Mate Series Phones (Mate 10, Mate 20) & P Series (P20, P10).</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/acquire-mova-media-editor-safely-at-unbeatable-prices-with-simova-converter-deal/"><u>Acquire MoVa Media Editor Safely at Unbeatable Prices with SiMOVA Converter Deal!</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/checking-graphic-cards-specs-a-step-by-step-tutorial-for-computer-enthusiasts-hardware-hub/"><u>Checking Graphic Cards Specs: A Step-by-Step Tutorial for Computer Enthusiasts - Hardware Hub</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/creating-visual-impact-in-presentations-top-ranked-software-solutions-reviewed-by-yl-computing/"><u>Creating Visual Impact in Presentations: Top-Ranked Software Solutions Reviewed by YL Computing</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/fix-unresponsive-usb-ports-troubleshooting-guide-and-the-brand-name-yl-computing/"><u>Fix, Unresponsive, USB Ports, Troubleshooting Guide, and the Brand Name YL Computing.</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-add-music-to-vimeo-videos-for-2024/"><u>How to Add Music to Vimeo Videos for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/identifying-factors-leading-to-windows-crash-with-blue-screen-expert-analysis-by-yl-computing/"><u>Identifying Factors Leading to Windows Crash with Blue Screen - Expert Analysis by YL Computing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-pop-8-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Tecno Pop 8 Phone without PIN</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Lava Blaze 2 5G | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-device-driver-found-by-windows/"><u>No Device Driver Found by Windows</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/pcdj-dj-mixer-v31202-free-download-on-karaokenet-and-how-to-use-it/"><u>PCDJ DJ Mixer v3.12.0.2 - Free Download on Karaoke.net and How to Use It</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/resolving-diagnose-and-fix-gpu-issues-and-comprehensive-guide/"><u>Resolving, Diagnose & Fix, GPU Issues, and Comprehensive Guide.</u></a></li>
+<li><a href="https://fox-http.techidaily.com/sharpening-screen-views-for-improved-virtual-interactions/"><u>Sharpening Screen Views for Improved Virtual Interactions</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-adjusting-your-network-preferences-with-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Network Preferences with YL Computing</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/the-impact-of-the-taiping-insurrection-explained-by-yl-software-experts/"><u>The Impact of the Taiping Insurrection Explained by YL Software Experts</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/top-strategies-for-resolving-memory-problems-expert-advice-from-yl-computing/"><u>Top Strategies for Resolving Memory Problems: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transform-your-pixel-watch-2-into-a-wireless-bluetooth-mouse-with-simple-tricks-learn-how-on-zdnet/"><u>Transform Your Pixel Watch 2 Into a Wireless Bluetooth Mouse with Simple Tricks! Learn How on ZDNet</u></a></li>
 </ul></div>
 
