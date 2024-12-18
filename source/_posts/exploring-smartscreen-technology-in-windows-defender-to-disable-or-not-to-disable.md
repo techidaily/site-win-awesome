@@ -1,7 +1,7 @@
 ---
 title: Exploring SmartScreen Technology in Windows Defender – To Disable or Not to Disable?
-date: 2024-12-08T03:22:32.475Z
-updated: 2024-12-12T05:07:05.545Z
+date: 2024-12-11T17:07:15.587Z
+updated: 2024-12-18T17:12:23.452Z
 tags:
   - product
   - antivirus
@@ -36,6 +36,10 @@ Don't compromise your Data and Privacy. TotalAV is a top-notch antivirus program
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why is SmartScreen Running on your PC and What is it?
 
 Microsoft introduced SmartScreen when Windows 8 went live. They later improved this feature in Windows 10.
@@ -58,15 +62,15 @@ The SmartScreen process is just sitting in the background most of the time not u
 
 ![](https://malwarefox.com/wp-content/uploads/2018/06/board-1.png "board (1)")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 However, if your SmartScreen is enabled and you start downloading a new file or application, SmartScreen will kick in. Windows will launch the feature if it’s disabled at the moment and you will see that it’s using a bit of memory and CPU resources as it collects data from the file, sends that data to the Microsoft servers, and waits for the file to be checked to see if it is a known program. If the file is safe, your PC will launch the file or application normally.
 
 The amount of memory and CPU SmartScreen uses should be very small, and the process of verifying a program shouldn’t take more than a few seconds. However, it will take longer to examine larger files. It will only perform this process when you open a downloaded file or a program for the first time. This means that it won’t waste your PC resources every single time you open it.
 
 [What is Malvertising?](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Does SmartScreen Feature Work?
 
@@ -79,12 +83,16 @@ If the SmartScreen isn’t familiar with the application you download, you will 
 ![Windows Defender SmartScreen 2](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/07/Windows-Defender-SmartScreen-2.jpg "Windows Defender SmartScreen 2")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 No matter where the file or application is coming from, this operating system protection will work. So for example, if you download some application or a file in Google Chrome, it’s Safe Browsing service will first check if the downloaded application is safe. After that, once you try to run it, SmartScreen will check again if the downloaded application is harmful. If everything checks out, your antivirus or Windows Defender will check what you’ve downloaded again to see if it’s malicious. So, from this example, we see that SmartScreen is only a single layer of your overall protection.
 
 ![SmartScreen Blocking Download](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/07/SmartScreen-Blocking-Download.jpg "SmartScreen Blocking Download")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 SmartScreen on Windows 10 also blocks malicious downloads and websites in the Windows Store and Microsoft Edge apps. It performs the same function as the Google Safe Browsing program, which blocks access to malicious websites in Firefox and Chrome.
 
@@ -96,17 +104,9 @@ On the other side, the SmartScreen feature will also prevent an unrecognized app
 
 ![](https://malwarefox.com/wp-content/uploads/2018/06/website.png "website")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 SmartScreen is sometimes unfamiliar with applications because they are new or infrequently downloaded. Maybe it’s a program that only a few people use for a certain niche application. If you are 100% sure that the program you downloaded is safe and you want to run it, you can open a pop-up window by clicking “More info” and choosing the option “Run anyway.” Once you do this, you will be able to access the program despite SmartScreen’s warning.
 
 [How does Malicious Website Infect You?](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Disable SmartScreen on Windows 10?
 
@@ -128,6 +128,10 @@ Another option is the “SmartScreen for Windows Store apps.” Your computer us
 
 [Is Dropbox Really Safe?](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Disable SmartScreen on Windows 8?
 
 You will find an option to do this in Windows 8 very easily. Go to the Control Panel and find “System and Security,” and access the Action Center.
@@ -144,22 +148,18 @@ Keep in mind that disabling the feature is not recommended! As we mentioned many
 
 [Is Windows Defender Enough?](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1 thought on “What is SmartScreen Filter and Should You Disable It?”
 
 1. ![](https://secure.gravatar.com/avatar/7c9bc7a3ea6709300d73363e207bfaa3?s=50&d=mm&r=g)  
 JohnIL  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [July 9, 2019 at 6:57 am](https://tools.techidaily.com/malwarefox/products/)  
 Windows has become a nanny OS now trying to save us all from ourselves. Our bad habits online, the files and content we download with unintended attachments. The emails that have nasties in them. Try Linux distribution sometime and you will experience what just a clean OS can really perform well. Mainly because it has no security like Defender running in background, or Smart screen or backup in case you get some sort of ransomeware. Windows used to be fast, back before all these nanny features got tacked on. Best you leave them on though if you doubt yourself even the slightest about your habits online. Maybe that stuff will save yourself some headaches some day?  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -186,24 +186,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-essential-insights-on-asmr-videos-unveiled/"><u>[New] In 2024, Essential Insights on ASMR Videos Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-costless-creativity-a-deep-dive-into-best-luts/"><u>[New] Unveiling Costless Creativity A Deep Dive Into Best LUTs</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-aerial-choreography-the-fresh-take-on-bebops-parrot/"><u>[Updated] In 2024, Aerial Choreography – The Fresh Take on Bebop's Parrot</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-understanding-zoom-webinars-a-stepwise-learning-path/"><u>[Updated] In 2024, Understanding Zoom Webinars A Stepwise Learning Path</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-key-steps-to-ace-zoom-with-a-chromebook/"><u>[Updated] Key Steps to Ace Zoom with a Chromebook</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-spotting-blocked-contacts-in-snapchat/"><u>2024 Approved Spotting Blocked Contacts in Snapchat</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/a-deep-dive-into-cryptocurrency-exchange-processes-with-guidance-from-yl-software-professionals/"><u>A Deep Dive Into Cryptocurrency Exchange Processes with Guidance From YL Software Professionals</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/can-you-trust-your-data-to-be-fully-restored-unveiling-risks-and-limitations-with-yl-software-solutions/"><u>Can You Trust Your Data to Be Fully Restored? Unveiling Risks & Limitations with YL Software Solutions</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/common-causes-for-an-unpowered-screen-solutions-and-expert-advice-by-yl-software-team/"><u>Common Causes for an Unpowered Screen: Solutions and Expert Advice by YL Software Team</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/decibel-documentation-system-and-speech/"><u>Decibel Documentation System and Speech</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-the-unavailable-sleep-feature-on-windows-11/"><u>Fixing the Unavailable 'Sleep' Feature on Windows 11</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/high-definition-natural-scenes-stunning-hd-wallpaper-and-image-collections-by-yl-computing/"><u>High-Definition Natural Scenes: Stunning HD Wallpaper & Image Collections by YL Computing</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/how-effective-is-windows-defender-in-blocking-malicious-threats-expert-insights-from-yl-computing/"><u>How Effective Is Windows Defender in Blocking Malicious Threats? - Expert Insights From YL Computing</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/how-to-accelerate-your-pcs-boot-process-expert-advice-from-yl-computing/"><u>How to Accelerate Your PC's Boot Process: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-infinix-smart-7-hd-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Infinix Smart 7 HD Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/scan-issues-resolved-discover-why-your-computer-wont-detect-the-scanner-and-how-to-fix-it-with-yl-software-expertise/"><u>Scan Issues Resolved: Discover Why Your Computer Won’t Detect the Scanner and How to Fix It with YL Software Expertise</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/secrets-to-prolonging-gopros-energy-capacity/"><u>Secrets to Prolonging GoPro's Energy Capacity</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/ultra-hd-wallpapers-and-decorative-digital-backdrops-by-yl-software/"><u>Ultra-HD Wallpapers & Decorative Digital Backdrops by YL Software</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/understanding-the-risks-using-non-microsoft-registry-editors-reviewed-by-yl-computing/"><u>Understanding the Risks: Using Non-Microsoft Registry Editors Reviewed by YL Computing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-greatest-war-themed-games-the-7-finest-total-war-experiences-for-2024/"><u>[New] Greatest War-Themed Games The 7 Finest Total War Experiences for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-tier-extended-reality-experience-makers/"><u>[New] In 2024, Top-Tier Extended Reality Experience Makers</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1-diagnosing-and-fixing-failed-startup-issues-with-your-processor-expert-advice-from-yl-computing/"><u>1. Diagnosing and Fixing Failed Startup Issues with Your Processor - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-7-crucial-gadgets-for-successful-metaverse-journey/"><u>2024 Approved 7 Crucial Gadgets for Successful Metaverse Journey</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-your-step-by-step-roadmap-for-instagrams-latest-feature-sharing-gifs/"><u>2024 Approved Your Step-by-Step Roadmap for Instagram's Latest Feature - Sharing GIFs</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/avoiding-the-most-frequent-blunders-for-successful-cryptocurrency-investments-expert-advice-by-yl-software/"><u>Avoiding the Most Frequent Blunders for Successful Cryptocurrency Investments – Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/exploring-the-role-of-blockchain-in-cryptocurrency-a-deep-dive-by-yl-software-experts/"><u>Exploring the Role of Blockchain in Cryptocurrency: A Deep Dive by YL Software Experts</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/hide-location-on-apple-iphone-13-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>Hide location on Apple iPhone 13 and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-can-you-simultaneously-monitor-various-cryptocurrency-wallet-funds-with-yl-computing-solutions/"><u>How Can You Simultaneously Monitor Various Cryptocurrency Wallet Funds with YL Computing Solutions?</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/optimizing-your-pcs-potential-a-guide-by-yl-computing-smart-resource-management/"><u>Optimizing Your PC's Potential: A Guide by YL Computing - Smart Resource Management</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-fine-print-of-chat-formatting-highlights-and-caps/"><u>The Fine Print of Chat Formatting: Highlights & Caps</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/top-tips-for-maintaining-trouble-free-hardware-performance-in-windows-insights-from-yl-software-experts/"><u>Top Tips for Maintaining Trouble-Free Hardware Performance in Windows - Insights From YL Software Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-protective-covers-for-apples-latest-iphones-a-comprehensive-guide-iphone-12-and-12-pro-expert-reviews/"><u>Top-Rated Protective Covers for Apple's Latest iPhones: A Comprehensive Guide (iPhone 12 & 12 Pro) - Expert Reviews</u></a></li>
+<li><a href="https://os-tips.techidaily.com/understanding-the-advantages-keeping-your-current-iphone-longer-before-buying-a-new-one/"><u>Understanding the Advantages: Keeping Your Current iPhone Longer Before Buying a New One</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/unveiling-how-the-chinese-civil-conflict-shaped-modern-china-an-analysis-by-yl-software/"><u>Unveiling How the Chinese Civil Conflict Shaped Modern China: An Analysis by YL Software</u></a></li>
 </ul></div>
 

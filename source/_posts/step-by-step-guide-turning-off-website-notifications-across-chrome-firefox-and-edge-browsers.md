@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Turning Off Website Notifications Across Chrome, Firefox and Edge Browsers"
-date: 2024-12-10T03:44:34.261Z
-updated: 2024-12-11T16:37:31.721Z
+date: 2024-12-12T17:15:03.440Z
+updated: 2024-12-18T17:23:50.426Z
 tags:
   - product
   - antivirus
@@ -55,7 +55,7 @@ Whether it is an app that needs your attention, or whether a social network want
 ![Web Notifications - How to Block Website Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/Action-Center-Web-Notifications.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Browsers have also jumped in on the fun, and send these push notifications from websites that either alert you to new blog posts or bombard you with ads — usually somewhere in between!
@@ -78,10 +78,6 @@ And then there may be cases where you may have mistaken subscribed for push noti
 
 Time to take back control.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to block Notifications from Websites?
 
 The whole idea behind web notifications is to allow website owners a more direct relationship with their user base, and easily remind them to re-engage with their content and services. These types of notifications are also better than email, as these are delivered quickly and direct.
@@ -92,10 +88,6 @@ Luckily, browser makers were aware of this potential for misuse. All the major o
 
 Let’s run down these options on the major browsers on the desktop first, and then we shall take a look at how you can block website notifications on your mobile devices, too.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Disable Push Notifications in Desktop Browsers
 
 Your web browser likely asks you to allow websites to send notifications, via popups, offering you the options to Allow or Block. You may have visited certain sites in the past and pressed the allow button without realizing it. Or it may be that you have intentionally decided to get rid of web notifications.
@@ -103,6 +95,10 @@ Your web browser likely asks you to allow websites to send notifications, via po
 [How to Reset Web Browser to Default Setting](https://tools.techidaily.com/malwarefox/products/)
 
 If you have decided that you just don’t want them, then follow these steps outlined below for three of the most popular web browsers on the market — Chrome, Firefox, and Edge. The process is not too dissimilar from other browsers like Opera, Vivaldi, and Safari. Just dig for the notification options in the settings and get the job done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **How to turn off Google Chrome Notifications**
 
@@ -128,11 +124,19 @@ Chrome also allows you to manually add exceptions. For example, if you want to o
 
 [How to Stop Google Chrome Notifications](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **How to turn off web notifications in Mozilla Firefox**
 
 Firefox has a similar process to disable web notifications. You can find these options in the settings panel of the browser, where it lists all the websites that can send you notifications. You can allow or block them individually from there, or turn off push notifications altogether.
 
 ![Firefox - How to Stop Website Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/Firefox-Web-Notifications.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Follow these steps to disable Firefox notifications:
 
@@ -191,15 +195,15 @@ Simply launch this shiny new browser, then click on **Settings** in the panel th
 
 ![New Edge Web Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/New-Edge-Web-Notifications.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You will be treated to this familiar-looking panel that allows you completely block web notifications, or individually block or allow sites below. Just find your way around these simple options, and you should have your notifications customized in this shiny new web browser.
 
 Do note that as of this writing, this new Edge is still in beta. Development on it progresses, and Microsoft may actually decide to change things around regarding how its new browser displays web notifications in the final release.
 
 But for the time being, you have everything you need, listed under Site permissions in Settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn off Push notifications on Mobile Browsers
 
@@ -217,10 +221,6 @@ Worth a mention that on certain browsers, your notification settings are synced.
 
 [How to Remove Malware from Android](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Final Words
 
 Google pioneered web notifications back in 2015 when it introduced a way for websites to send these push updates to Chrome. Most other browsers quickly followed suit, and then further refined their notification options in the coming years.
@@ -230,7 +230,7 @@ Right now, the problem is with the sheer number of websites that have implemente
 It takes a bit of time, to set things up to your exact liking. But once done, you will no longer receive unwanted notifications — no matter whether you are using a PC or a mobile device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -258,17 +258,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-sky-high-success-on-social-media-mastering-dji-drone-streams-for-2024/"><u>[New] Sky-High Success on Social Media Mastering DJI Drone Streams for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-harnessing-instagram-video-potential-crafting-a-strong-marketing-strategy/"><u>[Updated] 2024 Approved Harnessing Instagram Video Potential Crafting a Strong Marketing Strategy</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-pro-tips-for-iphone-burst-photo-sequences/"><u>[Updated] 2024 Approved Pro Tips for iPhone Burst Photo Sequences</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-how-to-edit-drone-videos-for-2024/"><u>[Updated] How to Edit Drone Videos for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-rapid-restoration-of-reddit-archives-removed/"><u>[Updated] Rapid Restoration of Reddit Archives Removed</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/finding-your-perfect-compatible-device-insights-from-yls-computing-and-software-experts/"><u>Finding Your Perfect Compatible Device: Insights From YL's Computing and Software Experts</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/how-crypto-extends-its-reach-in-various-applications-a-deep-dive-by-yl-software/"><u>How Crypto Extends Its Reach in Various Applications - A Deep Dive by YL Software</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-x9a-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Honor X9a to New Android? | Dr.fone</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/in-2024-6-popular-animated-emoji-video-effects/"><u>In 2024, 6 Popular Animated Emoji Video Effects</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-crafting-captivating-thumbnails-a-comprehensive-guide-for-youtube-creators/"><u>In 2024, Crafting Captivating Thumbnails A Comprehensive Guide for YouTube Creators</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/troubleshooting-unseen-graphics-cards-expert-tips-from-yl-computing/"><u>Troubleshooting Unseen Graphics Cards: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/yl-software-presents-stunning-wallpaper-collections-featuring-the-victorious-toronto-raptors-download-now/"><u>YL Software Presents: Stunning Wallpaper Collections Featuring the Victorious Toronto Raptors – Download Now!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-shooting-mastery-in-mobile-devices-via-optical-image-correction/"><u>[New] Shooting Mastery in Mobile Devices via Optical Image Correction</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlock-your-phones-potential-for-high-quality-snapchat-recordings/"><u>[New] Unlock Your Phone's Potential for High-Quality Snapchat Recordings</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-mastering-hash-tactics-for-thriving-gaming-vids/"><u>[Updated] 2024 Approved Mastering Hash Tactics for Thriving Gaming Vids</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/download-the-latest-dj-software-free-public-beta-of-dex-version-38-now-available/"><u>Download the Latest DJ Software: Free Public Beta of DEX Version 3.8 Now Available</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/expert-techniques-for-restoring-corrupted-data-on-pcs-yl-softwares-proven-solutions/"><u>Expert Techniques for Restoring Corrupted Data on PCs: YL Software's Proven Solutions</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/exploring-the-impact-how-did-the-opium-wars-shape-chinas-historical-trajectory-insights-by-yl-computing/"><u>Exploring the Impact: How Did the Opium Wars Shape China's Historical Trajectory? - Insights by YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-to-speed-up-your-computer-expert-tips-from-yl-computing/"><u>How to Speed Up Your Computer: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/introducing-lyrx-v14-enhanced-with-karaokenet-store-and-improved-app-purchasing-options/"><u>Introducing LYRX v1.4 - Enhanced With Karaoke.net Store & Improved App Purchasing Options</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-no-sound-issues-when-external-speaker-is-connected-with-windows/"><u>Overcoming No Sound Issues When External Speaker Is Connected with Windows</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/solve-scanner-problems-in-windows-11-essential-tips-by-yl-software-experts/"><u>Solve Scanner Problems in Windows 11: Essential Tips by YL Software Experts</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-saving-your-safari-bookmarks-from-iphone-and-mac/"><u>Step-by-Step Guide: Saving Your Safari Bookmarks From iPhone and Mac</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-setting-up-audio-preferences-with-yl-software/"><u>Step-by-Step Guide: Setting Up Audio Preferences with YL Software</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/stunning-space-photography-galactic-view-of-the-milky-way-at-full-hd-1920x1080-premium-graphics-set-from-yl-software/"><u>Stunning Space Photography - Galactic View of the Milky Way at Full HD (1920X1080) | Premium Graphics Set From YL Software</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/unraveling-the-primary-factors-that-sparked-the-chinese-cultural-revolution-of-66-with-expertise-from-yl-computing-and-yl-software/"><u>Unraveling the Primary Factors that Sparked the Chinese Cultural Revolution of '66 with Expertise From YL Computing & YL Software</u></a></li>
 </ul></div>
 

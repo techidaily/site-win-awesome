@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ Software: Free Public Beta of DEX Version 3.8 Now Available"
-date: 2024-12-09T04:01:32.829Z
-updated: 2024-12-11T17:53:59.601Z
+date: 2024-12-13T16:36:45.731Z
+updated: 2024-12-18T16:40:06.202Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## NEW, CHANGED OR FIXED IN DEX 3.8 (RELEASE CANDIDATE)
@@ -72,7 +72,7 @@ For controller scripts (mappings) we have added the following:
 _Have questions about our **top DJ mixing software** and any of the new features including with version 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,24 +94,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-coverimage.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-selecting-perfect-dimensions-video-aspect-ratios/"><u>[Updated] Selecting Perfect Dimensions Video Aspect Ratios</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/1715860320608-2024-approved-utilizing-in-device-recording-on-huawei-mate-series-phones-mate-10-mate-20-and-p-series-p20-p10/"><u>2024 Approved Utilizing In-Device Recording on Huawei Mate Series Phones (Mate 10, Mate 20) & P Series (P20, P10).</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/acquire-mova-media-editor-safely-at-unbeatable-prices-with-simova-converter-deal/"><u>Acquire MoVa Media Editor Safely at Unbeatable Prices with SiMOVA Converter Deal!</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/checking-graphic-cards-specs-a-step-by-step-tutorial-for-computer-enthusiasts-hardware-hub/"><u>Checking Graphic Cards Specs: A Step-by-Step Tutorial for Computer Enthusiasts - Hardware Hub</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/creating-visual-impact-in-presentations-top-ranked-software-solutions-reviewed-by-yl-computing/"><u>Creating Visual Impact in Presentations: Top-Ranked Software Solutions Reviewed by YL Computing</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/fix-unresponsive-usb-ports-troubleshooting-guide-and-the-brand-name-yl-computing/"><u>Fix, Unresponsive, USB Ports, Troubleshooting Guide, and the Brand Name YL Computing.</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/how-to-add-music-to-vimeo-videos-for-2024/"><u>How to Add Music to Vimeo Videos for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Fake Snapchat Location on Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/identifying-factors-leading-to-windows-crash-with-blue-screen-expert-analysis-by-yl-computing/"><u>Identifying Factors Leading to Windows Crash with Blue Screen - Expert Analysis by YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-pop-8-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Tecno Pop 8 Phone without PIN</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/no-device-driver-found-by-windows/"><u>No Device Driver Found by Windows</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/pcdj-dj-mixer-v31202-free-download-on-karaokenet-and-how-to-use-it/"><u>PCDJ DJ Mixer v3.12.0.2 - Free Download on Karaoke.net and How to Use It</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/resolving-diagnose-and-fix-gpu-issues-and-comprehensive-guide/"><u>Resolving, Diagnose & Fix, GPU Issues, and Comprehensive Guide.</u></a></li>
-<li><a href="https://fox-http.techidaily.com/sharpening-screen-views-for-improved-virtual-interactions/"><u>Sharpening Screen Views for Improved Virtual Interactions</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-adjusting-your-network-preferences-with-yl-computing/"><u>Step-by-Step Guide: Adjusting Your Network Preferences with YL Computing</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/the-impact-of-the-taiping-insurrection-explained-by-yl-software-experts/"><u>The Impact of the Taiping Insurrection Explained by YL Software Experts</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/top-strategies-for-resolving-memory-problems-expert-advice-from-yl-computing/"><u>Top Strategies for Resolving Memory Problems: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transform-your-pixel-watch-2-into-a-wireless-bluetooth-mouse-with-simple-tricks-learn-how-on-zdnet/"><u>Transform Your Pixel Watch 2 Into a Wireless Bluetooth Mouse with Simple Tricks! Learn How on ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-revenue-revolution-how-carminatis-youtube-income-model-works-for-2024/"><u>[Updated] Revenue Revolution How Carminati's YouTube Income Model Works for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-selection-best-8-websites-with-striking-3d-and-glamourous-text/"><u>[Updated] Ultimate Selection Best 8 Websites with Striking 3D & Glamourous Text</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ranking-the-greatest-9-mobile-video-communication-services-ios-android/"><u>2024 Approved Ranking the Greatest 9 Mobile Video Communication Services (iOS, Android)</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/can-antivirus-applications-cause-interference-with-different-software-insights-from-yl-computings-expertise/"><u>Can Antivirus Applications Cause Interference with Different Software? Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/detailed-overview-how-does-samsung-galaxy-tab-a-2020-compare-without-its-key-feature/"><u>Detailed Overview: How Does Samsung Galaxy Tab A (2020) Compare Without Its Key Feature?</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/guide-to-fixing-windows-display-problems-with-help-from-yl-software-experts/"><u>Guide to Fixing Windows Display Problems with Help From YL Software Experts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/harmonizing-sound-dynamics-in-ableton-for-2024/"><u>Harmonizing Sound Dynamics in Ableton for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-do-bitcoin-wallets-work-unraveling-secrets-with-yls-technological-solutions/"><u>How Do Bitcoin Wallets Work? Unraveling Secrets with YL's Technological Solutions</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-6-minecraft-house-ideas-for-beginners/"><u>In 2024, Top 6 Minecraft House Ideas for Beginners</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mastering-close-up-techniques-with-videoleap-for-2024/"><u>Mastering Close-Up Techniques with Videoleap for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/overcoming-scanning-errors-expert-tips-for-fixing-message-mishaps-in-yl-software-applications/"><u>Overcoming Scanning Errors: Expert Tips for Fixing Message Mishaps in YL Software Applications</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/premium-slow-motion-spinning-deck-animations-high-quality-gifs-and-videos-by-yl-computing/"><u>Premium Slow-Motion Spinning Deck Animations - High Quality GIFs & Videos by YL Computing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-xiaomi-redmi-a2-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Xiaomi Redmi A2 Screen | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/resolving-pc-overheat-issues-expert-advice-from-yl-software/"><u>Resolving PC Overheat Issues: Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-to-identifying-problematic-video-card-drivers-by-professionals-at-yl-computing-yl-software-solutions/"><u>Step-by-Step Guide to Identifying Problematic Video Card Drivers by Professionals at YL Computing | YL Software Solutions</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/storm-mpv-themed-photos-and-digital-wallpaper-collections-by-yl-computing-the-ultimate-visual-experience/"><u>Storm MPV Themed Photos & Digital Wallpaper Collections by YL Computing: The Ultimate Visual Experience</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210720517-9780876128541-why-god-permits-evil/"><u>Why God Permits Evil | Free Book</u></a></li>
 </ul></div>
 

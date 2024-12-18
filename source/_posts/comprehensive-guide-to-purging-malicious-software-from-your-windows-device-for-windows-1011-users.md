@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Purging Malicious Software From Your Windows Device (For WINDOWS 10/11 Users)
-date: 2024-12-07T17:10:10.072Z
-updated: 2024-12-12T02:15:34.323Z
+date: 2024-12-13T17:40:56.318Z
+updated: 2024-12-18T16:50:08.729Z
 tags:
   - product
   - antivirus
@@ -62,6 +62,10 @@ If you’re already experiencing all these issues, then your PC is probably affe
 
 ## How to Remove Malware from Windows 10?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Step 1: Switch over the PC to Safe mode**
 
 Safe mode is a special way to predict the system-critical problem, which interrupts the normal operation of Windows. So, safe mode is an alternate boot method that makes it easier to diagnose malware infection. There are minimum programs and services in Safe Mode
@@ -75,10 +79,6 @@ So, if any malware started to load automatically into your PC, it will remove th
 After entering into the Safe Mode, you may find that your system runs faster, and then this is all because of the malware infection. Still, the malware persists in your PC, then follow the upcoming methods.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Step 2: Delete Temporary Files**
 
@@ -106,10 +106,14 @@ On Windows 11, it is easy to remove Temporary files. Here are the steps:
 3. Click on the **Temporary files** option.![temporary-files-Windows-11](https://www.windowschimp.com/wp-content/uploads/2021/10/temporary-files-Windows-11.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Tick all the boxes that you want to delete and click on **Remove files**.![delete-temporary-files](https://www.windowschimp.com/wp-content/uploads/2021/10/delete-temporary-files.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -129,10 +133,6 @@ Windows 10Windows 11
 ![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete the file from its root location.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Open Control Panel and click on **Uninstall a program** and check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
 
 #### **Uninstall Suspicious Apps on Windows 11**
@@ -142,18 +142,14 @@ Windows 10Windows 11
 3. Right-click on such applications and open their file location.![uninstall suspicous files](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-suspicous-files.png)
 4. Delete all files from the targeted folder. Some files won’t be deleted as the application is still active.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Open **Control Panel** and click on **Uninstall a program**.![uninstall-a-program](https://www.malwarefox.com/wp-content/uploads/2021/09/uninstall-a-program.png)
 6. Check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Step 4: Remove System Restore Points**
 
@@ -162,6 +158,10 @@ The system restore points can also have the potential to contain malware, so del
 1. To do this, press the _“Windows + pause break”_ keys to open the System window from the control panel and choose the _“System protection”._![remove malware from Windows 10](https://www.malwarefox.com/wp-content/uploads/2017/08/3-2.png)
 2. From the System Properties window, select the _drive_ whose system protection is located (Local Disk: C) and click _“Configure”_ and _“Ok”._![remove malware from Windows 10](https://www.malwarefox.com/wp-content/uploads/2017/08/4-2.png)
 3. Tap the _“Delete”_ button to delete the restore points for your system. Now, the small confirmation dialog window will persist, click _“continue”_ to remove all the restore points on the selected drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -180,6 +180,10 @@ Here are the steps to reset the Google Chrome browser:
 1. Launch Google Chrome, click on three dots at the top right corner, and choose **Settings** from the menu.![google-chrome-settings](https://www.malwarefox.com/wp-content/uploads/2021/09/google-chrome-settings.png)
 2. On the Settings page, click on the **Advanced** at the left pane.![adanced-chrome-settings](https://www.malwarefox.com/wp-content/uploads/2021/09/adanced-chrome-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Under Advanced settings, click on **Reset and clean up**.![reset-and-clean-up](https://www.malwarefox.com/wp-content/uploads/2021/09/reset-and-clean-up.png)
 4. Next, click on the **Reset Settings** button to finish resetting the Chrome Browser.![reset-settings](https://www.malwarefox.com/wp-content/uploads/2021/09/reset-settings.png)
 
@@ -192,15 +196,19 @@ Follow these steps to reset the Mozilla Firefox:
 1. Open Mozilla Firefox, click on the menu button at the top right corner, and select **Help**.![firefox-help](https://www.malwarefox.com/wp-content/uploads/2021/09/firefox-help.png)
 2. Under Firefox Help, choose **More troubleshooting information**.![more-troubleshooting-options](https://www.malwarefox.com/wp-content/uploads/2021/09/more-troubleshooting-options.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. On the Troubleshooting Information page, click on the **Refresh Firefox** button under **Give Firefox a tune up**. This is on the right side of the page.![refresh-firefox](https://www.malwarefox.com/wp-content/uploads/2021/09/refresh-firefox.png)
 4. On the warning pop-up, click on **Refresh Firefox**.![click-on-refresh-firefox](https://www.malwarefox.com/wp-content/uploads/2021/09/click-on-refresh-firefox.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### **Reset Microsoft Edge Browser**
@@ -210,18 +218,14 @@ On Microsoft Edge, follow these instructions to reset it:
 1. Launch Edge browser, click on three horizontal dots at top right corner, and select **Settings** from the menu.![edge-settings](https://www.malwarefox.com/wp-content/uploads/2021/09/edge-settings.png)
 2. Under the settings page, click on **Reset settings** on the left pane.![reset-settings-edge](https://www.malwarefox.com/wp-content/uploads/2021/09/reset-settings-edge.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Click on **Restore settings to their default value**.![reset-edge](https://www.malwarefox.com/wp-content/uploads/2021/09/reset-edge.png)
 4. Next, on the Restore settings pop-up, click on the **Reset** button.![reset-edge-browser](https://www.malwarefox.com/wp-content/uploads/2021/09/reset-edge-browser.png)
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### **Step 6: Install and Scan with an Anti-Malware**
 
@@ -249,10 +253,6 @@ MalwareFox is rated as a decent anti-malware program to get rid of malware from 
 
 Factory resetting a device will clean up all the data on the device including malware. However, it might not work in certain cases like a rootkit.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
 Comment
@@ -278,16 +278,21 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtubes-everlasting-titles-with-millions-of-viewers/"><u>[New] YouTube's Everlasting Titles with Millions of Viewers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-effortless-twitch-livestream-restarts/"><u>[Updated] 2024 Approved Effortless Twitch Livestream Restarts</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/affordable-mobile-dj-solutions-understanding-the-costs-of-professional-cdj-services/"><u>Affordable Mobile DJ Solutions: Understanding the Costs of Professional CDJ Services</u></a></li>
-<li><a href="https://games-able.techidaily.com/become-a-pokemon-pro-ios-strategies-unveiled/"><u>Become a Pokémon Pro: IOS Strategies Unveiled</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/boost-your-scanning-speed-with-advanced-techniques-by-yl-software-experts/"><u>Boost Your Scanning Speed with Advanced Techniques by YL Software Experts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/considerations-regulieres-pour-windows-video-ia-questions-souvent-posees-avec-des-answers-valides/"><u>Considérations Régulières Pour Windows Video IA : Questions Souvent Posées Avec Des Answers Valides</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/detailed-assessment-of-rings-pro-video-doorbell-the-pinnacle-of-intelligent-monitoring-devices/"><u>Detailed Assessment of Ring's Pro Video Doorbell: The Pinnacle of Intelligent Monitoring Devices</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-nvidia-drivers-for-your-windows-11-pc-with-ease/"><u>Get the Latest NVIDIA Drivers for Your Windows 11 PC with Ease</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/how-to-fix-a-scanner-displaying-wrong-colors-solutions-from-yl-computing/"><u>How to Fix a Scanner Displaying Wrong Colors: Solutions From YL Computing</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/step-by-step-tutorial-on-scanning-your-hard-disk-for-errors-expert-advice-from-yl-computing/"><u>Step-by-Step Tutorial on Scanning Your Hard Disk for Errors - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/supercharge-your-content-innovative-youtube-seo-tools-to-use-for-2024/"><u>Supercharge Your Content Innovative YouTube SEO Tools to Use for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-keeping-memories-afloat-the-top-selection-of-cloud-services-reviewed/"><u>[New] Keeping Memories Afloat The Top Selection of Cloud Services Reviewed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-elevate-your-instagram-shots-with-strategic-borders/"><u>[Updated] In 2024, Elevate Your Instagram Shots With Strategic Borders</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/aomei-windows-iphone/"><u>AOMEI 数据恢复软件 无限量下载 - 专为 Windows 与 iPhone 设计</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/backing-up-your-iphone-6-a-step-by-step-guide-without-using-itunes/"><u>Backing Up Your iPhone 6: A Step-by-Step Guide - Without Using iTunes</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/comment-retrouver-les-fichiers-tmp-supprimes-en-2-methodes-efficientes/"><u>Comment Retrouver Les Fichiers Tmp Supprimés en 2 Méthodes Efficientes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-leading-cable-modems-on-the-market-for-202n4/"><u>Discover the Leading Cable Modems on the Market for 202N4</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oneplus-nord-n30-se-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your OnePlus Nord N30 SE in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-to-clone-windows-11-image-onto-multiple-pcs-in-just-3-simple-steps/"><u>How to Clone Windows 11 Image Onto Multiple PCs in Just 3 Simple Steps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-y200e-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo Y200e 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-driver-update-for-intel-wireless-ac-9560-get-it-now/"><u>Latest Driver Update for Intel Wireless AC 9560: Get It Now!</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/nach-dem-upgrade-auf-ios-15-starten-ipad-und-iphone-nicht-mehr-korrekt/"><u>Nach Dem Upgrade Auf iOS 15 Starten iPad Und iPhone Nicht Mehr Korrekt</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1728486405676-nas/"><u>NASデバイス上のデータを安全に保護するための初心者向けバックアップ手順</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-tips-for-efficiently-minimizing-the-size-of-your-iso-files/"><u>Top Tips for Efficiently Minimizing the Size of Your ISO Files</u></a></li>
+<li><a href="https://windows11.techidaily.com/unheard-voices-in-meet-solving-windows-microphone-problems/"><u>Unheard Voices in Meet: Solving Windows Microphone Problems</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-the-ultimate-guide-to-motion-tracking-on-android-and-iphone/"><u>Updated 2024 Approved The Ultimate Guide to Motion Tracking on Android and iPhone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/windows-11qnap-nas/"><u>Windows 11至QNAP NAS逆向移裝的簡易手法</u></a></li>
 </ul></div>
 

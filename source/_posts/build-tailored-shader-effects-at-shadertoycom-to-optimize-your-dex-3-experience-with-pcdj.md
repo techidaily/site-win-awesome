@@ -1,7 +1,7 @@
 ---
 title: Build Tailored Shader Effects at Shadertoy.com to Optimize Your DEX 3 Experience with PCDJ
-date: 2024-12-05T08:22:54.192Z
-updated: 2024-12-12T00:37:16.430Z
+date: 2024-12-11T17:24:47.106Z
+updated: 2024-12-18T17:21:06.890Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/b65c1700fc3be6103fe73469bcdff9ebd5593034f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## So what is a ‘Shader’?
@@ -39,7 +39,7 @@ We found this easy-to-follow ‘[Beginner’s Guide to Coding Graphics Shaders](
 [View Guide to Coding Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would I want to create a custom Shader?
@@ -49,7 +49,7 @@ Creating your own custom shader/s for use with DEX 3 is just another way to cust
 If you’re not interested in creating your own custom shaders, no worries, [we’ve compiled a list of shaders that work great in DEX 3 already](https://tools.techidaily.com/pcdj/products/)!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,22 +71,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/customshader-header.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-making-a-splash-with-youtube-ad-banners-and-thumbnails/"><u>[New] Making a Splash with YouTube Ad Banners & Thumbnails</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-endless-creativity-free-youtube-art-resources/"><u>[Updated] In 2024, Endless Creativity FREE YouTube Art Resources</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-optimal-yt-thumbnails-aspect-ratios-decoded-for-2024/"><u>[Updated] Optimal YT Thumbnails Aspect Ratios Decoded for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-seamless-integration-from-gopro-to-popular-social-media-platforms/"><u>2024 Approved Seamless Integration From Gopro to Popular Social Media Platforms</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-swiftly-enhanced-facebook-videos-best-extensions-hacks-and-apps/"><u>2024 Approved Swiftly Enhanced Facebook Videos Best Extensions, Hacks, and Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/all-you-need-to-know-about-samsungs-unpacked-2025-announcements-rumors-and-industry-insights/"><u>All You Need to Know About Samsung's Unpacked 2025: Announcements, Rumors, and Industry Insights</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/balancing-security-with-efficiency-effective-techniques-from-yl-computing/"><u>Balancing Security with Efficiency: Effective Techniques From YL Computing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/common-issues-with-corsair-keyboards-and-proven-techniques-for-resolution/"><u>Common Issues with Corsair Keyboards and Proven Techniques for Resolution</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/comprehensive-guide-to-removing-computer-viruses-expert-advice-from-yl-software-experts/"><u>Comprehensive Guide to Removing Computer Viruses - Expert Advice From YL Software Experts</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/enlightenment-streams-foremost-ed-resources-online/"><u>Enlightenment Streams Foremost Ed Resources Online</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/expert-guide-essential-steps-for-successful-data-recovery-insights-from-yl-computing/"><u>Expert Guide: Essential Steps for Successful Data Recovery - Insights From YL Computing</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/high-quality-gmc-truck-wallpaper-images-and-hd-scales-by-yl-computing-your-go-to-graphic-solutions/"><u>High-Quality GMC Truck Wallpaper Images & HD Scales by YL Computing - Your Go-To Graphic Solutions</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Poco C50? | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/improve-system-performance-by-limiting-auto-start-programs-tips-from-yl-computing-and-software-solutions/"><u>Improve System Performance by Limiting Auto-Start Programs: Tips From YL Computing & Software Solutions</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/resolving-wi-fi-connectivity-problems-on-windows-10-a-step-by-step-guide-tech-solutions-by-yl/"><u>Resolving Wi-Fi Connectivity Problems on Windows 10: A Step-by-Step Guide - Tech Solutions by YL</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/solving-communication-error-issues-with-your-scanner-expert-advice-from-yl-computing/"><u>Solving Communication Error Issues with Your Scanner: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/understanding-federal-oversight-navigating-the-landscape-of-cryptocurrency-rules-and-guidelines/"><u>Understanding Federal Oversight: Navigating the Landscape of Cryptocurrency Rules and Guidelines</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-breaking-down-barriers-with-shared-youtube-curations-for-2024/"><u>[Updated] Breaking Down Barriers with Shared YouTube Curations for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1-adjust-your-personal-profile-a-step-by-step-guide-on-managing-your-account-preferences-at-yl-computing/"><u>1. Adjust Your Personal Profile: A Step-by-Step Guide on Managing Your Account Preferences at YL Computing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-direct-download-destiny-ultimate-guide-to-mp3-makers/"><u>2024 Approved Direct Download Destiny Ultimate Guide to Mp3 Makers</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-exploring-the-landscape-of-music-and-intellectual-property-on-insta/"><u>2024 Approved Exploring the Landscape of Music & Intellectual Property on Insta</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leveraging-time-stamps-for-enhanced-video-clarity-on-youtube/"><u>2024 Approved Leveraging Time Stamps for Enhanced Video Clarity on YouTube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-superior-hd-visual-capture-and-recorders/"><u>2024 Approved Superior HD Visual Capture and Recorders</u></a></li>
+<li><a href="https://driver-install.techidaily.com/accelerate-hd-graphics-sdk-update/"><u>Accelerate HD Graphics SDK Update</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/easy-guide-update-your-programs-via-control-panel-learn-with-yl-computing/"><u>Easy Guide: Update Your Programs via Control Panel - Learn with YL Computing</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/guide-to-fixing-windows-display-problems-with-help-from-yl-software-experts/"><u>Guide to Fixing Windows Display Problems with Help From YL Software Experts</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-do-bitcoin-wallets-work-unraveling-secrets-with-yls-technological-solutions/"><u>How Do Bitcoin Wallets Work? Unraveling Secrets with YL's Technological Solutions</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-to-troubleshoot-the-cannot-start-application-error-on-your-windows-pc-expert-advice-from-yl-computing/"><u>How to Troubleshoot the 'Cannot Start Application' Error on Your Windows PC - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/identifying-compatible-memory-upgrades-for-your-system-with-yls-easy-to-follow-steps/"><u>Identifying Compatible Memory Upgrades for Your System with YL's Easy-to-Follow Steps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unlock-channels-success-key-equipment-insights/"><u>In 2024, Unlock Channels Success Key Equipment Insights</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/overcoming-scanning-errors-expert-tips-for-fixing-message-mishaps-in-yl-software-applications/"><u>Overcoming Scanning Errors: Expert Tips for Fixing Message Mishaps in YL Software Applications</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-zte-nubia-z60-ultra-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing ZTE Nubia Z60 Ultra to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-windows-7-microphone-malfunctions-effective-tips-and-steps/"><u>Resolving Windows 7 Microphone Malfunctions – Effective Tips & Steps</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/solve-your-network-card-driver-difficulties-with-proven-strategies-from-yl-software-experts/"><u>Solve Your Network Card Driver Difficulties with Proven Strategies From YL Software Experts</u></a></li>
 </ul></div>
 
