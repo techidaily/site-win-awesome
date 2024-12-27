@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ Software: Free Public Beta of DEX Version 3.8 Now Available"
-date: 2024-12-13T16:36:45.731Z
-updated: 2024-12-18T16:40:06.202Z
+date: 2024-12-24T21:05:52.901Z
+updated: 2024-12-27T05:32:39.112Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## NEW, CHANGED OR FIXED IN DEX 3.8 (RELEASE CANDIDATE)
@@ -72,7 +72,7 @@ For controller scripts (mappings) we have added the following:
 _Have questions about our **top DJ mixing software** and any of the new features including with version 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,22 +94,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-coverimage.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-revenue-revolution-how-carminatis-youtube-income-model-works-for-2024/"><u>[Updated] Revenue Revolution How Carminati's YouTube Income Model Works for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-selection-best-8-websites-with-striking-3d-and-glamourous-text/"><u>[Updated] Ultimate Selection Best 8 Websites with Striking 3D & Glamourous Text</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ranking-the-greatest-9-mobile-video-communication-services-ios-android/"><u>2024 Approved Ranking the Greatest 9 Mobile Video Communication Services (iOS, Android)</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/can-antivirus-applications-cause-interference-with-different-software-insights-from-yl-computings-expertise/"><u>Can Antivirus Applications Cause Interference with Different Software? Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/detailed-overview-how-does-samsung-galaxy-tab-a-2020-compare-without-its-key-feature/"><u>Detailed Overview: How Does Samsung Galaxy Tab A (2020) Compare Without Its Key Feature?</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/guide-to-fixing-windows-display-problems-with-help-from-yl-software-experts/"><u>Guide to Fixing Windows Display Problems with Help From YL Software Experts</u></a></li>
-<li><a href="https://fox-links.techidaily.com/harmonizing-sound-dynamics-in-ableton-for-2024/"><u>Harmonizing Sound Dynamics in Ableton for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/how-do-bitcoin-wallets-work-unraveling-secrets-with-yls-technological-solutions/"><u>How Do Bitcoin Wallets Work? Unraveling Secrets with YL's Technological Solutions</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-6-minecraft-house-ideas-for-beginners/"><u>In 2024, Top 6 Minecraft House Ideas for Beginners</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/mastering-close-up-techniques-with-videoleap-for-2024/"><u>Mastering Close-Up Techniques with Videoleap for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/overcoming-scanning-errors-expert-tips-for-fixing-message-mishaps-in-yl-software-applications/"><u>Overcoming Scanning Errors: Expert Tips for Fixing Message Mishaps in YL Software Applications</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/premium-slow-motion-spinning-deck-animations-high-quality-gifs-and-videos-by-yl-computing/"><u>Premium Slow-Motion Spinning Deck Animations - High Quality GIFs & Videos by YL Computing</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-xiaomi-redmi-a2-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Xiaomi Redmi A2 Screen | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/resolving-pc-overheat-issues-expert-advice-from-yl-software/"><u>Resolving PC Overheat Issues: Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-to-identifying-problematic-video-card-drivers-by-professionals-at-yl-computing-yl-software-solutions/"><u>Step-by-Step Guide to Identifying Problematic Video Card Drivers by Professionals at YL Computing | YL Software Solutions</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/storm-mpv-themed-photos-and-digital-wallpaper-collections-by-yl-computing-the-ultimate-visual-experience/"><u>Storm MPV Themed Photos & Digital Wallpaper Collections by YL Computing: The Ultimate Visual Experience</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210720517-9780876128541-why-god-permits-evil/"><u>Why God Permits Evil | Free Book</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-final-cut-pros-top-10-must-have-plug-ins-for-professionals/"><u>[New] 2024 Approved Final Cut Pro’s Top 10 Must-Have Plug-Ins for Professionals</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-essential-20-no-cost-pubg-imagery-bundles/"><u>[New] Essential 20 No-Cost PUBG Imagery Bundles</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagrams-best-tools-ranked-editors-to-elevate-reels/"><u>[New] In 2024, Instagram's Best Tools Ranked Editors to Elevate Reels</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1728465669027-404/"><u>検索されたページの表示に失敗: 404エラー</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/iuihquwllewmluikhplusijvew4joantplusmaqoi6qplusehroebpoaqloahidog5lij5ycl6auy5pwi5yplusw5zue5rovig/"><u>自動化複製希捷隨身硬盤檔案: 三個高效取回法</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/complete-guide-steps-to-perform-sysprep-on-windows-11-easy-tutorial/"><u>Complete Guide: Steps to Perform Sysprep on Windows 11 - Easy Tutorial</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-remedies-for-a-malfunctioning-kotion-g2000-microphone-get-back-to-recording/"><u>Effective Remedies for a Malfunctioning Kotion G2000 Microphone – Get Back to Recording</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/einfache-anleitung-zum-starten-in-die-windows-10-recovery-environment-perfekt-fur-neueinsteiger/"><u>Einfache Anleitung Zum Starten in Die Windows 10 Recovery Environment - Perfekt Für Neueinsteiger</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/expert-tips-for-resolving-external-hard-drive-not-detected-issues-on-your-windows-11-pc/"><u>Expert Tips for Resolving 'External Hard Drive Not Detected' Issues on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/expertly-replace-novabackup-unmatched-file-recovery-and-system-restore-features-in-aomei-backupper-for-your-windows-experience/"><u>Expertly Replace NovaBACKUP: Unmatched File Recovery and System Restore Features in AOMEI Backupper for Your Windows Experience</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/t-videos-best-music-dance-and-responses-23-for-2024/"><u>Hot YT Videos Best Music Dance & Responses '23 for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-on-iphone-12-mini-5-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover deleted pictures on iPhone 12 mini? 5 Best Solutions | Stellar</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-to-resolve-itunes-e-error-0xe8000013-during-iphone-activation-top-6-solutions/"><u>How to Resolve iTunes E-Error 0xE8000013 During iPhone Activation: Top 6 Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Honor 80 Pro Straight Screen Edition?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/navigating-tech-with-toms-guide-in-depth-hardware-insights/"><u>Navigating Tech with Tom's Guide: In-Depth Hardware Insights</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/optimizing-podcasts-on-googles-platform-for-2024/"><u>Optimizing Podcasts on Google's Platform for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/quick-fixes-and-hacks-resolving-slow-logins-on-windows-10-computers/"><u>Quick Fixes and Hacks: Resolving Slow Logins on Windows 10 Computers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/king-creative-potential-in-lyric-videos-with-lyric-video-maker/"><u>Unlocking Creative Potential in Lyric Videos with Lyric Video Maker</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/windows-11robocopy/"><u>Windows 11中Robocopy的高效应用与备选策略</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Turning Off Website Notifications Across Chrome, Firefox and Edge Browsers"
-date: 2024-12-12T17:15:03.440Z
-updated: 2024-12-18T17:23:50.426Z
+date: 2024-12-22T05:57:58.257Z
+updated: 2024-12-27T06:13:10.056Z
 tags:
   - product
   - antivirus
@@ -54,13 +54,13 @@ Whether it is an app that needs your attention, or whether a social network want
 
 ![Web Notifications - How to Block Website Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/Action-Center-Web-Notifications.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Browsers have also jumped in on the fun, and send these push notifications from websites that either alert you to new blog posts or bombard you with ads — usually somewhere in between!
 
 And just as you would expect, these web notifications can either be useful or an utter annoyance. It is all good if a website tries to notify you about important information, but this is only helpful if this is done on your terms.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What exactly are Web Notifications?
 
@@ -88,6 +88,10 @@ Luckily, browser makers were aware of this potential for misuse. All the major o
 
 Let’s run down these options on the major browsers on the desktop first, and then we shall take a look at how you can block website notifications on your mobile devices, too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Disable Push Notifications in Desktop Browsers
 
 Your web browser likely asks you to allow websites to send notifications, via popups, offering you the options to Allow or Block. You may have visited certain sites in the past and pressed the allow button without realizing it. Or it may be that you have intentionally decided to get rid of web notifications.
@@ -96,15 +100,15 @@ Your web browser likely asks you to allow websites to send notifications, via po
 
 If you have decided that you just don’t want them, then follow these steps outlined below for three of the most popular web browsers on the market — Chrome, Firefox, and Edge. The process is not too dissimilar from other browsers like Opera, Vivaldi, and Safari. Just dig for the notification options in the settings and get the job done.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **How to turn off Google Chrome Notifications**
 
 Google Chrome provides robust control over web notifications, allowing you to finely tune which websites are allowed to send you these push alerts. It has a similar procedure for Windows, macOS, and Android users, though the exact process will depend on what platform you are on.
 
 ![Stop Chrome Web Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/Chrome-Web-Notifications.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To disable website notifications in Chrome, follow the instructions below.
 
@@ -124,10 +128,6 @@ Chrome also allows you to manually add exceptions. For example, if you want to o
 
 [How to Stop Google Chrome Notifications](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **How to turn off web notifications in Mozilla Firefox**
 
 Firefox has a similar process to disable web notifications. You can find these options in the settings panel of the browser, where it lists all the websites that can send you notifications. You can allow or block them individually from there, or turn off push notifications altogether.
@@ -135,7 +135,7 @@ Firefox has a similar process to disable web notifications. You can find these o
 ![Firefox - How to Stop Website Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/Firefox-Web-Notifications.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Follow these steps to disable Firefox notifications:
@@ -202,7 +202,7 @@ Do note that as of this writing, this new Edge is still in beta. Development on 
 But for the time being, you have everything you need, listed under Site permissions in Settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Turn off Push notifications on Mobile Browsers
@@ -230,7 +230,7 @@ Right now, the problem is with the sheer number of websites that have implemente
 It takes a bit of time, to set things up to your exact liking. But once done, you will no longer receive unwanted notifications — no matter whether you are using a PC or a mobile device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -258,22 +258,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-shooting-mastery-in-mobile-devices-via-optical-image-correction/"><u>[New] Shooting Mastery in Mobile Devices via Optical Image Correction</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-unlock-your-phones-potential-for-high-quality-snapchat-recordings/"><u>[New] Unlock Your Phone's Potential for High-Quality Snapchat Recordings</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-mastering-hash-tactics-for-thriving-gaming-vids/"><u>[Updated] 2024 Approved Mastering Hash Tactics for Thriving Gaming Vids</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-x9b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor X9b | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/download-the-latest-dj-software-free-public-beta-of-dex-version-38-now-available/"><u>Download the Latest DJ Software: Free Public Beta of DEX Version 3.8 Now Available</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/expert-techniques-for-restoring-corrupted-data-on-pcs-yl-softwares-proven-solutions/"><u>Expert Techniques for Restoring Corrupted Data on PCs: YL Software's Proven Solutions</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/exploring-the-impact-how-did-the-opium-wars-shape-chinas-historical-trajectory-insights-by-yl-computing/"><u>Exploring the Impact: How Did the Opium Wars Shape China's Historical Trajectory? - Insights by YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Honor Play 40C | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/how-to-speed-up-your-computer-expert-tips-from-yl-computing/"><u>How to Speed Up Your Computer: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/introducing-lyrx-v14-enhanced-with-karaokenet-store-and-improved-app-purchasing-options/"><u>Introducing LYRX v1.4 - Enhanced With Karaoke.net Store & Improved App Purchasing Options</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-no-sound-issues-when-external-speaker-is-connected-with-windows/"><u>Overcoming No Sound Issues When External Speaker Is Connected with Windows</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/solve-scanner-problems-in-windows-11-essential-tips-by-yl-software-experts/"><u>Solve Scanner Problems in Windows 11: Essential Tips by YL Software Experts</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-saving-your-safari-bookmarks-from-iphone-and-mac/"><u>Step-by-Step Guide: Saving Your Safari Bookmarks From iPhone and Mac</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-setting-up-audio-preferences-with-yl-software/"><u>Step-by-Step Guide: Setting Up Audio Preferences with YL Software</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/stunning-space-photography-galactic-view-of-the-milky-way-at-full-hd-1920x1080-premium-graphics-set-from-yl-software/"><u>Stunning Space Photography - Galactic View of the Milky Way at Full HD (1920X1080) | Premium Graphics Set From YL Software</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/unraveling-the-primary-factors-that-sparked-the-chinese-cultural-revolution-of-66-with-expertise-from-yl-computing-and-yl-software/"><u>Unraveling the Primary Factors that Sparked the Chinese Cultural Revolution of '66 with Expertise From YL Computing & YL Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-10-premium-image-editing-overlays-free-for-android-and-iphone-users/"><u>[New] 10 Premium Image Editing Overlays Free for Android & iPhone Users</u></a></li>
+<li><a href="https://win-web3.techidaily.com/windows-server-2016-wbadmin/"><u>最適化されたWindows Server 2016のバックアップ・復元 - Wbadmin機能紹介</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/adapt-and-enhance-the-definitive-guide-to-customizing-your-windows-11-taskbar/"><u>Adapt and Enhance: The Definitive Guide to Customizing Your Windows 11 Taskbar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-guide-configuring-gmail-alerts-for-uninterrupted-inbox-management-zdnet/"><u>Essential Guide: Configuring Gmail Alerts for Uninterrupted Inbox Management | ZDNet</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/find-that-needle-in-the-haystack-expert-techniques-for-finding-specific-files-in-windows-by-yl-computing/"><u>Find That Needle in the Haystack: Expert Techniques for Finding Specific Files in Windows by YL Computing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-reno-11-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Reno 11 5G Phones with/without a PC</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/high-definition-jelly-theme-wallpaper-collection-premium-photo-backgrounds-by-yl-computing/"><u>High-Definition Jelly Theme Wallpaper Collection - Premium Photo Backgrounds by YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/implementing-slack-into-daily-routines-for-efficient-project-management/"><u>Implementing Slack Into Daily Routines for Efficient Project Management</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-windows-10-fix-guide-how-to-show-hidden-taskbar/"><u>Mastering Windows 10: Fix Guide - How To Show Hidden Taskbar</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/revolutionizing-smartphone-photography-iphone-xs-features-explored-for-2024/"><u>Revolutionizing Smartphone Photography IPhone X's Features Explored for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/unveiling-the-impact-of-the-boxers-rebellion-on-todays-china-a-perspective-by-yl-technologies/"><u>Unveiling the Impact of the Boxers' Rebellion on Today's China: A Perspective by YL Technologies</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/weaving-a-captivating-tiktok-closure-narrative-for-2024/"><u>Weaving a Captivating TikTok Closure Narrative for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/yl-softwares-guide-to-effective-third-party-applications-for-memory-issues-in-windows-systems/"><u>YL Software's Guide to Effective Third-Party Applications for Memory Issues in Windows Systems</u></a></li>
 </ul></div>
 
