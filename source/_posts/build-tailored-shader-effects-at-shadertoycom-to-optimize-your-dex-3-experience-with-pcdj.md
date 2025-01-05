@@ -1,7 +1,7 @@
 ---
 title: Build Tailored Shader Effects at Shadertoy.com to Optimize Your DEX 3 Experience with PCDJ
-date: 2024-12-24T01:03:59.767Z
-updated: 2024-12-26T17:14:51.962Z
+date: 2025-01-04T16:05:58.032Z
+updated: 2025-01-05T17:37:23.675Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/b65c1700fc3be6103fe73469bcdff9ebd5593034f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## So what is a ‘Shader’?
@@ -39,7 +39,7 @@ We found this easy-to-follow ‘[Beginner’s Guide to Coding Graphics Shaders](
 [View Guide to Coding Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would I want to create a custom Shader?
@@ -49,7 +49,7 @@ Creating your own custom shader/s for use with DEX 3 is just another way to cust
 If you’re not interested in creating your own custom shaders, no worries, [we’ve compiled a list of shaders that work great in DEX 3 already](https://tools.techidaily.com/pcdj/products/)!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,17 +71,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/customshader-header.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-quick-tips-solve-obss-blackout-during-live-captures/"><u>[Updated] In 2024, Quick Tips Solve OBS's Blackout During Live Captures</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-photographers-edge-innovating-with-instagrams-bokeh-features-for-2024/"><u>[Updated] The Photographer's Edge Innovating with Instagram’s Bokeh Features for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-unlock-youtube-monetization-with-500-subscribers/"><u>[Updated] Unlock YouTube Monetization with 500 Subscribers</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/1-effiziente-datentransfer-methoden-sicheres-duplizieren-von-informationen-auf-ihrer-synology-nas/"><u>1. Effiziente Datentransfer-Methoden: Sicheres Duplizieren Von Informationen Auf Ihrer Synology NAS</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/download-gratuiti-protetta-immagini-window-11-sicurezza-e-privacy-dei-tuoi-dati/"><u>Download Gratuiti Protetta Immagini Window 11 - Sicurezza E Privacy Dei Tuoi Dati</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/effiziente-datensicherung-auf-einem-windows-server-mittels-powershell-skripting/"><u>Effiziente Datensicherung Auf Einem Windows Server Mittels PowerShell Skripting</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-realme-11-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Realme 11 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-x-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone X without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-iphone-11-pro-max-activation-lock-by-drfone-ios/"><u>In 2024, How to Remove iPhone 11 Pro Max Activation Lock</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/manual-removal-of-android-viruses-step-by-step-the-expert-guide/"><u>Manual Removal of Android Viruses Step-by-Step: The Expert Guide</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-list-15-best-adobe-premiere-pro-plugins-to-download-for-2024/"><u>New The Ultimate List 15 Best Adobe Premiere Pro Plugins to Download for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/troubleshooting-stop-code-0xc000021a-on-windows-11-pcs-expert-fixes-and-solutions/"><u>Troubleshooting STOP Code 0Xc000021a on Windows 11 PCs: Expert Fixes and Solutions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-seamless-iphone-recording-creating-fb-shareable-reels/"><u>[New] Seamless iPhone Recording Creating FB Shareable Reels</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-abletons-guide-to-softening-transition-endings/"><u>[Updated] Ableton's Guide to Softening Transition Endings</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1-tecnicas-avanzadas-de-recuperacion-de-datos-restaurar-archivos-en-una-unidad-nas-synology/"><u>1. Técnicas Avanzadas De Recuperación De Datos: Restaurar Archivos en Una Unidad NAS Synology</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/como-clonar-un-ssd-m2-a-otro-m2-con-mayor-capacidad-de-forma-facil/"><u>Cómo Clonar Un SSD M.2 A Otro M.2 Con Mayor Capacidad De Forma Fácil</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-the-problem-of-unsuccessful-casting-to-peripherals-in-windows-10-systems/"><u>Fix the Problem of Unsuccessful Casting to Peripherals in Windows 10 Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-your-malfunctioning-iphone-flashlight-top-12-solutions/"><u>Fix Your Malfunctioning iPhone Flashlight - Top 12 Solutions</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1728508549080-hdd/"><u>HDD取り換えのコツ：データ保護できる手順ガイド</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-tecno-spark-20-proplus-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Tecno Spark 20 Pro+? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/innovation-and-performance-metrics-for-top-screen-recorders-featuring-apeaksoft-for-2024/"><u>Innovation and Performance Metrics for Top Screen Recorders, Featuring Apeaksoft for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/preventing-infection-unpacking-the-spread-of-malware-via-email-and-top-safety-measures/"><u>Preventing Infection: Unpacking the Spread of Malware via Email and Top Safety Measures</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-correcting-code-39-mistakes-on-your-windows-machine/"><u>Step-by-Step Guide to Correcting Code 39 Mistakes on Your Windows Machine</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/tecniche-efficienti-per-eseguire-backup-di-sistemi-windows-dei-tuoi-clienti-utilizzando-soluzioni-di-backup-centralizzate/"><u>Tecniche Efficienti per Eseguire Backup Di Sistemi Windows Dei Tuoi Clienti Utilizzando Soluzioni Di Backup Centralizzate</u></a></li>
 </ul></div>
 

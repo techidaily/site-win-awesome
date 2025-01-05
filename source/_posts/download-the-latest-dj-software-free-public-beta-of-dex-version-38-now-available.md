@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ Software: Free Public Beta of DEX Version 3.8 Now Available"
-date: 2024-12-24T21:05:52.901Z
-updated: 2024-12-27T05:32:39.112Z
+date: 2025-01-02T16:07:01.944Z
+updated: 2025-01-05T17:53:41.333Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## NEW, CHANGED OR FIXED IN DEX 3.8 (RELEASE CANDIDATE)
@@ -72,7 +72,7 @@ For controller scripts (mappings) we have added the following:
 _Have questions about our **top DJ mixing software** and any of the new features including with version 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,24 +94,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-coverimage.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-final-cut-pros-top-10-must-have-plug-ins-for-professionals/"><u>[New] 2024 Approved Final Cut Pro’s Top 10 Must-Have Plug-Ins for Professionals</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-essential-20-no-cost-pubg-imagery-bundles/"><u>[New] Essential 20 No-Cost PUBG Imagery Bundles</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagrams-best-tools-ranked-editors-to-elevate-reels/"><u>[New] In 2024, Instagram's Best Tools Ranked Editors to Elevate Reels</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/1728465669027-404/"><u>検索されたページの表示に失敗: 404エラー</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/iuihquwllewmluikhplusijvew4joantplusmaqoi6qplusehroebpoaqloahidog5lij5ycl6auy5pwi5yplusw5zue5rovig/"><u>自動化複製希捷隨身硬盤檔案: 三個高效取回法</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/complete-guide-steps-to-perform-sysprep-on-windows-11-easy-tutorial/"><u>Complete Guide: Steps to Perform Sysprep on Windows 11 - Easy Tutorial</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-remedies-for-a-malfunctioning-kotion-g2000-microphone-get-back-to-recording/"><u>Effective Remedies for a Malfunctioning Kotion G2000 Microphone – Get Back to Recording</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/einfache-anleitung-zum-starten-in-die-windows-10-recovery-environment-perfekt-fur-neueinsteiger/"><u>Einfache Anleitung Zum Starten in Die Windows 10 Recovery Environment - Perfekt Für Neueinsteiger</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/expert-tips-for-resolving-external-hard-drive-not-detected-issues-on-your-windows-11-pc/"><u>Expert Tips for Resolving 'External Hard Drive Not Detected' Issues on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/expertly-replace-novabackup-unmatched-file-recovery-and-system-restore-features-in-aomei-backupper-for-your-windows-experience/"><u>Expertly Replace NovaBACKUP: Unmatched File Recovery and System Restore Features in AOMEI Backupper for Your Windows Experience</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/t-videos-best-music-dance-and-responses-23-for-2024/"><u>Hot YT Videos Best Music Dance & Responses '23 for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-on-iphone-12-mini-5-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover deleted pictures on iPhone 12 mini? 5 Best Solutions | Stellar</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/how-to-resolve-itunes-e-error-0xe8000013-during-iphone-activation-top-6-solutions/"><u>How to Resolve iTunes E-Error 0xE8000013 During iPhone Activation: Top 6 Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Honor 80 Pro Straight Screen Edition?</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/navigating-tech-with-toms-guide-in-depth-hardware-insights/"><u>Navigating Tech with Tom's Guide: In-Depth Hardware Insights</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/optimizing-podcasts-on-googles-platform-for-2024/"><u>Optimizing Podcasts on Google's Platform for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/quick-fixes-and-hacks-resolving-slow-logins-on-windows-10-computers/"><u>Quick Fixes and Hacks: Resolving Slow Logins on Windows 10 Computers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/king-creative-potential-in-lyric-videos-with-lyric-video-maker/"><u>Unlocking Creative Potential in Lyric Videos with Lyric Video Maker</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/windows-11robocopy/"><u>Windows 11中Robocopy的高效应用与备选策略</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-easy-step-guide-to-iphone-video-inversion/"><u>[New] Easy Step Guide to iPhone Video Inversion</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-visual-vocabulary-at-your-fingertips-exploring-the-best-34-tools-to-convert-videos-into-language-for-2024/"><u>[New] Visual Vocabulary at Your Fingertips Exploring the Best 34 Tools to Convert Videos Into Language for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-c02-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/digital-decor-with-yl-softwares-ford-bronco-wallpaper-gallery-elevate-your-screen-experience/"><u>Digital Decor with YL Software's Ford Bronco Wallpaper Gallery: Elevate Your Screen Experience</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-did-the-boxer-rebellion-shape-the-course-of-chinese-historical-development-insights-by-yl-computing-and-yl-software/"><u>How Did the Boxer Rebellion Shape the Course of Chinese Historical Development? - Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Motorola Moto G13? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-honor-magic-vs-2-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Honor Magic Vs 2 to Another | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-breath-control-and-articulation-for-clear-ppt-speaking/"><u>In 2024, Breath Control and Articulation for Clear PPT Speaking</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/overcoming-graphics-card-lag-expert-insights-from-yl-computing-and-solutions-for-better-performance/"><u>Overcoming Graphics Card Lag: Expert Insights From YL Computing & Solutions for Better Performance</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-hurdles-wows-successful-adoption-of-3d-acceleration/"><u>Overcoming Hurdles: WoW's Successful Adoption of 3D Acceleration</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/pearl-princess-barbie-visuals-and-desktop-backgrounds-handcrafted-by-yl-software-specialists/"><u>Pearl Princess Barbie Visuals and Desktop Backgrounds Handcrafted by YL Software Specialists</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-acquiring-digital-coins-with-ease-tech-insights-by-yl-computing/"><u>Step-by-Step Guide: Acquiring Digital Coins with Ease - Tech Insights by YL Computing</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-setting-up-audio-preferences-with-yl-software/"><u>Step-by-Step Guide: Setting Up Audio Preferences with YL Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unlock-davinci-resolves-full-potential-overcoming-opening-issues-on-pc/"><u>Unlock DaVinci Resolve's Full Potential: Overcoming Opening Issues on PC</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/unmasking-deception-in-digital-finance-expert-tips-on-recognizing-crypto-scams-with-yl-software-solutions/"><u>Unmasking Deception in Digital Finance: Expert Tips on Recognizing Crypto-Scams with YL Software Solutions</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/unveiling-digital-deception-a-guide-by-yl-computing-on-identifying-and-preventing-crypto-scams/"><u>Unveiling Digital Deception: A Guide by YL Computing on Identifying and Preventing Crypto Scams</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/yl-computing-insights-master-the-art-of-finding-documents-quickly-on-windows-or-mac/"><u>YL Computing Insights: Master the Art of Finding Documents Quickly on Windows or Mac</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210011908-9781071539521-h-megkan-paei-ippasia/"><u>Η Μέγκαν πάει ιππασία | Free Book</u></a></li>
 </ul></div>
 

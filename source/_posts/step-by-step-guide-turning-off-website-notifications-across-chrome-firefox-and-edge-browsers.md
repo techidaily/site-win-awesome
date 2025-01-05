@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Turning Off Website Notifications Across Chrome, Firefox and Edge Browsers"
-date: 2024-12-22T05:57:58.257Z
-updated: 2024-12-27T06:13:10.056Z
+date: 2025-01-04T17:04:09.489Z
+updated: 2025-01-05T17:29:26.961Z
 tags:
   - product
   - antivirus
@@ -46,6 +46,10 @@ Protect your identity and remove Spyware from your Device
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Age of Notifications
 
 Although notifications were a part of the Windows operating system in one shape or another, Microsoft officially brought them to the forefront when it introduced the Action Center in Windows 10\. This is the panel that houses the alerts that pop up from the various different corners of the OS.
@@ -59,7 +63,7 @@ Browsers have also jumped in on the fun, and send these push notifications from 
 And just as you would expect, these web notifications can either be useful or an utter annoyance. It is all good if a website tries to notify you about important information, but this is only helpful if this is done on your terms.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What exactly are Web Notifications?
@@ -78,6 +82,10 @@ And then there may be cases where you may have mistaken subscribed for push noti
 
 Time to take back control.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to block Notifications from Websites?
 
 The whole idea behind web notifications is to allow website owners a more direct relationship with their user base, and easily remind them to re-engage with their content and services. These types of notifications are also better than email, as these are delivered quickly and direct.
@@ -87,10 +95,6 @@ Luckily, browser makers were aware of this potential for misuse. All the major o
 [Is Browser Incognito Mode Really Private and Safe?](https://tools.techidaily.com/malwarefox/products/)
 
 Let’s run down these options on the major browsers on the desktop first, and then we shall take a look at how you can block website notifications on your mobile devices, too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Disable Push Notifications in Desktop Browsers
 
@@ -105,10 +109,6 @@ If you have decided that you just don’t want them, then follow these steps out
 Google Chrome provides robust control over web notifications, allowing you to finely tune which websites are allowed to send you these push alerts. It has a similar procedure for Windows, macOS, and Android users, though the exact process will depend on what platform you are on.
 
 ![Stop Chrome Web Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/Chrome-Web-Notifications.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To disable website notifications in Chrome, follow the instructions below.
 
@@ -135,7 +135,7 @@ Firefox has a similar process to disable web notifications. You can find these o
 ![Firefox - How to Stop Website Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/Firefox-Web-Notifications.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Follow these steps to disable Firefox notifications:
@@ -201,10 +201,6 @@ Do note that as of this writing, this new Edge is still in beta. Development on 
 
 But for the time being, you have everything you need, listed under Site permissions in Settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Turn off Push notifications on Mobile Browsers
 
 Mobile browsers are an interesting beast. Although push notifications found their footing on mobile platforms like [Android](https://www.android.com/) and [iOS](https://www.apple.com/ios/), the closed nature of these operating systems means that mobile browsers are not created equal.
@@ -215,11 +211,19 @@ For example, you can’t currently get Google Chrome notifications through to yo
 
 ![Block Mobile Website Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/Mobile-Notifications.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Nevertheless, disabling website notifications on Android and iOS is a similarly simple process. Just open your browser on your mobile device, then look for the **Notifications** option in settings. You will most likely see a toggle or checkbox to turn these on or off. Just disable them and websites will be stopped from sending you, or asking your permission to send you, notifications.
 
 Worth a mention that on certain browsers, your notification settings are synced. On Google Chrome, for example, they are connected to your Google account. This means, that if you enable or disable them, the settings are reflected across all your devices.
 
 [How to Remove Malware from Android](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Final Words
 
@@ -228,10 +232,6 @@ Google pioneered web notifications back in 2015 when it introduced a way for web
 Right now, the problem is with the sheer number of websites that have implemented push notifications and continue to annoy and frustrate users by bombarding them with notifications. That is, sadly, not changing any time soon, forcing you to fine-tune these settings for each website in your browser.
 
 It takes a bit of time, to set things up to your exact liking. But once done, you will no longer receive unwanted notifications — no matter whether you are using a PC or a mobile device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -258,18 +258,24 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-10-premium-image-editing-overlays-free-for-android-and-iphone-users/"><u>[New] 10 Premium Image Editing Overlays Free for Android & iPhone Users</u></a></li>
-<li><a href="https://win-web3.techidaily.com/windows-server-2016-wbadmin/"><u>最適化されたWindows Server 2016のバックアップ・復元 - Wbadmin機能紹介</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/adapt-and-enhance-the-definitive-guide-to-customizing-your-windows-11-taskbar/"><u>Adapt and Enhance: The Definitive Guide to Customizing Your Windows 11 Taskbar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-guide-configuring-gmail-alerts-for-uninterrupted-inbox-management-zdnet/"><u>Essential Guide: Configuring Gmail Alerts for Uninterrupted Inbox Management | ZDNet</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/find-that-needle-in-the-haystack-expert-techniques-for-finding-specific-files-in-windows-by-yl-computing/"><u>Find That Needle in the Haystack: Expert Techniques for Finding Specific Files in Windows by YL Computing</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-reno-11-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Reno 11 5G Phones with/without a PC</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/high-definition-jelly-theme-wallpaper-collection-premium-photo-backgrounds-by-yl-computing/"><u>High-Definition Jelly Theme Wallpaper Collection - Premium Photo Backgrounds by YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/implementing-slack-into-daily-routines-for-efficient-project-management/"><u>Implementing Slack Into Daily Routines for Efficient Project Management</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-windows-10-fix-guide-how-to-show-hidden-taskbar/"><u>Mastering Windows 10: Fix Guide - How To Show Hidden Taskbar</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/revolutionizing-smartphone-photography-iphone-xs-features-explored-for-2024/"><u>Revolutionizing Smartphone Photography IPhone X's Features Explored for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/unveiling-the-impact-of-the-boxers-rebellion-on-todays-china-a-perspective-by-yl-technologies/"><u>Unveiling the Impact of the Boxers' Rebellion on Today's China: A Perspective by YL Technologies</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/weaving-a-captivating-tiktok-closure-narrative-for-2024/"><u>Weaving a Captivating TikTok Closure Narrative for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/yl-softwares-guide-to-effective-third-party-applications-for-memory-issues-in-windows-systems/"><u>YL Software's Guide to Effective Third-Party Applications for Memory Issues in Windows Systems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-streamlining-multi-camera-setup-with-obs/"><u>[New] 2024 Approved Streamlining Multi-Camera Setup with OBS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-crafting-professional-level-sessions-utilizing-mask-and-filter-techniques/"><u>[New] Crafting Professional-Level Sessions Utilizing Mask & Filter Techniques</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-is-sns-hdr-the-best-for-your-hdr-needs-insights/"><u>[Updated] Is SNS HDR the Best for Your HDR Needs? Insights</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1-solusi-efektif-untuk-menghilangkan-masalah-galat-kloninya-tantangan-kloning-macrium-reflect-v980/"><u>1. Solusi Efektif Untuk Menghilangkan Masalah Galat Kloninya: Tantangan Kloning Macrium Reflect V9.8.0</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-mastering-the-use-and-maintenance-of-m1-max-clips/"><u>2024 Approved Mastering the Use and Maintenance of M1 Max Clips</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/comment-corriger-le-probleme-bootmgr-manquant-sur-windows-11/"><u>Comment Corriger Le Problème 'BOOTMGR Manquant' Sur Windows 11 ?</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/comment-graver-plusieurs-copies-dun-disque-dur-sans-cout-avec-un-utilitaire-en-ligne/"><u>Comment Graver Plusieurs Copies D'un Disque Dur Sans Coût Avec Un Utilitaire en Ligne</u></a></li>
+<li><a href="https://games-able.techidaily.com/comparison-of-steam-deck-options/"><u>Comparison of Steam Deck Options</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/guida-passo-passo-come-fare-il-backup-di-una-scheda-sd-sul-pc/"><u>Guida Passo-Passo: Come Fare Il Backup Di Una Scheda SD Sul PC</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/guide-assure-pour-linstallation-dun-ssd-dans-windows-710-pas-besoin-de-reformatage/"><u>Guide Assuré Pour L'installation D'un SSD Dans Windows 7/1^0 : Pas Besoin De Reformatage!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-nokia-c12-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Nokia C12 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-disruptions-stabilizing-sword-and-fairy-series-game-for-smooth-pc-performance/"><u>No More Disruptions: Stabilizing Sword & Fairy Series Game for Smooth PC Performance</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/ogg-mp4/"><u>Oggオーディオに変換してください - 最上級MP4動画を保持</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/quick-fix-for-languishing-printer-jobs/"><u>Quick Fix for Languishing Printer Jobs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/reactivating-dark-mode-on-facebook-simple-solutions-for-a-stylish-interface/"><u>Reactivating Dark Mode on Facebook: Simple Solutions for a Stylish Interface</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/schnelle-und-einfache-methoden-update-dateien-aus-windows-11-entfernen/"><u>Schnelle Und Einfache Methoden: Update-Dateien Aus Windows 11 Entfernen</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/troubleshooting-steps-how-to-remove-unwanted-footage-from-your-gopros-sd-card/"><u>Troubleshooting Steps: How To Remove Unwanted Footage From Your GoPro's SD Card</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/windows-11-systemthread-fehler-nicht-behandeln-entdecken-sie-funf-effiziente-methoden-zur-behebung-des-problems/"><u>Windows 11 Systemthread-Fehler Nicht Behandeln: Entdecken Sie Fünf Effiziente Methoden Zur Behebung Des Problems</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1728482213610-dvd/"><u>パソコンで撮影した画像を安全にDVDへ保存する手順 - シンプルガイド</u></a></li>
 </ul></div>
 
