@@ -1,7 +1,7 @@
 ---
 title: Build Tailored Shader Effects at Shadertoy.com to Optimize Your DEX 3 Experience with PCDJ
-date: 2025-01-04T16:05:58.032Z
-updated: 2025-01-05T17:37:23.675Z
+date: 2025-01-10T05:06:17.291Z
+updated: 2025-01-12T03:46:47.652Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/b65c1700fc3be6103fe73469bcdff9ebd5593034f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## So what is a ‘Shader’?
@@ -39,7 +39,7 @@ We found this easy-to-follow ‘[Beginner’s Guide to Coding Graphics Shaders](
 [View Guide to Coding Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would I want to create a custom Shader?
@@ -49,7 +49,7 @@ Creating your own custom shader/s for use with DEX 3 is just another way to cust
 If you’re not interested in creating your own custom shaders, no worries, [we’ve compiled a list of shaders that work great in DEX 3 already](https://tools.techidaily.com/pcdj/products/)!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,18 +71,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/customshader-header.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-seamless-iphone-recording-creating-fb-shareable-reels/"><u>[New] Seamless iPhone Recording Creating FB Shareable Reels</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-abletons-guide-to-softening-transition-endings/"><u>[Updated] Ableton's Guide to Softening Transition Endings</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/1-tecnicas-avanzadas-de-recuperacion-de-datos-restaurar-archivos-en-una-unidad-nas-synology/"><u>1. Técnicas Avanzadas De Recuperación De Datos: Restaurar Archivos en Una Unidad NAS Synology</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/como-clonar-un-ssd-m2-a-otro-m2-con-mayor-capacidad-de-forma-facil/"><u>Cómo Clonar Un SSD M.2 A Otro M.2 Con Mayor Capacidad De Forma Fácil</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-the-problem-of-unsuccessful-casting-to-peripherals-in-windows-10-systems/"><u>Fix the Problem of Unsuccessful Casting to Peripherals in Windows 10 Systems</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fix-your-malfunctioning-iphone-flashlight-top-12-solutions/"><u>Fix Your Malfunctioning iPhone Flashlight - Top 12 Solutions</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/1728508549080-hdd/"><u>HDD取り換えのコツ：データ保護できる手順ガイド</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-tecno-spark-20-proplus-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Tecno Spark 20 Pro+? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/innovation-and-performance-metrics-for-top-screen-recorders-featuring-apeaksoft-for-2024/"><u>Innovation and Performance Metrics for Top Screen Recorders, Featuring Apeaksoft for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/preventing-infection-unpacking-the-spread-of-malware-via-email-and-top-safety-measures/"><u>Preventing Infection: Unpacking the Spread of Malware via Email and Top Safety Measures</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-to-correcting-code-39-mistakes-on-your-windows-machine/"><u>Step-by-Step Guide to Correcting Code 39 Mistakes on Your Windows Machine</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/tecniche-efficienti-per-eseguire-backup-di-sistemi-windows-dei-tuoi-clienti-utilizzando-soluzioni-di-backup-centralizzate/"><u>Tecniche Efficienti per Eseguire Backup Di Sistemi Windows Dei Tuoi Clienti Utilizzando Soluzioni Di Backup Centralizzate</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-innovative-photo-frame-solutions-s-visionaries/"><u>[Updated] 2024 Approved Innovative Photo Frame Solutions 'S Visionaries</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-ultimate-combat-guide-to-top-fps-games/"><u>[Updated] 2024 Approved The Ultimate Combat Guide to Top FPS Games</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Nokia G22? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722878376757-announcement-macos-15-sequoia-launch-date-and-latest-updates-unveiled/"><u>Announcement: MacOS 15 'Sequoia' - Launch Date & Latest Updates Unveiled!</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/comprehensive-guide-to-purging-malicious-software-from-your-windows-device-for-windows-1011-users/"><u>Comprehensive Guide to Purging Malicious Software From Your Windows Device (For WINDOWS 10/11 Users)</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-google-pixel-8-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Google Pixel 8 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ipad-air-evaluation-surprisingly-superior-nearly-makes-me-rethink-my-ipad-pro-purchase-zdnet-insights/"><u>IPad Air Evaluation: Surprisingly Superior, Nearly Makes Me Rethink My iPad Pro Purchase | ZDNet Insights</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/kopieren-von-samsung-ssd-daten-auf-eine-andere-festplatte-unter-windows-zwei-effiziente-methoden/"><u>Kopieren Von Samsung SSD Daten Auf Eine Andere Festplatte Unter Windows: Zwei Effiziente Methoden</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/preserve-your-files-a-step-by-step-guide-on-utilizing-windows/"><u>Preserve Your Files: A Step-by-Step Guide on Utilizing Windows</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/secure-your-digital-world-with-aomei-backup-solutions/"><u>Secure Your Digital World with AOMEI Backup Solutions</u></a></li>
 </ul></div>
 

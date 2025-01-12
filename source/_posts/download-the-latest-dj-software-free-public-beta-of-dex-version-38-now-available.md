@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ Software: Free Public Beta of DEX Version 3.8 Now Available"
-date: 2025-01-02T16:07:01.944Z
-updated: 2025-01-05T17:53:41.333Z
+date: 2025-01-09T04:07:22.071Z
+updated: 2025-01-12T02:50:32.947Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## NEW, CHANGED OR FIXED IN DEX 3.8 (RELEASE CANDIDATE)
@@ -72,7 +72,7 @@ For controller scripts (mappings) we have added the following:
 _Have questions about our **top DJ mixing software** and any of the new features including with version 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,24 +94,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-coverimage.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-easy-step-guide-to-iphone-video-inversion/"><u>[New] Easy Step Guide to iPhone Video Inversion</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-visual-vocabulary-at-your-fingertips-exploring-the-best-34-tools-to-convert-videos-into-language-for-2024/"><u>[New] Visual Vocabulary at Your Fingertips Exploring the Best 34 Tools to Convert Videos Into Language for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-c02-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Nokia C02 | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/digital-decor-with-yl-softwares-ford-bronco-wallpaper-gallery-elevate-your-screen-experience/"><u>Digital Decor with YL Software's Ford Bronco Wallpaper Gallery: Elevate Your Screen Experience</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/how-did-the-boxer-rebellion-shape-the-course-of-chinese-historical-development-insights-by-yl-computing-and-yl-software/"><u>How Did the Boxer Rebellion Shape the Course of Chinese Historical Development? - Insights by YL Computing & YL Software</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-honor-magic-vs-2-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Honor Magic Vs 2 to Another | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-breath-control-and-articulation-for-clear-ppt-speaking/"><u>In 2024, Breath Control and Articulation for Clear PPT Speaking</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/overcoming-graphics-card-lag-expert-insights-from-yl-computing-and-solutions-for-better-performance/"><u>Overcoming Graphics Card Lag: Expert Insights From YL Computing & Solutions for Better Performance</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcoming-hurdles-wows-successful-adoption-of-3d-acceleration/"><u>Overcoming Hurdles: WoW's Successful Adoption of 3D Acceleration</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/pearl-princess-barbie-visuals-and-desktop-backgrounds-handcrafted-by-yl-software-specialists/"><u>Pearl Princess Barbie Visuals and Desktop Backgrounds Handcrafted by YL Software Specialists</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-acquiring-digital-coins-with-ease-tech-insights-by-yl-computing/"><u>Step-by-Step Guide: Acquiring Digital Coins with Ease - Tech Insights by YL Computing</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-setting-up-audio-preferences-with-yl-software/"><u>Step-by-Step Guide: Setting Up Audio Preferences with YL Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unlock-davinci-resolves-full-potential-overcoming-opening-issues-on-pc/"><u>Unlock DaVinci Resolve's Full Potential: Overcoming Opening Issues on PC</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/unmasking-deception-in-digital-finance-expert-tips-on-recognizing-crypto-scams-with-yl-software-solutions/"><u>Unmasking Deception in Digital Finance: Expert Tips on Recognizing Crypto-Scams with YL Software Solutions</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/unveiling-digital-deception-a-guide-by-yl-computing-on-identifying-and-preventing-crypto-scams/"><u>Unveiling Digital Deception: A Guide by YL Computing on Identifying and Preventing Crypto Scams</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/yl-computing-insights-master-the-art-of-finding-documents-quickly-on-windows-or-mac/"><u>YL Computing Insights: Master the Art of Finding Documents Quickly on Windows or Mac</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210011908-9781071539521-h-megkan-paei-ippasia/"><u>Η Μέγκαν πάει ιππασία | Free Book</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youtubes-top-tools-studio-vs-latest-beta-features/"><u>[New] In 2024, YouTube's Top Tools Studio Vs. Latest Beta Features</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-experts-pathway-navigating-fullscreen-realms-in-premiere-pro/"><u>[Updated] 2024 Approved Expert's Pathway Navigating Fullscreen Realms in Premiere Pro</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-mastering-comfort-10-tips-for-vr/"><u>[Updated] In 2024, Mastering Comfort 10 Tips for VR</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-yt-previews-making-a-lasting-first-impression-for-2024/"><u>[Updated] The Art of YT Previews Making a Lasting First Impression for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1-converting-exo-files-a-comprehensive-guide-from-start-to-finish/"><u>1. Converting .EXO Files: A Comprehensive Guide From Start to Finish</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/are-windows-11-widgets-relevant-for-modern-desktops/"><u>Are Windows 11 Widgets Relevant for Modern Desktops?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-on-iphone-14-pro-max-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock On iPhone 14 Pro Max - 4 Easy Ways</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/medici-tv-video-retriever-for-macos-and-windows-effortless-streaming/"><u>Medici TV Video Retriever for macOS and Windows – Effortless Streaming</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/preserving-your-favorite-tunes-a-comprehensive-guide-to-saving-spotify-tracks-indefinitely/"><u>Preserving Your Favorite Tunes: A Comprehensive Guide to Saving Spotify Tracks Indefinitely</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/puremix-tutorial-extractor-streamline-your-educational-video-downloads/"><u>PureMix Tutorial Extractor: Streamline Your Educational Video Downloads</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/save-oklitv-broadcasts-in-high-quality-convert-to-mp4avi-for-easy-playback-on-windows-and-mac-systems/"><u>Save OkliTV Broadcasts in High-Quality: Convert to MP4/AVI for Easy Playback on Windows & Mac Systems</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/seamlessly-save-your-favorite-craftsy-tutorials-and-classes-with-cross-platform-download-utility/"><u>Seamlessly Save Your Favorite Craftsy Tutorials and Classes with Cross-Platform Download Utility</u></a></li>
 </ul></div>
 

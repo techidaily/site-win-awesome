@@ -1,7 +1,7 @@
 ---
 title: Exploring SmartScreen Technology in Windows Defender – To Disable or Not to Disable?
-date: 2025-01-04T17:14:37.748Z
-updated: 2025-01-05T17:34:57.077Z
+date: 2025-01-05T04:17:16.047Z
+updated: 2025-01-12T09:20:38.378Z
 tags:
   - product
   - antivirus
@@ -52,21 +52,25 @@ The Antimalware Service Executable process is the Windows Defender program, and 
 
 [Why Antivirus is not Enough?](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does SmartScreen Use Memory and CPU?
 
 The SmartScreen process is just sitting in the background most of the time not using hardly any system resources. You will see that it’s using around 0% CPU and only a couple of megabytes of memory in the Task Manager. Sometimes, you won’t even see it running as Windows will close the process when it isn’t using the feature.
 
 ![](https://malwarefox.com/wp-content/uploads/2018/06/board-1.png "board (1)")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 However, if your SmartScreen is enabled and you start downloading a new file or application, SmartScreen will kick in. Windows will launch the feature if it’s disabled at the moment and you will see that it’s using a bit of memory and CPU resources as it collects data from the file, sends that data to the Microsoft servers, and waits for the file to be checked to see if it is a known program. If the file is safe, your PC will launch the file or application normally.
 
 The amount of memory and CPU SmartScreen uses should be very small, and the process of verifying a program shouldn’t take more than a few seconds. However, it will take longer to examine larger files. It will only perform this process when you open a downloaded file or a program for the first time. This means that it won’t waste your PC resources every single time you open it.
 
 [What is Malvertising?](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Does SmartScreen Feature Work?
 
@@ -82,11 +86,11 @@ No matter where the file or application is coming from, this operating system pr
 
 ![SmartScreen Blocking Download](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/07/SmartScreen-Blocking-Download.jpg "SmartScreen Blocking Download")
 
-SmartScreen on Windows 10 also blocks malicious downloads and websites in the Windows Store and Microsoft Edge apps. It performs the same function as the Google Safe Browsing program, which blocks access to malicious websites in Firefox and Chrome.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+SmartScreen on Windows 10 also blocks malicious downloads and websites in the Windows Store and Microsoft Edge apps. It performs the same function as the Google Safe Browsing program, which blocks access to malicious websites in Firefox and Chrome.
 
 ## How to Run an App SmartScreen doesn’t Recognize
 
@@ -95,6 +99,10 @@ Once you download an application and SmartScreen finds it malicious, it will blo
 On the other side, the SmartScreen feature will also prevent an unrecognized application from running. When you try to run an unrecognized application, you will get a message and the system will tell you that if you run the application, your computer might be at risk.
 
 ![](https://malwarefox.com/wp-content/uploads/2018/06/website.png "website")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 SmartScreen is sometimes unfamiliar with applications because they are new or infrequently downloaded. Maybe it’s a program that only a few people use for a certain niche application. If you are 100% sure that the program you downloaded is safe and you want to run it, you can open a pop-up window by clicking “More info” and choosing the option “Run anyway.” Once you do this, you will be able to access the program despite SmartScreen’s warning.
 
@@ -110,10 +118,6 @@ On the Windows Defender’s sidebar, click the icon for App & Browser Control an
 
 ![](https://malwarefox.com/wp-content/uploads/2018/06/computer-1.png "computer (1)")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Windows SmartScreen has three different filters, and you can configure different options for each. You can choose to block applications that are unrecognized, to see a warning that you can click through, or you can turn Windows SmartScreen off altogether. Even if the “Warn” option is enabled, your SmartScreen process will always block malicious content, but it will first warn you before you run an application that’s unrecognized. Keep in mind that disabling SmartScreen will put your computer in potential danger as it won’t block dangerous files anymore.
 
 There’s also an option called “Check apps and files.” This will control the OS’s SmartScreen filter, which is going to protect you from malicious files no matter where you downloaded them from. Once you try to open a downloaded file or an application in, for example, File Explorer, Windows will check if that file or app is malicious and will block it if it is.
@@ -125,7 +129,7 @@ Another option is the “SmartScreen for Windows Store apps.” Your computer us
 [Is Dropbox Really Safe?](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Disable SmartScreen on Windows 8?
@@ -149,16 +153,12 @@ Keep in mind that disabling the feature is not recommended! As we mentioned many
 1. ![](https://secure.gravatar.com/avatar/7c9bc7a3ea6709300d73363e207bfaa3?s=50&d=mm&r=g)  
 JohnIL  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [July 9, 2019 at 6:57 am](https://tools.techidaily.com/malwarefox/products/)  
 Windows has become a nanny OS now trying to save us all from ourselves. Our bad habits online, the files and content we download with unintended attachments. The emails that have nasties in them. Try Linux distribution sometime and you will experience what just a clean OS can really perform well. Mainly because it has no security like Defender running in background, or Smart screen or backup in case you get some sort of ransomeware. Windows used to be fast, back before all these nanny features got tacked on. Best you leave them on though if you doubt yourself even the slightest about your habits online. Maybe that stuff will save yourself some headaches some day?  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -186,22 +186,16 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-10-best-gba-emulators-for-android/"><u>[New] 2024 Approved The 10 Best GBA Emulators for Android</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-enlightenment-echoes-best-ed-tutorials-yt-for-2024/"><u>[New] Enlightenment Echoes Best Ed Tutorials YT for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-revolutionizing-creativity-premier-tablet-apps-for-ipados/"><u>[New] Revolutionizing Creativity Premier Tablet Apps for iPadOS</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-infusing-life-into-jujutsu-kaisen-with-tiktok-videos-for-2024/"><u>[Updated] Infusing Life Into Jujutsu Kaisen with TikTok Videos for 2024</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-a2plus-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/bilderkatastrophen-vorbeugen-wie-man-verlorene-tweets-mit-unkomplizierten-methoden-wiederherstellt-myrecover/"><u>Bilderkatastrophen Vorbeugen: Wie Man Verlorene Tweets Mit Unkomplizierten Methoden Wiederherstellt | MyRecover</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/comment-aller-transferer-des-donnees-dun-ssd-extern-a-un-autre/"><u>Comment Aller Transférer Des Données D'un SSD Extern À Un Autre</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-installation-lenovo-t430-driver-downloads-compatible-with-w1087/"><u>Effortless Installation - Lenovo T430 Driver Downloads Compatible with W10/8/7</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/guide-pratique-pour-recuperation-de-donnees-a-partir-dun-disque-dur-wd-elements-quelles-etapes-suivre/"><u>Guide Pratique Pour Récupération De Données À Partir D'un Disque Dur WD Elements – Quelles Étapes Suivre?</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/how-to-restore-your-system-is-reverting-a-windows-10-factory-reset-possible/"><u>How to Restore Your System: Is Reverting a Windows 10 Factory Reset Possible?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Motorola Moto G24? | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/pemulihan-gambar-gambar-ubah-di-windows-11-langkah-ringkas-untuk-memberi-amanatnya-kembali/"><u>Pemulihan Gambar-Gambar Ubah Di Windows 11: Langkah Ringkas Untuk Memberi Amanatnya Kembali</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/probleme-dacces-au-dossier-partage-sous-windows-11-resolu/"><u>Problème D'accès Au Dossier Partagé Sous Windows 11 Résolu</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/seamless-syncing-effective-strategies-for-shifting-songs-from-windows-10-to-ios-devices-in-just-four-steps/"><u>Seamless Syncing: Effective Strategies for Shifting Songs From Windows 10 to iOS Devices in Just Four Steps</u></a></li>
-<li><a href="https://blog-min.techidaily.com/the-tension-created-by-chords-such-as-the-diminished-seventh-naturally-resolves-to-more-stable-chords-reinforcing-the-key-center-of-a-piece/"><u>The Tension Created by Chords Such as the Diminished Seventh Naturally Resolves to More Stable Chords, Reinforcing the Key Center of a Piece.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-tips-for-sharper-images-on-google-meet-calls/"><u>Top Tips for Sharper Images on Google Meet Calls</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/iuoblowiqeeuqoobguociuobjoobqoobhjog44op44od44kt44oq44gx44gf5oml6acg44gn44oh44kj44k544kv44ks5paw6kap5l2c5oiqig/"><u>ご利用ありがとう: ハッキリした手順でディスクを新規作成</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-capture-and-save-everything-on-your-screen-for-2024/"><u>[Updated] Capture & Save Everything on Your Screen for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1-efficiently-installing-vmware-tools-with-manual-and-auto-upload-options-in-vcenter/"><u>1. Efficiently Installing VMware Tools with Manual and Auto-Upload Options in vCenter</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1-how-to-retrieve-data-from-an-ssd-after-a-secure-erase-a-comprehensive-guide/"><u>1. How to Retrieve Data From an SSD After a Secure Erase : A Comprehensive Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-samsung-galaxy-s23-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Samsung Galaxy S23 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1728468765753-os/"><u>再インストールされたOSで失われたファイルをどうやって回復するか?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/career-evolution-what-changes-with-gpts-rise/"><u>Career Evolution: What Changes with GPT's Rise?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-when-apple-account-locked-from-apple-iphone-12-pro-by-drfone-ios/"><u>In 2024, How to Fix when Apple Account Locked From Apple iPhone 12 Pro?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/integrating-video-conferencing-within-gmail-ecosystem-with-zoom-for-2024/"><u>Integrating Video Conferencing Within Gmail Ecosystem with Zoom for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/panduan-memasang-nvme-ssd-klon-dalam-komputer-tiga-langkah-utama/"><u>Panduan Memasang NVMe SSD Klon Dalam Komputer: Tiga Langkah Utama</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/top-strategies-for-retrieving-missing-texts-on-your-iphone-post-ios-1718-updates/"><u>Top Strategies for Retrieving Missing Texts on Your iPhone: Post-iOS 17/18 Updates</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/1728500577712-windows-114/"><u>Windows 11重新開機選擇正確啟動設備的故障修復技巧：4種有效方法</u></a></li>
 </ul></div>
 
