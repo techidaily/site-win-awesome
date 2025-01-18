@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Turning Off Website Notifications Across Chrome, Firefox and Edge Browsers"
-date: 2025-01-06T07:57:41.712Z
-updated: 2025-01-12T08:35:57.887Z
+date: 2025-01-12T20:49:07.249Z
+updated: 2025-01-17T18:53:28.610Z
 tags:
   - product
   - antivirus
@@ -46,6 +46,10 @@ Protect your identity and remove Spyware from your Device
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Age of Notifications
 
 Although notifications were a part of the Windows operating system in one shape or another, Microsoft officially brought them to the forefront when it introduced the Action Center in Windows 10\. This is the panel that houses the alerts that pop up from the various different corners of the OS.
@@ -74,6 +78,10 @@ And then there may be cases where you may have mistaken subscribed for push noti
 
 Time to take back control.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to block Notifications from Websites?
 
 The whole idea behind web notifications is to allow website owners a more direct relationship with their user base, and easily remind them to re-engage with their content and services. These types of notifications are also better than email, as these are delivered quickly and direct.
@@ -91,10 +99,6 @@ Your web browser likely asks you to allow websites to send notifications, via po
 [How to Reset Web Browser to Default Setting](https://tools.techidaily.com/malwarefox/products/)
 
 If you have decided that you just don’t want them, then follow these steps outlined below for three of the most popular web browsers on the market — Chrome, Firefox, and Edge. The process is not too dissimilar from other browsers like Opera, Vivaldi, and Safari. Just dig for the notification options in the settings and get the job done.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **How to turn off Google Chrome Notifications**
 
@@ -121,7 +125,7 @@ Chrome also allows you to manually add exceptions. For example, if you want to o
 [How to Stop Google Chrome Notifications](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **How to turn off web notifications in Mozilla Firefox**
@@ -150,6 +154,10 @@ Once you are done, hit the **Save Changes** button.
 
 ![Firefox About Config](https://www.malwarefox.com/wp-content/uploads/2019/07/Firefox-About-Config.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Since Firefox does not let you disable website notifications altogether from its regular Settings panel, you will need to dive into its advanced configuration page to turn off notifications from all websites. It is a quick and easy process, so follow the steps outlined below.
 
 1. Open **Firefox**.
@@ -165,10 +173,6 @@ Change this value to **True**, if you change your mind, and would rather have Fi
 
 [4 Ways to Block Pop-up Ads in Firefox](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **How to block notifications on Microsoft Edge**
 
 Microsoft introduced web notification on Edge with the Windows 10 Anniversary Update. Unfortunately, the browser does not let you disable website notifications prompts altogether, only allowing you to configure notifications on an individual basis for each site.
@@ -176,10 +180,6 @@ Microsoft introduced web notification on Edge with the Windows 10 Anniversary Up
 To do that, you will first need to allow notification for a website. Then you can click the three-dotted menu on the right called **Settings and more**, or press the **Alt + X** key combination to open the settings section.
 
 ![Edge - How to Block Website Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/Edge-Web-Notifications.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Follow this by clicking on the **View Advanced Settings**. This menu will have an option called **Notifications**, where you are able to manage permissions for all websites and control what a web page can do on Microsoft Edge.
 
@@ -194,6 +194,10 @@ To that end, the steps to block notification on this new Edge is even simpler.
 Simply launch this shiny new browser, then click on **Settings** in the panel that pops up when clicking the three-dotted menu on the right. Once that opens, select **Site permissions** on the left, and then **Notifications**.
 
 ![New Edge Web Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/New-Edge-Web-Notifications.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You will be treated to this familiar-looking panel that allows you completely block web notifications, or individually block or allow sites below. Just find your way around these simple options, and you should have your notifications customized in this shiny new web browser.
 
@@ -211,10 +215,6 @@ For example, you can’t currently get Google Chrome notifications through to yo
 
 ![Block Mobile Website Notifications](https://www.malwarefox.com/wp-content/uploads/2019/07/Mobile-Notifications.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Nevertheless, disabling website notifications on Android and iOS is a similarly simple process. Just open your browser on your mobile device, then look for the **Notifications** option in settings. You will most likely see a toggle or checkbox to turn these on or off. Just disable them and websites will be stopped from sending you, or asking your permission to send you, notifications.
 
 Worth a mention that on certain browsers, your notification settings are synced. On Google Chrome, for example, they are connected to your Google account. This means, that if you enable or disable them, the settings are reflected across all your devices.
@@ -230,7 +230,7 @@ Right now, the problem is with the sheer number of websites that have implemente
 It takes a bit of time, to set things up to your exact liking. But once done, you will no longer receive unwanted notifications — no matter whether you are using a PC or a mobile device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -258,20 +258,15 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-slash-size-save-time-essential-tips-for-editing-big-tiktok-drafts/"><u>[New] In 2024, Slash Size, Save Time Essential Tips for Editing Big TikTok Drafts</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-downloading-with-confidence-your-vrecorder-guide/"><u>[Updated] Downloading with Confidence Your VRecorder Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-flashfreeze-video-cut-out-instruction-for-2024/"><u>[Updated] FlashFreeze Video Cut-Out Instruction for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-essential-facts-about-choosing-youtube-premium/"><u>[Updated] In 2024, The Essential Facts About Choosing YouTube Premium</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/1728508758701-windows-11/"><u>「從 Windows 11 中切換項目的部分映像到其他硬碟上 - 教程」</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-enhancing-inshot-cut-quality-and-smoothness/"><u>2024 Approved Enhancing Inshot Cut Quality and Smoothness</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-quick-guide-to-securing-a-youtube-revenue-stream/"><u>2024 Approved Your Quick Guide to Securing a Youtube Revenue Stream</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-lava-blaze-2-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Lava Blaze 2</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/aucun-souci-avec-sans-tutoriel-dinstallation-et-installation-facile-du-nouvel-os/"><u>Aucun Souci Avec Sans - Tutoriel D’Installation Et Installation Facile Du Nouvel OS.</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/comment-installer-sans-probleme-une-image-de-demarrage-avec-windows-10-trois-methodes-simples/"><u>Comment Installer Sans Problème Une Image De Démarrage Avec Windows 10 - Trois Méthodes Simples</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expertly-selected-8-filters-for-virtual-showcases/"><u>In 2024, Expertly Selected 8 Filters for Virtual Showcases</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-realme-11-proplus-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Realme 11 Pro+ Phones</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/metodi-infallibili-per-la-pulizia-approfondita-di-ununita-flash-usb-3-opzioni-protette/"><u>Metodi Infallibili per La Pulizia Approfondita Di Un'unità Flash USB | 3 Opzioni Protette</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/metodos-simplificados-para-detectar-archivos-ocultos-dentro-de-directorios-una-guia-completa/"><u>Métodos Simplificados Para Detectar Archivos Ocultos Dentro De Directorios: Una Guía Completa</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/stuck-usb-troubleshooting-and-fixes-learn-how-to-resolve-scanner-issues/"><u>Stuck USB Troubleshooting & Fixes - Learn How to Resolve Scanner Issues!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-from-ground-to-sky-the-lifting-elite-drone-list/"><u>[Updated] 2024 Approved From Ground to Sky The Lifting Elite Drone List</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/comprehensive-launch-readiness-checklist-your-essential-guide/"><u>Comprehensive Launch Readiness Checklist: Your Essential Guide</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/diy-ram-replacement-for-troubled-memory-modules-expert-advice-by-yl-software/"><u>DIY RAM Replacement for Troubled Memory Modules: Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/efficiently-controlling-your-devices-and-printers-a-guide-from-yl-computing/"><u>Efficiently Controlling Your Devices & Printers: A Guide From YL Computing</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/exploring-the-consequences-understanding-the-influence-of-hong-kongs-1997-transfer-insights-by-yl-computing-and-yl-software/"><u>Exploring the Consequences: Understanding the Influence of Hong Kong's 1997 Transfer - Insights by YL Computing & YL Software</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tigating-spotlighted-comments-online/"><u>Investigating Spotlighted Comments Online</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/revamp-and-personalize-your-windows-interface-expert-guidance-from-yl-software/"><u>Revamp and Personalize Your Windows Interface - Expert Guidance From YL Software</u></a></li>
+<li><a href="https://win11.techidaily.com/top-5-no-cost-performance-boosters-to-enhance-windows-vehicles/"><u>Top 5 No-Cost Performance Boosters to Enhance Windows Vehicles</u></a></li>
 </ul></div>
 

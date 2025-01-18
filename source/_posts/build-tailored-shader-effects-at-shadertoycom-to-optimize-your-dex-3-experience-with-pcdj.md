@@ -1,7 +1,7 @@
 ---
 title: Build Tailored Shader Effects at Shadertoy.com to Optimize Your DEX 3 Experience with PCDJ
-date: 2025-01-10T05:06:17.291Z
-updated: 2025-01-12T03:46:47.652Z
+date: 2025-01-14T01:31:25.198Z
+updated: 2025-01-17T23:50:24.569Z
 tags:
   - product
 categories:
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/b65c1700fc3be6103fe73469bcdff9ebd5593034f
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## So what is a ‘Shader’?
@@ -39,7 +39,7 @@ We found this easy-to-follow ‘[Beginner’s Guide to Coding Graphics Shaders](
 [View Guide to Coding Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would I want to create a custom Shader?
@@ -49,7 +49,7 @@ Creating your own custom shader/s for use with DEX 3 is just another way to cust
 If you’re not interested in creating your own custom shaders, no worries, [we’ve compiled a list of shaders that work great in DEX 3 already](https://tools.techidaily.com/pcdj/products/)!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -71,15 +71,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/08/customshader-header.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-innovative-photo-frame-solutions-s-visionaries/"><u>[Updated] 2024 Approved Innovative Photo Frame Solutions 'S Visionaries</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-the-ultimate-combat-guide-to-top-fps-games/"><u>[Updated] 2024 Approved The Ultimate Combat Guide to Top FPS Games</u></a></li>
-<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-nokia-g22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Nokia G22? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722878376757-announcement-macos-15-sequoia-launch-date-and-latest-updates-unveiled/"><u>Announcement: MacOS 15 'Sequoia' - Launch Date & Latest Updates Unveiled!</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/comprehensive-guide-to-purging-malicious-software-from-your-windows-device-for-windows-1011-users/"><u>Comprehensive Guide to Purging Malicious Software From Your Windows Device (For WINDOWS 10/11 Users)</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-google-pixel-8-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Google Pixel 8 Pro FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ipad-air-evaluation-surprisingly-superior-nearly-makes-me-rethink-my-ipad-pro-purchase-zdnet-insights/"><u>IPad Air Evaluation: Surprisingly Superior, Nearly Makes Me Rethink My iPad Pro Purchase | ZDNet Insights</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/kopieren-von-samsung-ssd-daten-auf-eine-andere-festplatte-unter-windows-zwei-effiziente-methoden/"><u>Kopieren Von Samsung SSD Daten Auf Eine Andere Festplatte Unter Windows: Zwei Effiziente Methoden</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/preserve-your-files-a-step-by-step-guide-on-utilizing-windows/"><u>Preserve Your Files: A Step-by-Step Guide on Utilizing Windows</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/secure-your-digital-world-with-aomei-backup-solutions/"><u>Secure Your Digital World with AOMEI Backup Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-humorous-hits-lifetime-access-to-memes/"><u>[New] 2024 Approved Humorous Hits Lifetime Access to Memes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-iphone-video-zooming-made-simple/"><u>[New] 2024 Approved IPhone Video Zooming Made Simple</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-channel-your-inner-videographer-to-produce-top-tier-edu-videos-for-2024/"><u>[Updated] Channel Your Inner Videographer to Produce Top-Tier Edu-Videos for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-learn-and-create-the-ultimate-youtube-trailer-blueprint-in-filmora/"><u>2024 Approved Learn and Create The Ultimate YouTube Trailer Blueprint in Filmora</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-money-savers-budget-priced-vr-devices-china/"><u>2024 Approved Money Savers Budget-Priced VR Devices (China)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/a-comprehensive-guide-to-resolving-minecraft-black-screen-issues-2024-update/"><u>A Comprehensive Guide to Resolving Minecraft Black Screen Issues: 2024 Update</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/download-the-latest-dj-software-free-public-beta-of-dex-version-38-now-available/"><u>Download the Latest DJ Software: Free Public Beta of DEX Version 3.8 Now Available</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effective-techniques-for-eliminating-skype-background-noise-top-strategies/"><u>Effective Techniques for Eliminating Skype Background Noise: Top Strategies</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/expert-techniques-for-restoring-corrupted-data-on-pcs-yl-softwares-proven-solutions/"><u>Expert Techniques for Restoring Corrupted Data on PCs: YL Software's Proven Solutions</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-to-speed-up-your-computer-expert-tips-from-yl-computing/"><u>How to Speed Up Your Computer: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/maximizing-your-crypto-potential-investment-limits-explained-by-experts-at-yl-computing/"><u>Maximizing Your Crypto Potential: Investment Limits Explained by Experts at YL Computing</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/solve-scanner-problems-in-windows-11-essential-tips-by-yl-software-experts/"><u>Solve Scanner Problems in Windows 11: Essential Tips by YL Software Experts</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/step-by-step-guide-switching-your-windows-11-display-language-tech-tips-from-yl-computing/"><u>Step-by-Step Guide: Switching Your Windows 11 Display Language - Tech Tips From YL Computing</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/stunning-space-photography-galactic-view-of-the-milky-way-at-full-hd-1920x1080-premium-graphics-set-from-yl-software/"><u>Stunning Space Photography - Galactic View of the Milky Way at Full HD (1920X1080) | Premium Graphics Set From YL Software</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/unraveling-the-primary-factors-that-sparked-the-chinese-cultural-revolution-of-66-with-expertise-from-yl-computing-and-yl-software/"><u>Unraveling the Primary Factors that Sparked the Chinese Cultural Revolution of '66 with Expertise From YL Computing & YL Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/upgrade-successfully-how-to-ensure-your-device-drivers-work-with-windows-operating-system/"><u>Upgrade Successfully: How To Ensure Your Device Drivers Work With Windows Operating System</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/utilizing-chatgpt-for-crafting-personalized-balanced-diet-plans/"><u>Utilizing ChatGPT for Crafting Personalized, Balanced Diet Plans</u></a></li>
 </ul></div>
 
