@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ Software: Free Public Beta of DEX Version 3.8 Now Available"
-date: 2025-01-12T22:49:48.335Z
-updated: 2025-01-17T23:44:11.131Z
+date: 2025-01-20T16:03:42.926Z
+updated: 2025-01-23T16:20:25.012Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## NEW, CHANGED OR FIXED IN DEX 3.8 (RELEASE CANDIDATE)
@@ -72,7 +72,7 @@ For controller scripts (mappings) we have added the following:
 _Have questions about our **top DJ mixing software** and any of the new features including with version 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,18 +94,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-coverimage.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-freely-accessible-cutting-edge-video-editor-tools-for-2024/"><u>[New] Freely Accessible Cutting Edge Video Editor Tools for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-ranked-your-must-have-5-iphones-for-excellent-podcasting/"><u>[New] Ranked Your Must-Have 5 iPhones for Excellent Podcasting</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-sound-quality-with-steelseries-engine-compatible-with-windows-10/"><u>Boost Your Sound Quality with SteelSeries Engine - Compatible with Windows 10</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/create-edges-of-images-with-rotational-softness-blend-psx/"><u>Create Edges of Images with Rotational Softness Blend PSX</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/fixing-issues-with-sccm-pxe-boot-failure-solutions-uncovered/"><u>Fixing Issues with SCCM PXE Boot Failure - Solutions Uncovered</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-u23-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on U23 Pro?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Honor Magic 6? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/1728487322888-pc/"><u>PC/サーバーバックアップソリューション：信頼性高く安全なデータ管理へ - 業界向けインフラ対策</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/schaffe-de-nederlandse-kooktekens-het-wegnemen-van-een-vererende-hartkart/"><u>Schaffe De Nederlandse Kooktekens: Het Wegnemen Van Een Vererende Hartkart</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/schritt-fur-schritt-anleitung-zur-konfiguration-der-aufgabenautomatisierung-und-sicherung-bei-benutzerlogout-in-windows-os/"><u>Schritt-Für-Schritt-Anleitung Zur Konfiguration Der Aufgabenautomatisierung Und Sicherung Bei Benutzerlogout in Windows OS</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/stealth-tactics-can-viruses-evade-detection-by-windows-security-systems-like-defender/"><u>Stealth Tactics: Can Viruses Evade Detection by Windows Security Systems Like Defender?</u></a></li>
-<li><a href="https://howto.techidaily.com/tecno-phantom-v-fold-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Phantom V Fold Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-exploring-vidmas-screen-capture-tool-for-2024/"><u>[Updated] Exploring Vidma's Screen Capture Tool for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-save-verbatim-audio-review-notes-for-2024/"><u>[Updated] Save Verbatim Audio, Review Notes for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-silent-strategies-learning-without-edge-videos/"><u>[Updated] Silent Strategies Learning Without EDGE Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-straightforward-strategies-for-recording-games-for-2024/"><u>[Updated] Straightforward Strategies for Recording Games for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/comprehensive-guide-to-fix-image-detection-issues-in-scanners-innovative-solutions-from-yl-software/"><u>Comprehensive Guide to Fix Image Detection Issues in Scanners – Innovative Solutions From YL Software</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/decoding-crypto-variations-an-in-depth-exploration-of-different-digital-currencies-with-yl-software-guidance/"><u>Decoding Crypto Variations: An In-Depth Exploration of Different Digital Currencies with YL Software Guidance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722973922080-get-the-most-recent-epson-ds-530-drivers-for-your-windows-11-computer-download-now/"><u>Get the Most Recent Epson DS-530 Drivers for Your Windows 11 Computer - Download Now</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/how-to-supercharge-your-computer-top-component-upgrades-for-peak-performance-with-tips-from-yl-computers/"><u>How to Supercharge Your Computer: Top Component Upgrades for Peak Performance with Tips From YL Computers</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/identifying-and-resolving-sound-card-troubles-tools-and-techniques-by-yl-software-experts/"><u>Identifying and Resolving Sound Card Troubles: Tools and Techniques by YL Software Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-customization-of-fax-pages-in-win11/"><u>Navigating Through Customization of Fax Pages in Win11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-15-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 15 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/the-final-chapter-in-chinas-united-future-explored-by-yl-software-experts/"><u>The Final Chapter in China’s United Future Explored by YL Software Experts</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/understanding-computer-lock-ups-a-guide-by-professionals-at-yl-software/"><u>Understanding Computer Lock-Ups: A Guide by Professionals at YL Software</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/understanding-the-action-of-windows-defender-upon-identifying-harmful-programs-a-guide-from-yl-software/"><u>Understanding the Action of Windows Defender Upon Identifying Harmful Programs: A Guide From YL Software</u></a></li>
 </ul></div>
 

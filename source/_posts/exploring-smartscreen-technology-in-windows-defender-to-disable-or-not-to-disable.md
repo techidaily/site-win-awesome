@@ -1,7 +1,7 @@
 ---
 title: Exploring SmartScreen Technology in Windows Defender – To Disable or Not to Disable?
-date: 2025-01-14T16:53:09.894Z
-updated: 2025-01-17T17:42:40.361Z
+date: 2025-01-19T17:49:22.315Z
+updated: 2025-01-23T21:42:32.531Z
 tags:
   - product
   - antivirus
@@ -36,6 +36,10 @@ Don't compromise your Data and Privacy. TotalAV is a top-notch antivirus program
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why is SmartScreen Running on your PC and What is it?
 
 Microsoft introduced SmartScreen when Windows 8 went live. They later improved this feature in Windows 10.
@@ -46,6 +50,10 @@ If, however, the Microsoft database recognizes your downloaded file or applicati
 
 ![Windows Defender SmartScreen](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/07/Windows-Defender-SmartScreen.jpg "Windows Defender SmartScreen")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This service is also active in Store apps and Microsoft Edge to block web content that might be malicious. The SmartScreen feature is helpful because it will protect you from downloaded files no matter what app you used to do so. It doesn’t matter if you’re using Microsoft Edge, Mozilla Firefox, or Google Chrome as your main browser, or if you’re downloading the files using some other application.
 
 The Antimalware Service Executable process is the Windows Defender program, and SmartScreen is only a single layer of security that is a part of the Windows Defender suite. If you’re using a web browser that has anti-malware features or an antivirus program, this multi-layer security system is only going to make your PC that much safer.
@@ -53,7 +61,7 @@ The Antimalware Service Executable process is the Windows Defender program, and 
 [Why Antivirus is not Enough?](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Does SmartScreen Use Memory and CPU?
@@ -62,15 +70,15 @@ The SmartScreen process is just sitting in the background most of the time not u
 
 ![](https://malwarefox.com/wp-content/uploads/2018/06/board-1.png "board (1)")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 However, if your SmartScreen is enabled and you start downloading a new file or application, SmartScreen will kick in. Windows will launch the feature if it’s disabled at the moment and you will see that it’s using a bit of memory and CPU resources as it collects data from the file, sends that data to the Microsoft servers, and waits for the file to be checked to see if it is a known program. If the file is safe, your PC will launch the file or application normally.
 
 The amount of memory and CPU SmartScreen uses should be very small, and the process of verifying a program shouldn’t take more than a few seconds. However, it will take longer to examine larger files. It will only perform this process when you open a downloaded file or a program for the first time. This means that it won’t waste your PC resources every single time you open it.
 
 [What is Malvertising?](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Does SmartScreen Feature Work?
 
@@ -86,11 +94,11 @@ No matter where the file or application is coming from, this operating system pr
 
 ![SmartScreen Blocking Download](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/07/SmartScreen-Blocking-Download.jpg "SmartScreen Blocking Download")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 SmartScreen on Windows 10 also blocks malicious downloads and websites in the Windows Store and Microsoft Edge apps. It performs the same function as the Google Safe Browsing program, which blocks access to malicious websites in Firefox and Chrome.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Run an App SmartScreen doesn’t Recognize
 
@@ -103,10 +111,6 @@ On the other side, the SmartScreen feature will also prevent an unrecognized app
 SmartScreen is sometimes unfamiliar with applications because they are new or infrequently downloaded. Maybe it’s a program that only a few people use for a certain niche application. If you are 100% sure that the program you downloaded is safe and you want to run it, you can open a pop-up window by clicking “More info” and choosing the option “Run anyway.” Once you do this, you will be able to access the program despite SmartScreen’s warning.
 
 [How does Malicious Website Infect You?](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Disable SmartScreen on Windows 10?
 
@@ -128,10 +132,6 @@ Another option is the “SmartScreen for Windows Store apps.” Your computer us
 
 [Is Dropbox Really Safe?](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Disable SmartScreen on Windows 8?
 
 You will find an option to do this in Windows 8 very easily. Go to the Control Panel and find “System and Security,” and access the Action Center.
@@ -148,6 +148,10 @@ Keep in mind that disabling the feature is not recommended! As we mentioned many
 
 [Is Windows Defender Enough?](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1 thought on “What is SmartScreen Filter and Should You Disable It?”
 
 1. ![](https://secure.gravatar.com/avatar/7c9bc7a3ea6709300d73363e207bfaa3?s=50&d=mm&r=g)  
@@ -156,10 +160,6 @@ JohnIL
 [July 9, 2019 at 6:57 am](https://tools.techidaily.com/malwarefox/products/)  
 Windows has become a nanny OS now trying to save us all from ourselves. Our bad habits online, the files and content we download with unintended attachments. The emails that have nasties in them. Try Linux distribution sometime and you will experience what just a clean OS can really perform well. Mainly because it has no security like Defender running in background, or Smart screen or backup in case you get some sort of ransomeware. Windows used to be fast, back before all these nanny features got tacked on. Best you leave them on though if you doubt yourself even the slightest about your habits online. Maybe that stuff will save yourself some headaches some day?  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -186,24 +186,16 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-a-step-by-step-guide-to-stunning-image-artistry-mosaics-for-2024/"><u>[New] A Step-By-Step Guide to Stunning Image Artistry Mosaics for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-cutting-edge-tools-youtubes-finest-editors-for-2024/"><u>[New] Cutting Edge Tools YouTube's Finest Editors for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-unlock-the-secrets-to-effective-podcast-scriptwriting-and-practical-examples/"><u>2024 Approved Unlock the Secrets to Effective Podcast Scriptwriting & Practical Examples</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/comment-graver-plusieurs-copies-dun-disque-dur-sans-cout-avec-un-utilitaire-en-ligne/"><u>Comment Graver Plusieurs Copies D'un Disque Dur Sans Coût Avec Un Utilitaire en Ligne</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/comment-recuperer-facilement-un-texte-que-vous-avez-coupe/"><u>Comment Récupérer Facilement Un Texte Que Vous Avez Coupé ?</u></a></li>
-<li><a href="https://win-trending.techidaily.com/glucksgriff-verschieben-sie-ihre-windows-11-partition-auf-ein-ssd-mit-diesen-einfachen-schritten-ohne-es-neu-zu-installieren/"><u>Glücksgriff: Verschieben Sie Ihre Windows 11-Partition Auf Ein SSD Mit Diesen Einfachen Schritten, Ohne Es Neu Zu Installieren</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/guida-passo-passo-come-fare-il-backup-di-una-scheda-sd-sul-pc/"><u>Guida Passo-Passo: Come Fare Il Backup Di Una Scheda SD Sul PC</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/guide-assure-pour-linstallation-dun-ssd-dans-windows-710-pas-besoin-de-reformatage/"><u>Guide Assuré Pour L'installation D'un SSD Dans Windows 7/1^0 : Pas Besoin De Reformatage!</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/guide-pratique-pour-evaluer-la-sante-de-votre-ssd-ou-hdd-sur-un-pc-windows-des-etapes-simples-a-suivre/"><u>Guide Pratique Pour Évaluer La Santé De Votre SSD Ou HDD Sur Un PC Windows - Des Étapes Simples À Suivre!</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/how-to-perform-a-network-or-nas-disk-restore-on-windows-11-a-step-by-step-guide/"><u>How to Perform a Network or NAS Disk Restore on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-a56s-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo A56s 5G to New Android? | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/is-an-unbacked-windows-11-upgrade-risk-free-for-your-data-and-files/"><u>Is an Unbacked Windows 11 Upgrade Risk-Free for Your Data and Files?</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/ricostruisci-i-tuoi-dati-persi-come-recuperare-file-eliminati-dalliphone-senza-backup-con-metodi-semplici/"><u>Ricostruisci I Tuoi Dati Persi: Come Recuperare File Eliminati Dall'iPhone Senza Backup Con Metodi Semplici</u></a></li>
-<li><a href="https://video-capture.techidaily.com/screen-recorder-showdown-leading-tools-and-apowersofts-stance/"><u>Screen Recorder Showdown Leading Tools and Apowersoft's Stance</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/telechargez-gratuitement-le-logiciel-pour-sauvegarder-vos-fichiers-windows-11-sur-onedrive/"><u>Téléchargez Gratuitement Le Logiciel Pour Sauvegarder Vos Fichiers Windows 11 Sur OneDrive</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-artisans-guide-to-cropping-and-soundscaping-in-canvas/"><u>The Artisan's Guide to Cropping and Soundscaping in Canvas</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-managing-your-steam-space/"><u>The Ultimate Guide to Managing Your Steam Space</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-flv-video-editing-on-a-shoestring-best-free-options/"><u>Updated 2024 Approved FLV Video Editing on a Shoestring Best Free Options</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/your-blueprint-for-downloading-youtube-srt-in-3-steps/"><u>Your Blueprint for Downloading YouTube SRT in 3 Steps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-list-of-premier-youtube-cosmetics-experts/"><u>[New] The Ultimate List of Premier YouTube Cosmetics Experts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-blueprints-of-bliss-building-a-virtual-mc-village-home/"><u>[Updated] Blueprints of Bliss Building a Virtual MC Village Home</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-agni-2-5g-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Agni 2 5G</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-free-open-source-video-conferencing-software-ranked-by-industry/"><u>Best Free Open Source Video Conferencing Software Ranked by Industry</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/black-friday-blowout-snag-a-300-microsoft-surface-go-2-or-230-acer-2-in-1-for-less-exclusive-deals-at-the-microsoft-store/"><u>Black Friday Blowout: Snag a $300 Microsoft Surface Go 2 or $230 Acer 2-in-1 for Less - Exclusive Deals at the Microsoft Store</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-gopro-quik-alternatives-for-desktop-and-laptop-users/"><u>In 2024, Best GoPro Quik Alternatives for Desktop and Laptop Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/mastering-mac-a-step-by-step-guide-to-changing-your-command-key-settings/"><u>Mastering Mac: A Step-by-Step Guide to Changing Your Command Key Settings</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/microsofts-new-surface-laptop-5-underwhelming-impressions-and-expectations-met-zdnet-analysis/"><u>Microsoft's New Surface Laptop 5: Underwhelming Impressions and Expectations Met | ZDNet Analysis</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-samsung-galaxy-a24-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Samsung Galaxy A24 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/windows-11-dilemma-microsoft-must-fix-major-issues-within-a-year-insights-from-zdnet/"><u>Windows 11 Dilemma: Microsoft Must Fix Major Issues Within a Year – Insights From ZDNet</u></a></li>
 </ul></div>
 
