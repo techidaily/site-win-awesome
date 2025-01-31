@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ Software: Free Public Beta of DEX Version 3.8 Now Available"
-date: 2025-01-20T16:03:42.926Z
-updated: 2025-01-23T16:20:25.012Z
+date: 2025-01-30T18:22:44.535Z
+updated: 2025-01-31T16:19:33.244Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## NEW, CHANGED OR FIXED IN DEX 3.8 (RELEASE CANDIDATE)
@@ -72,7 +72,7 @@ For controller scripts (mappings) we have added the following:
 _Have questions about our **top DJ mixing software** and any of the new features including with version 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,19 +94,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-coverimage.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-exploring-vidmas-screen-capture-tool-for-2024/"><u>[Updated] Exploring Vidma's Screen Capture Tool for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-save-verbatim-audio-review-notes-for-2024/"><u>[Updated] Save Verbatim Audio, Review Notes for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-silent-strategies-learning-without-edge-videos/"><u>[Updated] Silent Strategies Learning Without EDGE Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-straightforward-strategies-for-recording-games-for-2024/"><u>[Updated] Straightforward Strategies for Recording Games for 2024</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/comprehensive-guide-to-fix-image-detection-issues-in-scanners-innovative-solutions-from-yl-software/"><u>Comprehensive Guide to Fix Image Detection Issues in Scanners – Innovative Solutions From YL Software</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/decoding-crypto-variations-an-in-depth-exploration-of-different-digital-currencies-with-yl-software-guidance/"><u>Decoding Crypto Variations: An In-Depth Exploration of Different Digital Currencies with YL Software Guidance</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722973922080-get-the-most-recent-epson-ds-530-drivers-for-your-windows-11-computer-download-now/"><u>Get the Most Recent Epson DS-530 Drivers for Your Windows 11 Computer - Download Now</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/how-to-supercharge-your-computer-top-component-upgrades-for-peak-performance-with-tips-from-yl-computers/"><u>How to Supercharge Your Computer: Top Component Upgrades for Peak Performance with Tips From YL Computers</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/identifying-and-resolving-sound-card-troubles-tools-and-techniques-by-yl-software-experts/"><u>Identifying and Resolving Sound Card Troubles: Tools and Techniques by YL Software Experts</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-customization-of-fax-pages-in-win11/"><u>Navigating Through Customization of Fax Pages in Win11</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-15-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 15 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/the-final-chapter-in-chinas-united-future-explored-by-yl-software-experts/"><u>The Final Chapter in China’s United Future Explored by YL Software Experts</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/understanding-computer-lock-ups-a-guide-by-professionals-at-yl-software/"><u>Understanding Computer Lock-Ups: A Guide by Professionals at YL Software</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/understanding-the-action-of-windows-defender-upon-identifying-harmful-programs-a-guide-from-yl-software/"><u>Understanding the Action of Windows Defender Upon Identifying Harmful Programs: A Guide From YL Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-dissecting-video-ranking-algorithms-on-youtube-for-2024/"><u>[Updated] Dissecting Video Ranking Algorithms on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-understanding-why-your-shorts-thumbnails-dont-show-up/"><u>[Updated] In 2024, Understanding Why Your Shorts' Thumbnails Don't Show Up</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/easy-guide-remove-highlights-from-your-pdf-document/"><u>Easy Guide: Remove Highlights From Your PDF Document</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/effortless-methods-for-transforming-your-swf-videos-into-high-quality-mov-files/"><u>Effortless Methods for Transforming Your SWF Videos Into High-Quality MOV Files</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-convert-videos-compatible-with-htc-one-and-additional-htc-models/"><u>How to Convert Videos Compatible with HTC One & Additional HTC Models</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a78-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Oppo A78 5G Phone without Google Account?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-digital-media-expert-advice-for-macs-dvd-creation/"><u>In 2024, Transforming Digital Media Expert Advice for Mac's DVD Creation</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/macos-1015-top-pdf-tools-and-replacements-for-adobe-acrobat/"><u>MacOS 10.15: Top PDF Tools & Replacements for Adobe Acrobat</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/mastering-the-art-of-highlight-videos-innovative-methods-explored/"><u>Mastering the Art of Highlight Videos: Innovative Methods Explored</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-a24-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy A24 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/windows-11-enthusiasts-longing-dashed-as-microsoft-subtly-refuses-extension-offer-cnet-news/"><u>Windows 11 Enthusiasts' Longing Dashed as Microsoft Subtly Refuses Extension Offer | CNET News</u></a></li>
 </ul></div>
 
