@@ -1,7 +1,7 @@
 ---
 title: "Download the Latest DJ Software: Free Public Beta of DEX Version 3.8 Now Available"
-date: 2025-01-30T18:22:44.535Z
-updated: 2025-01-31T16:19:33.244Z
+date: 2025-02-11T17:23:18.185Z
+updated: 2025-02-12T16:13:02.090Z
 tags:
   - product
 categories:
@@ -31,7 +31,7 @@ _In the event you wish to roll back to the prior 3.7.5.1 release of DEX 3 you ca
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## NEW, CHANGED OR FIXED IN DEX 3.8 (RELEASE CANDIDATE)
@@ -72,7 +72,7 @@ For controller scripts (mappings) we have added the following:
 _Have questions about our **top DJ mixing software** and any of the new features including with version 3.8? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -94,17 +94,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-coverimage.jpg?fit=7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-dissecting-video-ranking-algorithms-on-youtube-for-2024/"><u>[Updated] Dissecting Video Ranking Algorithms on YouTube for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-understanding-why-your-shorts-thumbnails-dont-show-up/"><u>[Updated] In 2024, Understanding Why Your Shorts' Thumbnails Don't Show Up</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/easy-guide-remove-highlights-from-your-pdf-document/"><u>Easy Guide: Remove Highlights From Your PDF Document</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/effortless-methods-for-transforming-your-swf-videos-into-high-quality-mov-files/"><u>Effortless Methods for Transforming Your SWF Videos Into High-Quality MOV Files</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-convert-videos-compatible-with-htc-one-and-additional-htc-models/"><u>How to Convert Videos Compatible with HTC One & Additional HTC Models</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oppo-a78-5g-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Oppo A78 5G Phone without Google Account?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-transforming-digital-media-expert-advice-for-macs-dvd-creation/"><u>In 2024, Transforming Digital Media Expert Advice for Mac's DVD Creation</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/macos-1015-top-pdf-tools-and-replacements-for-adobe-acrobat/"><u>MacOS 10.15: Top PDF Tools & Replacements for Adobe Acrobat</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/mastering-the-art-of-highlight-videos-innovative-methods-explored/"><u>Mastering the Art of Highlight Videos: Innovative Methods Explored</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-samsung-galaxy-a24-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Samsung Galaxy A24 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/windows-11-enthusiasts-longing-dashed-as-microsoft-subtly-refuses-extension-offer-cnet-news/"><u>Windows 11 Enthusiasts' Longing Dashed as Microsoft Subtly Refuses Extension Offer | CNET News</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-regular-software-updates/"><u>[New] Regular Software Updates</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-green-tools-shaping-film/"><u>[Updated] 2024 Approved Cutting Edge Green Tools Shaping Film</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/windows-11-10-0xc0000005/"><u>解決 Windows 11 / 10上的 0xC0000005 錯誤：免疫化方法</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209663068-bouncing-back-on-windows-11-file-explorer-scroll-bar-issue-methods-to-fix-it-now/"><u>Bouncing Back on Windows 11 File Explorer Scroll Bar Issue: Methods to Fix It Now</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/comment-faciliter-le-transfert-de-donnees-entre-2-pcs-utilisant-windows-10-une-explication-simple-et-pratique/"><u>Comment Faciliter Le Transfert De Données Entre 2 PCs Utilisant Windows 10 - Une Explication Simple Et Pratique</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/comprendre-le-comportement-des-fichiers-supprimes-sur-une-cle-usb-pourquoi-ils-ne-vont-pas-directement-a-la-corbeille/"><u>Comprendre Le Comportement Des Fichiers Supprimés Sur Une Clé USB : Pourquoi Ils Ne Vont Pas Directement À La Corbeille?</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/disk-tough-ssd-konfiguracja-srednicowa-poznaj-wiadomosc-o-przewodniku/"><u>Disk Tough SSD Konfiguracja Średnicowa - Poznaj Wiadomość O Przewodniku</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/echec-de-la-synchronisation-dropbox-sur-windows-10-resolvez-le-probleme-en-un-clic/"><u>Echec De La Synchronisation Dropbox Sur Windows 10? Résolvez Le Problème en Un Clic!</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-nokia-c32-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/iphone-tips-mastering-video-replay/"><u>IPhone Tips Mastering Video Replay</u></a></li>
+<li><a href="https://fox-links.techidaily.com/premium-clock-selections-for-your-big-day-on-mobile/"><u>Premium Clock Selections for Your Big Day on Mobile</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/regain-access-to-your-lost-wechat-messages-using-icloud-restores-on-ios-devices-a-step-by-step-guide/"><u>Regain Access to Your Lost WeChat Messages Using iCloud Restores on iOS Devices - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-ultimate-guide-to-vivacut-a-detailed-2024-review/"><u>The Ultimate Guide to VivaCut A Detailed 2024 Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unraveling-windows-11-themes-undiscovered-so-far/"><u>Unraveling Windows 11 Themes Undiscovered So Far</u></a></li>
 </ul></div>
 
